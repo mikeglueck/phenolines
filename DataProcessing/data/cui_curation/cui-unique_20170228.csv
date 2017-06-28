@@ -1,0 +1,1592 @@
+cui,cui_name,curated_name,prob,hpo,hpo_name
+C0158782,Congenital anomaly of diaphragm,congenital anomaly of diaphragm,0.011536453070316803,HP:0012252,Abnormal respiratory system morphology
+C0029776,Other specified disorders of bladder, specified disorders of bladder,0.001928940126675196,,
+C0003578,Apnea,,0.003307279399166278,HP:0002104,Apnea
+C1135196,"Heart Failure, Diastolic","heart failure, diastolic",0.0020691825292236186,HP:0001635,Congestive heart failure
+C0494752,Diaphragmatic hernia without mention of obstruction or gangrene,diaphragmatic hernia ,0.004619368724916006,HP:0000776,Congenital diaphragmatic hernia
+C2937300,Congenital hereditary muscular dystrophy,congenital hereditary muscular dystrophy,0.0019860665746216375,HP:0003741,Congenital muscular dystrophy
+C0003977,Aseptic necrosis of head and/or neck of femur,aseptic necrosis of head and/or neck of femur,0.005354796532576309,HP:0010885,Aseptic necrosis
+C0029549,Other conditions due to autosomal anomalies, conditions due to autosomal anomalies,0.006999421967029504,,
+C0029548,Other color vision deficiencies, color vision deficiencies,0.0017137127402885738,HP:0000551,Abnormality of color vision
+C0236826,Developmental expressive language disorder,expressive language delay,0.10038032460660451,HP:0002474,Expressive language delay
+C0231835,Tachypnea,,0.002677403738474435,HP:0002789,Tachypnea
+C0029543,Other chronic allergic conjunctivitis, chronic allergic conjunctivitis,0.004356745309022874,HP:0007879,Allergic conjunctivitis
+C0029546,Other chronic nonalcoholic liver disease, chronic nonalcoholic liver disease,0.0032867973488454774,HP:0001392,Abnormality of the liver
+C0026758,"Multiple congenital anomalies, so described","multiple congenital anomalies, so described",0.014548626512391194,HP:0001627,Abnormal heart morphology
+C0080274,Urinary Retention,,0.004535063786026762,HP:0000016,Urinary retention
+C0032897,Prader-Willi Syndrome,prader-willi syndrome,0.00846943174821428,HP:0001507,Growth abnormality
+C0158659,Other combinations of cleft palate with cleft lip, combinations of cleft palate ,0.002050313907415754,HP:0009099,Median cleft palate
+C0158656,Unilateral incomplete cleft palate with cleft lip,unilateral incomplete cleft palate ,0.01231006177598455,HP:0100334,Unilateral cleft palate
+C0158657,Bilateral complete cleft palate with cleft lip,bilateral complete cleft palate ,0.005825069423899496,HP:0000174,Abnormality of the palate
+C0002171,Alopecia Areata,,0.0018160412446908657,HP:0002229,Alopecia areata
+C0158655,Unilateral complete cleft palate with cleft lip,unilateral complete cleft palate ,0.028720363205855075,HP:0000174,Abnormality of the palate
+C0158652,Unilateral incomplete cleft lip,unilateral incomplete cleft lip,0.007824821684648103,HP:0100333,Unilateral cleft lip
+C0158650,Incomplete bilateral cleft palate,incomplete bilateral cleft palate,0.0011669212471468221,HP:0100337,Bilateral cleft palate
+C0158651,Unilateral complete cleft lip,unilateral complete cleft lip,0.0028255467035784286,HP:0100333,Unilateral cleft lip
+C0009447,Common Variable Immunodeficiency,immunodeficiency,0.02736386093423946,HP:0002721,Immunodeficiency
+C0032781,Posterior rhinorrhea,posterior rhinorrhea,0.002085836986814349,HP:0000366,Abnormality of the nose
+C0489952,"Intestinal infection due to other organism, NEC in ICD9CM","intestinal infection due to  organism,",0.006195399308641921,HP:0004798,Recurrent infection of the gastrointestinal tract
+C0432378,Congenital malformations of other endocrine glands,congenital malformations of  endocrine glands,0.0010414205087994773,HP:0000818,Abnormality of the endocrine system
+C0038450,Stridor,,0.010171489984876063,HP:0010307,Stridor
+C1411876,Developmental arithmetic disorder,,0.01031434990633267,HP:0002442,Dyscalculia
+C0040702,Transient Tic Disorder,transient tic disorder,0.0020440177539011385,HP:0100033,Tics
+C0031192,Persistent Ostium Primum,persistent ostium primum,0.003445367315502374,HP:0010445,Primum atrial septal defect
+C0745890,Reflex sympathetic dystrophy of lower extremity,reflex sympathetic dystrophy of lower extremity,0.0024004850749684507,,
+C0678202,Regional enteritis,regional enteritis,0.005314989594918199,HP:0002242,Abnormality of the intestine
+C0375319,Acute bronchiolitis due to other infectious organisms,acute bronchiolitis due to  infectious organisms,0.023941011868078114,,
+C0030591,Paroxysmal ventricular tachycardia,,0.003673607426552394,HP:0004751,Paroxysmal ventricular tachycardia
+C0029839,Other specified urticaria, specified urticaria,0.001157301832988878,HP:0001025,Urticaria
+C0490052,Other psoriasis and similar disorders excluding psoriatic arthropathy, psoriasis and similar disorders excluding psoriatic arthropathy,0.006059952770188714,,
+C0695252,Other malaise and fatigue, malaise and fatigue,0.0035538816903141228,,
+C0240310,Hypoplasia of the maxilla,,0.0014505218674209434,HP:0000327,Hypoplasia of the maxilla
+C0494574,"Hypertensive renal disease, unspecified, without mention of renal failure","hypertensive renal disease, , ",0.0025193785589852206,HP:0012622,Chronic kidney disease
+C0029837,Other specified types of hydrocele, specified types of hydrocele,0.001607952153503389,HP:0000034,Hydrocele testis
+C0405580,Adrenal cortical hypofunction,adrenal cortical hypofunction,0.002110921413479304,HP:0000834,Abnormality of the adrenal glands
+C0011848,Diabetes Insipidus,,0.0022778450070344417,HP:0000873,Diabetes insipidus
+C0375076,"Lymphosarcoma, unspecified site, extranodal and solid organ sites","lymphosarcoma,  site, extranodal and solid organ sites",0.00703868589649116,,
+C0476228,"Localized superficial swelling, mass, or lump","localized superficial swelling, mass, or lump",0.002097003498479185,,
+C0868868,"Anomalies of foot, not elsewhere classified","anomalies of foot, not elsewhere classified",0.00455560167747526,HP:0001760,Abnormality of the foot
+C0158265,Degeneration of lumbar or lumbosacral intervertebral disc,degeneration of lumbar or lumbosacral intervertebral disc,0.0011992797255800164,HP:0008419,Intervertebral disc degeneration
+C0392646,Herpes simplex without mention of complication,herpes simplex ,0.0013445388725342455,,
+C0409273,"Unspecified joint derangement, ankle and foot"," joint derangement, ankle and foot",0.0020023089769055373,HP:0100491,Abnormality of lower limb joint
+C0751362,Narcolepsy-Cataplexy Syndrome,narcolepsy-cataplexy syndrome,0.0012201149715009654,HP:0002524,Cataplexy
+C0155545,Tympanic membrane conductive hearing loss,tympanic membrane conductive hearing loss,0.0026268066073096906,HP:0000405,Conductive hearing impairment
+C0155544,External ear conductive hearing loss,external ear conductive hearing loss,0.0032028514897114203,HP:0000405,Conductive hearing impairment
+C0155547,Inner ear conductive hearing loss,inner ear conductive hearing loss,0.0010005500058578006,HP:0000405,Conductive hearing impairment
+C0155546,Middle ear conductive hearing loss,middle ear conductive hearing loss,0.0255987675969766,HP:0000405,Conductive hearing impairment
+C0155541,Other otorrhea, otorrhea,0.0042655981861310565,HP:0000359,Abnormality of the inner ear
+C0155540,Ear discharge,ear discharge,0.004150150975947572,HP:0000598,Abnormality of the ear
+C0023895,Liver diseases,liver diseases,0.001451089021319756,HP:0001392,Abnormality of the liver
+C0155548,Conductive hearing loss of combined types,conductive hearing loss of combined types,0.0016966646388417725,HP:0000405,Conductive hearing impairment
+C2874892,"Bipolar disorder, current episode mixed, moderate","bipolar disorder,  mixed, moderate",0.0032401077802090266,HP:0007302,Bipolar affective disorder
+C0027868,Neuromuscular Diseases,neuromuscular diseases,0.001727851716595929,HP:0003011,Abnormality of the musculature
+C0036416,Scleritis,,0.0023509679636699145,HP:0100532,Scleritis
+C0003872,"Arthritis, Psoriatic","arthritis, psoriatic",0.0019743081088707533,HP:0011123,Inflammatory abnormality of the skin
+C0019555,"Hip Dislocation, Congenital",,0.0013099400859555347,HP:0001385,Hip dysplasia
+C0030312,Pancytopenia,,0.0011712630417178226,HP:0001876,Pancytopenia
+C0431725,Other specified anomalies of ureter, specified anomalies of ureter,0.002179073505231988,HP:0000069,Abnormality of the ureter
+C0037785,Specific developmental disorder,specific developmental disorder,0.030001280085590856,HP:0000729,Autistic behavior
+C0159132,Nonspecific abnormal toxicological findings,nonspecific abnormal toxicological findings,0.0014163378609306806,HP:0001939,Abnormality of metabolism/homeostasis
+C0159135,Other abnormal clinical findings, abnormal clinical findings,0.006596431344394419,HP:0000707,Abnormality of the nervous system
+C0155948,Other diseases and conditions of the teeth and supporting structures, diseases and conditions of the teeth and supporting structures,0.004565020199172244,HP:0006481,Abnormality of primary teeth
+C0155120,"Corneal Dystrophy, Band-Shaped",,0.002137693513748061,HP:0007709,Band-shaped corneal dystrophy
+C0154434,"Bipolar I disorder, most recent episode (or current) mixed, in partial or unspecified remission","bipolar disorder,  mixed, ",0.0017005451154365528,HP:0007302,Bipolar affective disorder
+C0154432,"Bipolar I disorder, most recent episode (or current) mixed, severe, without mention of psychotic behavior","bipolar disorder,  mixed, severe, ",0.0011460332144240782,HP:0007302,Bipolar affective disorder
+C0154433,"Bipolar I disorder, most recent episode (or current) mixed, severe, specified as with psychotic behavior","bipolar disorder,  mixed, severe, specified as ",0.0015838107212527962,HP:0007302,Bipolar affective disorder
+C0155947,Dentofacial anomaly,dentofacial anomaly,0.0010004337352638277,HP:0000271,Abnormality of the face
+C0375094,"Other malignant lymphomas, unspecified site, extranodal and solid organ sites"," malignant lymphomas,  site, extranodal and solid organ sites",0.009574800383978175,HP:0012539,Non-Hodgkin lymphoma
+C0041857,unspecified nonpsychotic mental disorder, nonpsychotic mental disorder,0.006595647067971022,HP:0000708,Behavioral abnormality
+C1306306,Contracture of hip joint,contracture of hip joint,0.00556108743669377,HP:0003273,Hip contracture
+C0236827,Mixed receptive-expressive language disorder,language delay,0.049963946919666234,HP:0000750,Delayed speech and language development
+C0153876,Acute lymphoid leukemia in remission,acute lymphoid leukemia in remission,0.0013549076228090231,HP:0005531,Biphenotypic acute leukaemia
+C1456066,Allergic rhinitis due to animal (cat) (dog) hair and dander,allergic rhinitis due to animal (cat) (dog) hair and dander,0.01399545628612099,,
+C0019158,Hepatitis,,0.0015751956633628338,HP:0012115,Hepatitis
+C0024508,Major anomaly of jaw size,major anomaly of jaw size,0.0013406709582304624,,
+C0079157,Reduction deformities of brain,reduction deformities of brain,0.01136506070016283,HP:0012443,Abnormality of brain morphology
+C0008475,Chondromalacia Patellae,chondromalacia patellae,0.0024036114370306486,,
+C0553604,Myotonic Disorders,myotonic disorders,0.0010285080882122143,,
+C0024713,Manic Disorder,mania,0.0018822206803477675,HP:0100754,Mania
+C0008297,Choanal Atresia,,0.0076047936084852105,HP:0000453,Choanal atresia
+C0728936,Disorder of circulatory system,disorder of circulatory system,0.004677244329546067,HP:0011025,Abnormality of cardiovascular system physiology
+C0156157,Other specified intestinal obstruction, specified intestinal obstruction,0.0012906681210288998,HP:0005214,Intestinal obstruction
+C0156158,Intestinal or peritoneal adhesions with obstruction (postoperative) (postinfection),intestinal or peritoneal adhesions ,0.0010248253316070446,HP:0002242,Abnormality of the intestine
+C0004352,Autistic Disorder,,0.04067409114721535,HP:0000717,Autism
+C0157687,"Carbuncle and furuncle of leg, except foot","carbuncle and furuncle of leg, except foot",0.00199687770590775,,
+C0158463,Other acquired deformities of limbs, acquired deformities of limbs,0.008656608471702928,HP:0002814,Abnormality of the lower limb
+C0740179,Bone marrow replaced by transplant,bone marrow replaced by transplant,0.002828081653941776,,
+C0021831,Intestinal Diseases,,0.0017302318539492935,HP:0002242,Abnormality of the intestine
+C0021830,Intestinal disaccharidase deficiencies and disaccharide malabsorption,intestinal disaccharidase deficiencies and disaccharide malabsorption,0.001905833482882177,HP:0002242,Abnormality of the intestine
+C0040259,Tinea Pedis,tinea pedis,0.004685590243930435,HP:0100847,Palmoplantar pustulosis
+C2712941,Disorder of stomach function and feeding problems in newborn,disorder of stomach function and feeding problems in newborn,0.0062486377135215305,HP:0011968,Feeding difficulties
+C0032310,"Pneumonia, Viral","pneumonia, viral",0.0010095126218789819,,
+C0033774,Pruritus,,0.0012146215918563382,HP:0000989,Pruritus
+C0033770,Prune Belly Syndrome,,0.0013268750029678702,HP:0004392,Prune belly
+C0042109,Urticaria,,0.003091598958581619,HP:0001025,Urticaria
+C1260466,Long-term (current) use of steroids,long-term (current) use of steroids,0.0010797873598438618,,
+C0154634,Mixed development disorder,neurodevelopmental delay,0.05667773156650399,HP:0012758,Neurodevelopmental delay
+C0080178,Spina Bifida,,0.0010935569984843678,HP:0002414,Spina bifida
+C0003811,Cardiac Arrhythmia,,0.028271698555844722,HP:0011675,Arrhythmia
+C0018991,Hemiplegia,,0.004245497098110945,HP:0002301,Hemiplegia
+C0158795,Other and unspecified congenital anomalies, and  congenital anomalies,0.0010527689072155118,HP:0001627,Abnormal heart morphology
+C0158794,Balanced autosomal translocation in normal individual,balanced autosomal translocation in normal individual,0.0011467596927104353,,
+C0261974,Suicide and self-inflicted injury by other specified means,suicide and self-inflicted injury by  specified means,0.006268111115240188,,
+C0495615,Congenital abnormality of skull and face bones,congenital abnormality of skull and face bones,0.045540434504289205,HP:0000929,Abnormality of the skull
+C0395986,Other chronic sinusitis, chronic sinusitis,0.0020545437738411945,HP:0011109,Chronic sinusitis
+C0032227,Pleural effusion disorder,,0.006774399167805035,HP:0002202,Pleural effusion
+C0014761,"Erythroblastosis, Fetal","erythroblastosis, fetal",0.0010957051308974398,HP:0001197,Abnormality of prenatal development or birth
+C0003962,Ascites,,0.0010519686812234794,HP:0001541,Ascites
+C0002170,Alopecia,,0.0014916651549432367,HP:0001596,Alopecia
+C0013238,Dry Eye Syndromes,dry eye syndromes,0.002137693513748061,HP:0001097,Keratoconjunctivitis sicca
+C0029534,Other cerebellar ataxia, cerebellar ataxia,0.0015548275646020784,HP:0001251,Ataxia
+C0949141,Intraventricular hemorrhage unspecified grade,intraventricular hemorrhage  grade,0.0019206143333733243,HP:0011695,Cerebellar hemorrhage
+C0949143,"Intraventricular hemorrhage, grade II","intraventricular hemorrhage, grade ii",0.001431384839448682,,
+C2712365,Unspecified voice and resonance disorder, voice and resonance disorder,0.0010358821456025724,,
+C2712366,Other voice and resonance disorders, voice and resonance disorders,0.0039268892997735075,,
+C0302397,"Other hamartoses, not elsewhere classified"," hamartoses, not elsewhere classified",0.008067681468521345,,
+C0235238,Cycloplegia,cycloplegia,0.002380315769540983,HP:0000553,Abnormality of the uvea
+C0158644,Congenital anomaly of lung,congenital anomaly of lung,0.001790556997726707,HP:0002088,Abnormality of the lung
+C0158646,Cleft palate with cleft lip,cleft palate ,0.011534555048203133,HP:0000175,Cleft palate
+C0009451,Communicating Hydrocephalus,,0.0031982155837360564,HP:0001334,Communicating hydrocephalus
+C0158648,Unilateral incomplete cleft palate,unilateral incomplete cleft palate,0.004250185832683164,HP:0100334,Unilateral cleft palate
+C0154154,"Thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm",thyrotoxicosis ,0.0019363652449199149,HP:0000836,Hyperthyroidism
+C0029443,Osteomyelitis,,0.0022064023412096544,HP:0002754,Osteomyelitis
+C0151699,Intracranial Hemorrhages,,0.0019008399191706008,HP:0002170,Intracranial hemorrhage
+C0869256,Mixed urinary incontinence,mixed urinary incontinence,0.010497465736671797,HP:0000020,Urinary incontinence
+C0494362,Other specified metabolic disorders, specified metabolic disorders,0.003547828675509711,,
+C0695242,Neurogenic Bowel,neurogenic bowel,0.001097011490727759,HP:0002242,Abnormality of the intestine
+C0695241,Other complications of gastrostomy, complications of gastrostomy,0.0024705632228767447,HP:0012718,Morphological abnormality of the gastrointestinal tract
+C0695240,Mechanical complication of gastrostomy,mechanical complication of gastrostomy,0.0015017492354889726,,
+C0029844,Other specified visual disturbances, specified visual disturbances,0.0020143468655271822,,
+C0220704,Shprintzen syndrome,shprintzen syndrome,0.0023951352101068326,,
+C0029841,Other specified viral exanthemata, specified viral exanthemata,0.00105020723675172,HP:0000988,Skin rash
+C0029842,Other specified viral infection, specified viral infection,0.0014768859344344795,HP:0002719,Recurrent infections
+C0007645,Cellulitis and abscess NOS (disorder),cellulitis and abscess nos (disorder),0.009704963407447087,,
+C0006267,Bronchiectasis,,0.0023500750377105023,HP:0002110,Bronchiectasis
+C0155332,Alternating exotropia with V pattern,alternating exotropia ,0.004239915490525032,HP:0001137,Alternating esotropia
+C0155471,Atrophic nonflaccid tympanic membrane,atrophic nonflaccid tympanic membrane,0.002350232029500745,,
+C0431467,Other anomalies of external ear with impairment of hearing, anomalies of external ear ,0.001538641499618988,HP:0000356,Abnormality of the outer ear
+C0039685,Tetralogy of Fallot,,0.046704076549709636,HP:0001636,Tetralogy of Fallot
+C0158255,Displacement of lumbar intervertebral disc without myelopathy,displacement of lumbar intervertebral disc ,0.0011992797255800164,HP:0000925,Abnormality of the vertebral column
+C0020575,Hypertropia,hypertropia,0.003733143268110641,HP:0000486,Strabismus
+C0029668,Other mucopurulent conjunctivitis, mucopurulent conjunctivitis,0.0019268353741687813,HP:0003781,Excessive salivation
+C0029669,Other musculoskeletal symptoms referable to limbs, musculoskeletal symptoms referable to limbs,0.001237594089416364,HP:0012638,Abnormality of nervous system physiology
+C0271468,Eustachian tube disorder,eustachian tube disorder,0.0819248340392954,HP:0040115,Abnormality of the Eustachian tube
+C0027092,Myopia,,0.011880950693719184,HP:0000545,Myopia
+C0302378,"Chronic airway obstruction, NEC in ICD9CM_2014","chronic airway obstruction,",0.0032347508862999503,,
+C0302379,"Other pulmonary insufficiency, NEC in ICD9CM"," pulmonary insufficiency,",0.006073653541014048,HP:0010444,Pulmonary insufficiency
+C0302371,"Other and unspecified special symptoms or syndromes, NEC in ICD9CM_2014"," and  special symptoms or syndromes,",0.031055137279126777,HP:0000708,Behavioral abnormality
+C0023976,Long QT Syndrome,long qt syndrome,0.0026872686536835565,HP:0001657,Prolonged QT interval
+C0452138,"Sensorineural hearing loss, bilateral",,0.0034115527593974863,HP:0008619,Bilateral sensorineural hearing impairment
+C0154338,Other persistent mental disorders due to conditions classified elsewhere, persistent mental disorders due to conditions classified elsewhere,0.0012378148551224104,,
+C0158328,Trigger Finger Disorder,trigger finger disorder,0.0016265963236880105,,
+C0270805,Hemiplegic cerebral palsy,hemiplegic cerebral palsy,0.01722173870062714,HP:0100021,Cerebral palsy
+C0341089,Other functional disorders of intestine, functional disorders of intestine,0.00558973641314298,HP:0002242,Abnormality of the intestine
+C0155840,Hypertrophy of nasal turbinates,hypertrophy of nasal turbinates,0.001358099859956029,HP:0000366,Abnormality of the nose
+C0155847,Unilateral partial vocal cord paralysis,unilateral  vocal cord paralysis,0.0023120498111541426,HP:0008757,Unilateral vocal cord paralysis
+C0155849,Bilateral partial vocal cord paralysis,bilateral  vocal cord paralysis,0.0010369321926885465,HP:0012820,Bilateral vocal cord paralysis
+C0339711,Legal blindness USA,legal blindness usa,0.0036384182891174076,,
+C0155118,Corneal degeneration,,0.0011967060627101499,HP:0007705,Corneal degeneration
+C0154421,"Bipolar I disorder, most recent episode (or current) manic, in partial or unspecified remission","bipolar disorder,  ",0.005924342949938072,HP:0007302,Bipolar affective disorder
+C0154420,"Bipolar I disorder, most recent episode (or current) manic, severe, specified as with psychotic behavior","bipolar disorder,  severe, specified as ",0.004745934461141735,HP:0007302,Bipolar affective disorder
+C0155938,"Dentofacial anomalies, including malocclusion","dentofacial anomalies, including malocclusion",0.0010607566776414169,,
+C0155939,Dental arch relationship anomaly,dental arch relationship anomaly,0.0017452985444536533,,
+C0154426,"Bipolar I disorder, most recent episode (or current) depressed, severe, without mention of psychotic behavior","bipolar disorder,  severe, ",0.0044903670034504095,HP:0007302,Bipolar affective disorder
+C0155934,Acute apical periodontitis of pulpal origin,acute apical periodontitis of pulpal origin,0.001281256972110297,,
+C0154428,"Bipolar I disorder, most recent episode (or current) depressed, in partial or unspecified remission","bipolar disorder,  ",0.002260754975045758,HP:0007302,Bipolar affective disorder
+C0155680,Other and unspecified acute pericarditis, and  acute pericarditis,0.0010183309463082989,HP:0001701,Pericarditis
+C0155930,Tooth Ankylosis,tooth ankylosis,0.0014988833366807461,,
+C0158698,Congenital malformation of the urinary system,congenital malformation of the urinary system,0.0030893575432734983,HP:0000079,Abnormality of the urinary system
+C0004610,Bacteremia,bacteremia,0.001956556955521752,HP:0010978,Abnormality of immune system physiology
+C0158699,Renal agenesis and dysgenesis,renal agenesis and dysgenesis,0.007638203426281685,,
+C0036689,Streptococcal sore throat,streptococcal sore throat,0.005699071526131785,,
+C0154825,Retinal round hole without detachment,retinal round hole ,0.001381204555596166,,
+C0375377,"Vesicoureteral reflux with reflux nephropathy, unilateral",vesicoureteral reflux ,0.0025254895884644487,HP:0000076,Vesicoureteral reflux
+C0162678,Neurofibromatoses,,0.005405713666260401,HP:0001067,Neurofibromas
+C0221540,Other alteration of consciousness, alteration of consciousness,0.004241002535788907,HP:0004372,Reduced consciousness/confusion
+C0155066,"Unqualified visual loss, one eye","unqualified visual loss, one eye",0.002407592910950118,,
+C0004106,Astigmatism,,0.00818120929415827,HP:0000483,Astigmatism
+C0159906,"Fracture of one or more phalanges of foot, closed","fracture of one or more phalanges of foot, closed",0.001572194918603623,,
+C0490053,"Reduction deformities of upper limb, congenital, longitudinal deficiency, phalanges, complete or partial","reduction deformities of upper limb, congenital, longitudinal deficiency, phalanges, complete or ",0.0014280871324443148,,
+C0042029,Urinary tract infection,urinary tract infection,0.01474720029125667,HP:0000010,Recurrent urinary tract infections
+C0042024,Urinary Incontinence,,0.026623416739472293,HP:0000020,Urinary incontinence
+C1456298,Mood disorder in conditions classified elsewhere,depression in conditions classified elsewhere,0.0017645100268120373,HP:0000708,Behavioral abnormality
+C1456299,Anxiety disorder in conditions classified elsewhere,anxiety disorder in conditions classified elsewhere,0.001026225630425378,,
+C0042023,Increased frequency of micturition,,0.00883588577444549,HP:0100515,Pollakisuria
+C0005741,Blepharitis,,0.00434432894886721,HP:0000498,Blepharitis
+C0005745,Blepharoptosis,,0.002363802802341186,HP:0000508,Ptosis
+C0021447,"Inguinal hernia, without mention of obstruction or gangrene","inguinal hernia, ",0.0013013204506969647,HP:0000023,Inguinal hernia
+C0005411,Biliary Atresia,,0.0010425225547773514,HP:0005242,Extrahepatic biliary duct atresia
+C0157696,Cellulitis and abscess of face,cellulitis and abscess of face,0.0018191329254644251,HP:0010771,Pilonidal abscess
+C0157694,Onychia and paronychia of toe,onychia and paronychia of toe,0.0032104887482436685,HP:0001597,Abnormality of the nail
+C0157691,Cellulitis and abscess of finger,cellulitis and abscess of finger,0.0016287892209369368,,
+C0153517,Malignant neoplasm of long bones of lower limb,malignant neoplasm of long bones of lower limb,0.005597017372727106,HP:0011793,Neoplasm by anatomical site
+C1456270,Fatty acid oxidation disorder,fatty acid oxidation disorder,0.0022632512912320593,HP:0004359,Abnormality of fatty-acid metabolism
+C1456275,disorder of mitochondrial metabolism,disorder of mitochondrial metabolism,0.00593168377846582,HP:0003287,Abnormality of mitochondrial metabolism
+C0157699,Cellulitis and abscess of upper arm and forearm,cellulitis and abscess of upper arm and forearm,0.002703720550466208,,
+C0157698,Cellulitis and abscess of trunk,cellulitis and abscess of trunk,0.0018153903005923536,HP:0010771,Pilonidal abscess
+C0021843,Intestinal Obstruction,,0.0013311452022467926,HP:0005214,Intestinal obstruction
+C2607914,Allergic rhinitis (disorder),,0.015801058995281107,HP:0003193,Allergic rhinitis
+C0014089,Functional encopresis,functional encopresis,0.01692547986848457,HP:0040183,Encopresis
+C0018051,Gonadal Dysgenesis,,0.0026635579846063014,HP:0000133,Gonadal dysgenesis
+C0156345,Endometriosis of pelvic peritoneum,endometriosis of pelvic peritoneum,0.001007752823751164,,
+C0022548,Keloid,,0.0016247404390593992,HP:0010562,Keloids
+C1260873,Aortic valve disorder,aortic valve disorder,0.0037949787966676737,,
+C1258666,Myxoid cyst,myxoid cyst,0.0015835706440494163,HP:0011792,Neoplasm by histology
+C0264492,Chronic respiratory failure,chronic respiratory failure,0.0019321734660033764,HP:0002878,Respiratory failure
+C0264490,Acute respiratory failure,acute respiratory failure,0.0020239158940303014,HP:0002093,Respiratory insufficiency
+C0008686,Chronic glomerulonephritis with lesion of membranous glomerulonephritis,chronic glomerulonephritis ,0.006141643444171536,HP:0000099,Glomerulonephritis
+C0027703,"Nephritis and nephropathy, not specified as acute or chronic, with unspecified pathological lesion in kidney","nephritis and nephropathy, not specified as acute or chronic, ",0.001566803983336501,,
+C0027702,Nephritis NEC in ICD9CM_2014,nephritis,0.0015151548594257614,HP:0000123,Nephritis
+C0026654,Moyamoya Disease,moyamoya disease,0.003553941010275167,HP:0011834,Moyamoya phenomenon
+C0033893,Tension Headache,,0.002597101464951392,HP:0012228,Tension-type headache
+C0013221,Drug toxicity,drug toxicity,0.0016005056458834601,HP:0000708,Behavioral abnormality
+C0700625,"Allergy, unspecified, NEC in ICD9CM","allergy, ,",0.01757508914948613,HP:0012393,Allergy
+C0028850,Ocular Motility Disorders,ocular motility disorders,0.0026254479103179373,HP:0000496,Abnormality of eye movement
+C0029523,Other B-complex deficiencies, b-complex deficiencies,0.0031846505345510846,,
+C0029520,Other anomalies of great veins, anomalies of great veins,0.013957335142836896,HP:0002597,Abnormality of the vasculature
+C0017181,Gastrointestinal Hemorrhage,,0.0023989984799120006,HP:0002239,Gastrointestinal hemorrhage
+C1456323,Personality change due to conditions classified elsewhere,personality change due to conditions classified elsewhere,0.0010589226827028555,,
+C0006277,Bronchitis,,0.0014556393790826226,HP:0012387,Bronchitis
+C1955545,infection due to central venous catheter,infection due to central venous catheter,0.0022571619448180725,,
+C0158632,Anomalies of great veins,anomalies of great veins,0.0025901469668799275,HP:0002597,Abnormality of the vasculature
+C0158638,Congenital anomaly of cerebrovascular system,congenital anomaly of cerebrovascular system,0.003209400417302742,,
+C0029456,Osteoporosis,,0.009175876935261095,HP:0000939,Osteoporosis
+C0020565,Hypertrophy of Breast,,0.019738297504615594,HP:0010313,Breast hypertrophy
+C0160908,Superficial injury of conjunctiva,superficial injury of conjunctiva,0.0012021605024863445,HP:0000228,Oral cavity telangiectasia
+C0030805,Bullous pemphigoid,bullous pemphigoid,0.0015250427630723994,,
+C0375336,Iatrogenic pneumothorax,iatrogenic pneumothorax,0.0016482206830440035,,
+C2349432,"Migraine with aura, without mention of intractable migraine without mention of status migrainosus",migraine ,0.0035879586469954746,HP:0002076,Migraine
+C0009733,"Tracheoesophageal fistula, esophageal atresia and stenosis","tracheoesophageal fistula, esophageal atresia and stenosis",0.00278836066356113,HP:0002575,Tracheoesophageal fistula
+C0029858,Other testicular hypofunction, testicular hypofunction,0.002735081816535053,HP:0000035,Abnormality of the testis
+C2349438,"Migraine without aura, without mention of intractable migraine without mention of status migrainosus",migraine ,0.0071272586562045655,HP:0002076,Migraine
+C2349439,"Migraine without aura, with intractable migraine, so stated, without mention of status migrainosus",migraine ,0.0010132050702479688,HP:0002076,Migraine
+C0029855,Other symptoms involving head and neck, symptoms involving head and neck,0.00397659818079327,HP:0000464,Abnormality of the neck
+C0009081,Congenital clubfoot,,0.010153571471534223,HP:0001762,Talipes equinovarus
+C0261686,Inhalation and ingestion of other object causing obstruction of respiratory tract or suffocation,inhalation and ingestion of  object causing obstruction of respiratory tract or suffocation,0.0011458689938048457,,
+C0153661,Malignant neoplasm of thorax,malignant neoplasm of thorax,0.002806958111976258,HP:0002664,Neoplasm
+C0006705,Calcium Metabolism Disorders,calcium metabolism disorders,0.0023615541639289334,,
+C0009952,Febrile Convulsions,,0.009747541419921124,HP:0002373,Febrile seizures
+C0260774,Care involving orthoptic training,care involving orthoptic training,0.002033867054160513,,
+C0155325,Alternating esotropia with A pattern,alternating esotropia ,0.0018444186317821097,HP:0001137,Alternating esotropia
+C0155326,Alternating esotropia with V pattern,alternating esotropia ,0.001839518897678736,HP:0001137,Alternating esotropia
+C0476206,Dizziness and giddiness symptoms,dizziness and giddiness symptoms,0.00454691018860149,HP:0002321,Vertigo
+C0155320,"Blindness, Cortical","blindness, cortical",0.005456777603913309,HP:0100704,Cortical visual impairment
+C0917981,Progressive Muscular Atrophy,progressive muscular atrophy,0.0012153157602736984,,
+C0003044,Animal bite,animal bite,0.001038709526968244,,
+C0027066,Myoclonus,,0.001043773536622757,HP:0001336,Myoclonus
+C1561639,"Chronic kidney disease, stage 2 (mild)","chronic kidney disease, stage 2 (mild)",0.0010725276574985172,,
+C1561638,"Chronic kidney disease, Stage I","chronic kidney disease, stage i",0.0026376908927845098,HP:0012622,Chronic kidney disease
+C0149931,Migraine Disorders,,0.0019371228778992022,HP:0002076,Migraine
+C0749794,"Upper Extremity Deformities, Congenital","upper extremity deformities, congenital",0.0021723223555178447,,
+C0158335,Ganglion of tendon sheath,ganglion of tendon sheath,0.0016890567495022326,HP:0000759,Abnormal peripheral nervous system morphology
+C0085655,Polymyositis,polymyositis,0.0011480221857488309,HP:0100614,Myositis
+C0002453,Amenorrhea,amenorrhea,0.002716123809364059,HP:0000141,Amenorrhea
+C0854248,Pneumonia due to Gram negative bacteria,pneumonia due to gram negative bacteria,0.0010172069848477655,HP:0005420,Recurrent gram-negative bacterial infections
+C0039145,Syringomyelia and syringobulbia,syringomyelia and syringobulbia,0.0021790240802059034,HP:0003396,Syringomyelia
+C0015263,"Bronchospasm, Exercise-Induced","bronchospasm, exercise-induced",0.001665371217519728,,
+C0154632,Developmental speech or language disorder,delayed speech or language disorder,0.09047944141244763,HP:0000750,Delayed speech and language development
+C0154633,Other developmental speech or language disorder, delayed speech or language disorder,0.021002917445940024,HP:0000750,Delayed speech and language development
+C0020490,Hyperopia,,0.008611957512973022,HP:0000540,Hypermetropia
+C0154635,Other specified delays in development, specified delays in development,0.06045787484128528,HP:0001263,Global developmental delay
+C0154637,"psychic; factor, associated with diseases classified elsewhere","psychic; factor, associated ",0.008053264112507888,,
+C0155852,Other diseases of vocal cords, diseases of vocal cords,0.0032619326298830398,HP:0008777,Abnormality of the vocal cords
+C0155850,Bilateral total vocal cord paralysis,bilateral total vocal cord paralysis,0.0010369321926885465,HP:0012820,Bilateral vocal cord paralysis
+C0677607,Hashimoto Disease,,0.003655903392454104,HP:0000872,Hashimoto thyroiditis
+C0431705,Other specified cystic kidney disease, specified cystic kidney disease,0.0021575762217236295,HP:0000107,Renal cyst
+C0159117,Nonspecific abnormal results of other endocrine function study,nonspecific abnormal results of  endocrine function study,0.0017968412659086566,HP:0000818,Abnormality of the endocrine system
+C0154455,Other anxiety states, anxiety,0.0015021683956879372,HP:0000739,Anxiety
+C0155699,Cardiomyopathy in other diseases classified elsewhere,cardiomyopathy in  diseases classified elsewhere,0.0011715376802774458,,
+C0154451,"Other specified pervasive developmental disorders, current or active state"," specified pervasive developmental disorders, ",0.4768151232543797,HP:0000729,Autistic behavior
+C0154452,"Other specified pervasive developmental disorders, residual state"," specified pervasive developmental disorders, ",0.0031980867324355733,HP:0000729,Autistic behavior
+C0154453,"Unspecified childhood psychosis, current or active state"," psychosis, ",0.23321680232579745,HP:0000709,Psychosis
+C1320640,Peripheral degeneration of retina,,0.002318154799584864,HP:0007769,Peripheral retinal degeneration
+C0266436,Congenital chordee,congenital chordee,0.003233947298372217,HP:0000041,Chordee
+C0155921,Tracheostomy complication,tracheostomy complication,0.0020811725105451336,HP:0002087,Abnormality of the upper respiratory tract
+C0004604,Back Pain,,0.0037105827372967363,HP:0003418,Back pain
+C0038002,Splenomegaly,,0.001244105676418258,HP:0001744,Splenomegaly
+C0008924,Cleft Lip,,0.0010580972296810821,HP:0000204,Cleft upper lip
+C0008925,Cleft Palate,,0.021639285640341517,HP:0000175,Cleft palate
+C0549470,Preglaucoma,preglaucoma,0.001868597476822195,HP:0000501,Glaucoma
+C0348751,Other specified diseases of liver, specified diseases of liver,0.0014566114636134734,HP:0001392,Abnormality of the liver
+C0024005,Acquired postural lordosis,acquired postural lordosis,0.001910097439616546,HP:0012638,Abnormality of nervous system physiology
+C0024004,Acquired lordosis,acquired lordosis,0.001000083669342074,HP:0003307,Hyperlordosis
+C0155831,Hypertrophy of tonsils alone,hypertrophy of tonsils alone,0.004454799722926662,HP:0100765,Abnormality of the tonsils
+C1879328,Blindness both eyes NOS (disorder),blindness both eyes nos (disorder),0.0069077381719886855,,
+C3161330,Profound intellectual disabilities,,0.0020641240175836143,HP:0002187,"Intellectual disability, profound"
+C3161331,Unspecified intellectual disabilities, intellectual disabilities,0.03756434727557236,HP:0001249,Intellectual disability
+C0015300,Exophthalmos,,0.0034580352792529657,HP:0000520,Proptosis
+C2911064,"Body mass index (BMI) pediatric, 5th percentile to less than 85th percentile for age","body mass index (bmi) pediatric, 5th percentile to less than 85th percentile for age",0.011090462613940876,,
+C2911065,"Body mass index (BMI) pediatric, 85th percentile to less than 95th percentile for age","body mass index (bmi) pediatric, 85th percentile to less than 95th percentile for age",0.0024989062610657714,,
+C2911066,"Body mass index (BMI) pediatric, greater than or equal to 95th percentile for age","body mass index (bmi) pediatric, greater than or equal to 95th percentile for age",0.007239713617380244,HP:0001518,Small for gestational age
+C0001541,Adjustment disorder with mixed disturbance of emotions AND conduct,adjustment disorder ,0.010932281154950964,HP:0000708,Behavioral abnormality
+C2911063,"Body mass index (BMI) pediatric, less than 5th percentile for age","body mass index (bmi) pediatric, less than 5th percentile for age",0.002404988144342212,,
+C0260808,Unspecified psychosocial circumstance, psychosocial circumstance,0.0011607883171628156,HP:0000708,Behavioral abnormality
+C0150045,Urge Incontinence,urge incontinence,0.004386171332148869,HP:0000020,Urinary incontinence
+C0042580,Vesico-Ureteral Reflux,,0.0024944832465254407,HP:0000076,Vesicoureteral reflux
+C0025289,Meningitis,,0.001856494672836239,HP:0001287,Meningitis
+C0153987,"Benign neoplasm of skin of trunk, excluding scrotum","benign neoplasm of skin of trunk, excluding scrotum",0.009056119954251166,,
+C0042341,Varicocele,,0.013166468418251703,HP:0012871,Varicocele
+C0153985,Benign neoplasm of skin of other and unspecified parts of face,benign neoplasm of skin of  and  parts of face,0.0035523986138880233,HP:0008069,Neoplasm of the skin
+C0024649,Malposition of heart and cardiac apex,malposition of heart and cardiac apex,0.008735240106942,HP:0001627,Abnormal heart morphology
+C0036690,Septicemia,,0.0059251329145884124,HP:0100806,Sepsis
+C0153989,Benign neoplasm of skin of hip and lower limb,benign neoplasm of skin of hip and lower limb,0.004757128680105646,,
+C0153988,Benign neoplasm of skin of upper limb or shoulder NOS,benign neoplasm of skin of upper limb or shoulder nos,0.001803324502531035,HP:0011793,Neoplasm by anatomical site
+C0039319,Tarsal Tunnel Syndrome,tarsal tunnel syndrome,0.0011433633043443534,HP:0009810,Abnormality of upper limb joint
+C0158407,"Periostitis, without mention of osteomyelitis, multiple sites","periostitis, ",0.001784470660610395,HP:0040165,Periostitis
+C0025517,Metabolic Diseases,metabolic diseases,0.00806028818069233,HP:0001939,Abnormality of metabolism/homeostasis
+C0159805,Closed ill-defined fractures of upper limb,closed ill-defined fractures of upper limb,0.0010062734509576744,,
+C1719694,Attention to dressings and sutures,attention to dressings and sutures,0.006827936548175986,HP:0000159,Abnormality of the lip
+C0587245,Complication of gastrostomy,complication of gastrostomy,0.0016873777690962625,,
+C0348586,Other secondary hypertension, secondary hypertension,0.0014183886816621387,,
+C0026393,Molluscum Contagiosum,molluscum contagiosum,0.002824536840924656,HP:0000951,Abnormality of the skin
+C0153986,Benign neoplasm of scalp and skin of neck,benign neoplasm of scalp and skin of neck,0.007643147601830331,HP:0008069,Neoplasm of the skin
+C0272443,"Elbow, forearm, and wrist injury","elbow, forearm, and wrist injury",0.0015909535495491779,HP:0009811,Abnormality of the elbow
+C1260404,primary hypercoagulable state,primary hypercoagulable state,0.003218380237511759,HP:0100724,Hypercoagulability
+C1260408,Encephalopathy NEC in ICD10CM,encephalopathy,0.002072098744098141,HP:0001298,Encephalopathy
+C1260409,myasthenia gravis without acute exacerbation,myasthenia gravis ,0.0016698990922874642,HP:0003473,Fatigable weakness
+C0008701,Chronic Motor or Vocal Tic Disorder,chronic motor or vocal tic disorder,0.007232432477507099,HP:0100035,Phonic tics
+C0263840,Haemarthrosis involving lower leg,haemarthrosis involving lower leg,0.0017447923765850316,,
+C0040188,Tic disorder,tic disorder,0.012156002839719997,HP:0100033,Tics
+C0028738,Nystagmus,,0.006916198688048306,HP:0000639,Nystagmus
+C0158537,"Spina bifida, without mention of hydrocephalus, lumbar region","spina bifida, ",0.002314237468896335,HP:0002414,Spina bifida
+C0158534,"Spina bifida without mention of hydrocephalus, site unspecified",spina bifida ,0.014778004473458225,HP:0002414,Spina bifida
+C0002019,Dyslexia and alexia,dyslexia,0.005524747156725564,HP:0010522,Dyslexia
+C0496899,"Benign neoplasm of brain, unspecified","benign neoplasm of brain, ",0.001980181237854491,HP:0030692,Brain neoplasm
+C2937358,Cerebral Hemorrhage,,0.002666481351843541,HP:0001342,Cerebral hemorrhage
+C0877771,"Angioneurotic edema, NEC in ICD9CM_2014","angioneurotic edema,",0.001556335721959664,HP:0100665,Angioedema
+C0263687,Pyogenic arthritis involving lower leg,pyogenic arthritis involving lower leg,0.0011460739996308963,,
+C0029512,Other and unspecified noninfectious gastroenteritis and colitis,gastrointestinal inflammation,0.023229960510543542,HP:0004386,Gastrointestinal inflammation
+C0029513,Other and unspecified ovarian cysts, and  ovarian cysts,0.0014491482308733497,HP:0000138,Ovarian cyst
+C0029516,Other and unspecified reactive psychosis, and  reactive psychosis,0.0015820281155926588,HP:0000708,Behavioral abnormality
+C0028841,Ocular Hypotension,ocular hypotension,0.0014181445298091936,HP:0002615,Hypotension
+C0029515,Other and unspecified postsurgical nonabsorption, and  postsurgical nonabsorption,0.0025684503116357124,,
+C0432162,Congenital spondylolysis of lumbosacral region,congenital spondylolysis of lumbosacral region,0.0016158527233740422,HP:0000925,Abnormality of the vertebral column
+C0700639,"Pyloric Stenosis, Hypertrophic","pyloric stenosis, hypertrophic",0.005117832088644064,HP:0002021,Pyloric stenosis
+C2939130,Other bacterial diseases, bacterial diseases,0.0013137716089608557,HP:0002718,Recurrent bacterial infections
+C0026703,Mucopolysaccharidoses,mucopolysaccharidoses,0.010534768187490183,,
+C0158623,Congenital anomaly of coronary artery,,0.0016566168198994093,HP:0006704,Abnormality of the coronary arteries
+C0158621,Congenital subaortic stenosis,congenital subaortic stenosis,0.0034472234256541856,,
+C0158629,Congenital anomaly of aortic arch,congenital anomaly of aortic arch,0.01857904000641062,HP:0012303,Abnormality of the aortic arch
+C0035317,Retinal Hemorrhage,,0.0016768913208674795,HP:0000573,Retinal hemorrhage
+C1456262,Acute hepatitis C without mention of hepatic coma,acute hepatitis c ,0.0038351027339610733,HP:0200119,Acute hepatitis
+C0154717,"Epilepsia partialis continua, without mention of intractable epilepsy","epilepsia is continua, ",0.001029453476159531,HP:0012847,Epilepsia partialis continua
+C0154715,"Infantile spasms, without mention of intractable epilepsy"," spasms, ",0.016920709833871672,HP:0004305,Involuntary movements
+C0151766,Liver function tests abnormal finding,liver function tests abnormal finding,0.001248708475368965,HP:0002910,Elevated hepatic transaminases
+C0017332,Generalized Nonconvulsive Seizure Disorder,generalized nonconvulsive seizure disorder,0.001451199987203282,HP:0002197,Generalized seizures
+C0154246,"Urea Cycle Disorders, Inborn","urea cycle disorders, inborn",0.012813895596184203,HP:0001939,Abnormality of metabolism/homeostasis
+C0265830,Congenital pulmonary valve abnormality,congenital pulmonary valve abnormality,0.0013358442687896942,HP:0001641,Abnormality of the pulmonary valve
+C0268799,Acquired renal cystic disease,acquired renal cystic disease,0.001254632491883362,HP:0000107,Renal cyst
+C0041636,Umbilical hernia without mention of obstruction or gangrene,umbilical hernia ,0.004950898780019078,HP:0001537,Umbilical hernia
+C0042909,Vitreous Hemorrhage,,0.0014194342100357319,HP:0007902,Vitreous hemorrhage
+C0158752,Transverse deficiency of leg,transverse deficiency of leg,0.001070448633017658,HP:0002814,Abnormality of the lower limb
+C0392578,Impairment level: one eye: profound impairment: other eye: not specified (disorder),impairment level: one eye: profound impairment:  eye: not specified (disorder),0.005113337935589354,,
+C0029866,Other ureteric obstruction, ureteric obstruction,0.002208438204001925,HP:0006000,Ureteral obstruction
+C0009726,Congenital pigmentary skin anomalies,congenital pigmentary skin anomalies,0.001936939298418451,HP:0001000,Abnormality of skin pigmentation
+C0236816,"Stress Disorders, Traumatic, Acute","stress disorders, traumatic, acute",0.007748133658567265,,
+C0869292,"Other diseases of trachea and bronchus, NEC in ICD9CM"," diseases of trachea and bronchus,",0.0023125572842907223,HP:0002778,Abnormality of the trachea
+C0029640,Other impaction of intestine, impaction of intestine,0.002489103460965504,HP:0002242,Abnormality of the intestine
+C0009946,Conversion disorder,conversion disorder,0.0012775060652022233,,
+C0392611,Closed bimalleolar fracture,closed bimalleolar fracture,0.00380432018105221,,
+C0017536,Giardiasis,giardiasis,0.0019968698519523924,HP:0100279,Ulcerative colitis
+C0029882,Otitis Media,,0.06555377604216855,HP:0000388,Otitis media
+C0375221,Quadriplegia with quadriparesis,quadriplegia ,0.0011553734511773367,HP:0002445,Tetraplegia
+C1561640,"Chronic kidney disease, stage 3 (moderate)","chronic kidney disease, stage 3 (moderate)",0.0031608227926775844,,
+C0520474,Aseptic Necrosis of Bone,aseptic necrosis of bone,0.001798172449258914,HP:0010885,Aseptic necrosis
+C1561643,Chronic Kidney Diseases,,0.2356818775872331,HP:0012622,Chronic kidney disease
+C0242343,Panhypopituitarism,,0.004936008476506616,HP:0000871,Panhypopituitarism
+C0016952,Galactosemias,,0.0035550149514726945,HP:0004919,Galactose intolerance
+C0399424,Periapical abscess no sinus,periapical abscess no sinus,0.0025544266996514915,,
+C0026893,"Myalgia and myositis, unspecified","myalgia and myositis, ",0.006001829604239715,HP:0003326,Myalgia
+C1455742,Chronic mucoid otitis media,chronic mucoid otitis media,0.011693266744682658,,
+C0030567,Parkinson Disease,parkinson disease,0.0022632564245879073,HP:0001300,Parkinsonism
+C0010417,Cryptorchidism,,0.024758676959635347,HP:0000028,Cryptorchidism
+C0494831,Other atopic dermatitis, atopic dermatitis,0.02584416331721697,HP:0001047,Atopic dermatitis
+C0040517,Gilles de la Tourette syndrome,gilles de la tourette syndrome,0.012944505209826875,,
+C0406047,Local infection skin/subcut tissue NOS,local infection skin/subcut tissue nos,0.00251283034094627,,
+C0840927,Neurologic neglect syndrome,abnormality of the nervous system,0.02867842014530898,HP:0000707,Abnormality of the nervous system
+C0154623,Unspecified emotional disturbance of childhood or adolescence, emotional disturbance ,0.0042945908296386694,HP:0100851,Abnormal emotion/affect behavior
+C0154622,Other emotional disturbances of childhood or adolescence, emotional disturbances ,0.002822385063365772,HP:0100851,Abnormal emotion/affect behavior
+C0154192,Other specified disorders of pancreatic internal secretion, specified disorders of pancreatic internal secretion,0.0011996801181731363,,
+C0700613,Anxiety state,anxiety,0.18560273161699545,HP:0000739,Anxiety
+C0020480,Hyperlipoproteinemia Type IV,hyperlipoproteinemia type iv,0.00617199743659462,HP:0001939,Abnormality of metabolism/homeostasis
+C0154198,Iatrogenic pituitary disorder,iatrogenic pituitary disorder,0.0038008700015932434,HP:0012503,Abnormality of the pituitary gland
+C0154628,Hyperkinetic conduct disorder of childhood,hyperkinetic oppositional defiant disorder of ,0.001230633269227612,HP:0001249,Intellectual disability
+C0497156,Lymphadenopathy,,0.005038233990047919,HP:0002716,Lymphadenopathy
+C0456017,Chronic respiratory disease in perinatal period,chronic respiratory disease in perinatal period,0.03822071503364119,,
+C0155860,Pneumonia due to Pseudomonas,pneumonia due to pseudomonas,0.0010369350197851417,,
+C0744667,sensorineural hearing loss unilateral,sensorineural hearing loss unilateral,0.0018921967664354937,HP:0008619,Bilateral sensorineural hearing impairment
+C0159100,Other nonspecific abnormal results of function study of brain and central nervous system, nonspecific abnormal results of function study of brain and central nervous system,0.0011106847181694467,HP:0012638,Abnormality of nervous system physiology
+C0010308,Congenital Hypothyroidism,,0.0116390958369754,HP:0000851,Congenital hypothyroidism
+C0154998,After-cataract with vision obscured,after-cataract ,0.0017900328287355275,HP:0000518,Cataract
+C0155460,Acute myringitis,acute myringitis,0.0011978600725350713,HP:0000389,Chronic otitis media
+C0158986,Neonatal hypoglycemia,,0.0037144366670706776,HP:0001998,Neonatal hypoglycemia
+C0158987,Late metabolic acidosis of newborn,late metabolic acidosis of newborn,0.004813567189185494,HP:0001942,Metabolic acidosis
+C0155464,Central perforation of tympanic membrane,central perforation of tympanic membrane,0.0019205334343294711,HP:0040090,Abnormality of the tympanic membrane
+C1963664,Joint contracture of the ankle and foot,joint contracture of the ankle and foot,0.0061207307947920946,HP:0006466,Ankle contracture
+C0154446,"Infantile autism, current or active state"," autism, ",0.37720429066283984,HP:0000717,Autism
+C0155910,Pulmonary congestion and hypostasis,pulmonary congestion and hypostasis,0.0010212395633326934,,
+C0154448,"Disintegrative psychosis, current or active state","disintegrative psychosis, ",0.0016136388965993257,HP:0000708,Behavioral abnormality
+C0155488,Partial loss or necrosis of ear ossicles, loss or necrosis of ear ossicles,0.0010005500058578006,HP:0000377,Abnormality of the pinna
+C0424641,Decrease in height,decrease in height,0.002950045737611771,HP:0000098,Tall stature
+C0019693,HIV Infections,hiv infections,0.009318852306453709,HP:0002719,Recurrent infections
+C0038017,Congenital spondylolisthesis,congenital spondylolisthesis,0.002572724856150572,HP:0003302,Spondylolisthesis
+C0008449,Congenital anomaly of cartilage,congenital anomaly of cartilage,0.0011714267748479273,HP:0410007,Abnormality of cartilage
+C1305964,Urethra and bladder neck atresia and stenosis,urethra and bladder neck atresia and stenosis,0.0028659347958802893,,
+C0024031,Low Back Pain,,0.004552298045019583,HP:0003419,Low back pain
+C0034734,Raynaud Disease,raynaud disease,0.002380078460257382,HP:0000951,Abnormality of the skin
+C0155006,Psychophysical visual disturbance,psychophysical visual disturbance,0.0014238123195444274,,
+C0001540,Adjustment disorder with disturbance of conduct,adjustment disorder ,0.00616913009432093,HP:0000708,Behavioral abnormality
+C0158110,Contracture of joint of shoulder region,contracture of joint of shoulder region,0.0011599080706332762,,
+C0015310,Exotropia,,0.009653553993733775,HP:0000577,Exotropia
+C0156299,Encysted hydrocele,encysted hydrocele,0.0010325626468799633,,
+C0400832,Ulcer of anus and rectum,ulcer of anus and rectum,0.002286838420996971,,
+C0018674,Craniocerebral Trauma,craniocerebral trauma,0.007494034620215604,HP:0012638,Abnormality of nervous system physiology
+C0025297,Viral meningitis,viral meningitis,0.002947553713837176,,
+C0156109,"Inguinal hernia, without mention of obstruction or gangrene, unilateral or unspecified (not specified as recurrent)","inguinal hernia, ",0.02265789594142502,HP:0000023,Inguinal hernia
+C0236140,ECG abnormalities non-specific,ecg abnormalities non-specific,0.008979545382886733,HP:0011675,Arrhythmia
+C0154289,Other vitamin B12 deficiency anemias, vitamin b12 deficiency anemias,0.0032179163003747207,HP:0010972,Anemia of inadequate production
+C0008626,Congenital chromosomal disease,congenital chromosomal disease,0.01394581661175365,HP:0030680,Abnormality of cardiovascular system morphology
+C0154161,Other specified acquired hypothyroidism, specified acquired hypothyroidism,0.002967816476569156,,
+C0348860,Hypertensive renal disease with renal failure,hypertensive renal disease ,0.002870371701786608,HP:0012622,Chronic kidney disease
+C0041806,Unspecified disorder of immune mechanism, disorder of immune mechanism,0.007592292302880976,HP:0010978,Abnormality of immune system physiology
+C0395888,Tympanosclerosis involving tympanic membrane only,tympanosclerosis involving tympanic membrane only,0.0010729484595637523,HP:0040090,Abnormality of the tympanic membrane
+C0014130,Endocrine System Diseases,endocrine system diseases,0.002569049854331007,HP:0000818,Abnormality of the endocrine system
+C0040262,Tinea Versicolor,tinea versicolor,0.0017020774172988576,,
+C0155943,Arthralgia of temporomandibular joint,arthralgia of temporomandibular joint,0.0010159786897509851,HP:0002829,Arthralgia
+C0019079,Hemoptysis,,0.001267526749244889,HP:0002105,Hemoptysis
+C0157741,Idiopathic urticaria, urticaria,0.001997922390316939,HP:0001025,Urticaria
+C0157740,Chronic ulcer of other specified sites,chronic ulcer of  specified sites,0.0011996801181731363,,
+C0008711,Chronic rhinitis,,0.007593563777042564,HP:0002257,Chronic rhinitis
+C0008712,Chronic sphenoidal sinusitis,chronic sphenoidal sinusitis,0.0012790351927312008,HP:0430022,Abnormality of the sphenoid sinus
+C0003534,Aphakia,aphakia,0.005961141462219211,HP:0000517,Abnormality of the lens
+C0003537,Aphasia,,0.044616868269199396,HP:0002381,Aphasia
+C0158506,Curvature of spine associated with other conditions,curvature of spine associated ,0.0046110166735006215,HP:0000925,Abnormality of the vertebral column
+C0158503,Progressive infantile idiopathic scoliosis,progressive   scoliosis,0.00690130147327593,HP:0008458,Progressive congenital scoliosis
+C0158509,scoliosis associated with other conditions,scoliosis associated ,0.002338253149011613,HP:0002650,Scoliosis
+C0348483,Other disorders of aromatic amino-acid metabolism, disorders of aromatic amino-acid metabolism,0.0029803926557404026,HP:0004337,Abnormality of amino acid metabolism
+C0231471,Abnormal posture,,0.007664509670029927,HP:0002533,Abnormal posturing
+C0733455,Other dissociated deviation of eye movements, dissociated deviation of eye movements,0.0015419696195915526,HP:0000496,Abnormality of eye movement
+C0013338,Pituitary dwarfism,,0.009075838679567651,HP:0000839,Pituitary dwarfism
+C0232493,Epigastric pain,epigastric pain,0.0020019553435450844,,
+C0029505,"Hand, except finger injury","hand, except finger injury",0.0013402812655740912,HP:0004207,Abnormality of the 5th finger
+C0039231,Tachycardia,,0.0028826167648530843,HP:0001649,Tachycardia
+C0158618,Congenital stenosis of mitral valve,,0.00882526428728151,HP:0011570,Congenital mitral stenosis
+C0158619,Congenital insufficiency of mitral valve,insufficiency of mitral valve,0.02034661645537397,HP:0001653,Mitral regurgitation
+C0158616,Congenital tricuspid atresia and stenosis,congenital tricuspid atresia and stenosis,0.0037878927864915322,,
+C0158617,Congenital insufficiency of aortic valve,congenital insufficiency of aortic valve,0.018197110001585873,HP:0001646,Abnormality of the aortic valve
+C0339295,Exposure keratoconjunctivitis,exposure keratoconjunctivitis,0.0018749644644556192,HP:0000509,Conjunctivitis
+C0392549,Infantile cerebral palsy, cerebral palsy,0.07099478913864408,HP:0100021,Cerebral palsy
+C0161462,"Injury to digital nerve, upper limb","injury to digital nerve, upper limb",0.0011457083545368463,HP:0000759,Abnormal peripheral nervous system morphology
+C0375352,Other esophagitis, esophagitis,0.0063661797824737165,HP:0100633,Esophagitis
+C0009324,Ulcerative Colitis,,0.003340559373411079,HP:0100279,Ulcerative colitis
+C0490011,Other convulsions, convulsions,0.1478864639170108,HP:0001250,Seizures
+C0490010,Other congenital malformations of abdominal wall, congenital malformations of abdominal wall,0.0020487536863455897,HP:0004298,Abnormality of the abdominal wall
+C0494025,Intestinal infection due to clostridium difficile,intestinal infection due to clostridium difficile,0.0012394825241618533,HP:0004798,Recurrent infection of the gastrointestinal tract
+C0035078,Kidney Failure,kidney failure,0.002229783189502744,HP:0000083,Renal insufficiency
+C0263819,Recurrent dislocation of lower leg joint,recurrent dislocation of lower leg joint,0.0012254587406499056,,
+C0869515,"Precocious sexual development and puberty, NEC in ICD9CM_2014","precocious puberty,",0.03938098762227489,HP:0000826,Precocious puberty
+C0029658,Other lordosis (acquired), lordosis (acquired),0.0015835706440494163,HP:0003307,Hyperlordosis
+C0034214,Pyogenic granuloma of skin and subcutaneous tissue,pyogenic granuloma of skin and subcutaneous tissue,0.0011641402819166462,HP:0005406,Recurrent bacterial skin infections
+C0029652,Other kyphoscoliosis and scoliosis, kyphoscoliosis and scoliosis,0.01608529269918961,HP:0002650,Scoliosis
+C0878691,Dementia in conditions classified elsewhere without behavioral disturbance,dementia in conditions classified elsewhere ,0.004096069681231327,,
+C0040457,"Tooth, Supernumerary",,0.002616533770054713,HP:0011069,Increased number of teeth
+C0375239,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus","migraine, , ",0.005624008661937662,HP:0002076,Migraine
+C0477355,Extrapyramidal and movement disorders,extrapyramidal and movement disorders,0.008025552720542098,HP:0002071,Abnormality of extrapyramidal motor function
+C2349675,Fever and other physiologic disturbances of temperature regulation,fever and  physiologic disturbances of temperature regulation,0.03682357518844948,HP:0004370,Abnormality of temperature regulation
+C0271234,Impairment level: low vision of both eyes,impairment level: low vision of both eyes,0.004418858086928577,,
+C0795685,"Disorders of meninges, not elsewhere classified in ICD10CM","disorders of meninges, not elsewhere classified in icd10cm",0.0011282387158290698,,
+C0016124,Finger Injuries,finger injuries,0.0020477431026306525,HP:0004207,Abnormality of the 5th finger
+C0699815,Feeding difficulties and mismanagement,feeding difficulties and mismanagement,0.07784655015637577,HP:0011968,Feeding difficulties
+C0031572,"Phobia, Social","phobia, social",0.008321793989157871,HP:0000708,Behavioral abnormality
+C0158359,Laxity of ligament,,0.0035528403738653755,HP:0001380,Ligamentous laxity
+C0494843,Ingestion dermatitis due to food,ingestion dermatitis due to food,0.041845587165912156,,
+C0158352,"Muscle, ligament and fascia disorders",muscle abnormality,0.039848032956332685,HP:0003011,Abnormality of the musculature
+C0158350,Tendon contracture,contracture,0.031849204010722804,HP:0001371,Flexion contracture
+C0477996,Other congenital malformations of pulmonary valve, congenital malformations of pulmonary valve,0.00816017796258376,HP:0001641,Abnormality of the pulmonary valve
+C0477992,Other specified congenital malformations of face and neck,phenotypic abnormality of face and neck,0.017149398592782538,HP:0000464,Abnormality of the neck
+C0477999,Other specified congenital malformations of heart,phenotypic abnormality of heart,0.018563155309439704,HP:0001627,Abnormal heart morphology
+C0154615,"Sensitivity, shyness, and social withdrawal disorder specific to childhood and adolescence","sensitivity, shyness, and social withdrawal disorder ",0.00580650812671645,,
+C0154613,Disturbance of emotions specific to childhood and adolescence,disturbance of emotions ,0.004710171012119075,HP:0100851,Abnormal emotion/affect behavior
+C0034186,Pyelonephritis,,0.0039641416882887125,HP:0012330,Pyelonephritis
+C0339877,Acute tracheitis without obstruction,acute tracheitis ,0.0010602642229551663,HP:0002088,Abnormality of the lung
+C0031485,Phenylketonurias,phenylketonurias,0.00952313053453042,HP:0001939,Abnormality of metabolism/homeostasis
+C0154619,Other or mixed emotional disturbances of childhood or adolescence,mixed emotional disturbances ,0.010077493468892291,,
+C0027821,Neurocirculatory Asthenia,neurocirculatory asthenia,0.0015432638898502222,,
+C0236794,Panic disorder without agoraphobia,panic disorder ,0.014573483815754245,HP:0000708,Behavioral abnormality
+C0477973,Spina bifida with hydrocephalus,spina bifida ,0.011268464006779654,HP:0002414,Spina bifida
+C0030353,Papilledema,,0.0022646830821824314,HP:0001085,Papilledema
+C0477976,Other specified congenital malformations of nervous system,phenotypic abnormality of nervous system,0.0040954416584874824,HP:0000707,Abnormality of the nervous system
+C0477975,Other specified congenital malformations of spinal cord,phenotypic abnormality of spinal cord,0.024983527209508756,HP:0002143,Abnormality of the spinal cord
+C2712343,ALLERGIC RHINITIS NEC in ICD9CM,allergic rhinitis,0.024221015386087244,HP:0003193,Allergic rhinitis
+C0030196,Pain in limb,,0.017310051799487216,HP:0009763,Limb pain
+C0030197,pain in or around eyes,pain in or around eyes,0.0015812993918501198,HP:0200026,Ocular pain
+C0158995,Congenital anemia,congenital anemia,0.0011957024425129487,HP:0004810,Congenital hypoplastic anemia
+C0158996,Anemia of prematurity,anemia of prematurity,0.0011590992238190384,HP:0001197,Abnormality of prenatal development or birth
+C0000768,Congenital Abnormality,congenital abnormality,0.004342819504942328,,
+C0155472,Other disorders of middle ear and mastoid, disorders of middle ear and mastoid,0.001630253974761984,HP:0000264,Abnormality of the mastoid
+C0546982,Cystic fibrosis with meconium ileus,cystic fibrosis ,0.0016499353747710672,,
+C0155673,Other chronic pulmonary heart diseases, chronic pulmonary heart diseases,0.0031442512856111357,,
+C0039070,Syncope,,0.003550731779835914,HP:0001279,Syncope
+C0158285,Unspecified musculoskeletal disorders and symptoms referable to neck, musculoskeletal disorders and symptoms referable to neck,0.0012489860367399478,HP:0000464,Abnormality of the neck
+C0155676,Pulmonary artery aneurysm,,0.002505853048329381,HP:0004937,Pulmonary artery aneurysm
+C0154270,Localized adiposity,localized adiposity,0.0020620627087114987,HP:0001513,Obesity
+C0155679,Acute pericarditis,acute pericarditis,0.0011938394473005134,HP:0001701,Pericarditis
+C0020582,Hyphema of iris and ciliary body,hyphema of iris and ciliary body,0.0014731264857023871,HP:0000553,Abnormality of the uvea
+C0154276,Other selective immunoglobulin deficiencies, selective immunoglobulin deficiencies,0.008147205355266168,HP:0003460,Total immunoglobulin A deficiency
+C0015544,Failure to Thrive,failure to thrive,0.03028698345080806,HP:0001508,Failure to thrive
+C0339611,Monofixation syndrome,monofixation syndrome,0.004096051813647703,,
+C0375291,"Cerebral artery occlusion, unspecified with cerebral infarction","cerebral artery occlusion,  ",0.0020876223998701174,HP:0009145,Abnormality of cerebral artery
+C0158971,Neonatal jaundice associated with preterm delivery,neonatal jaundice associated ,0.003446212845971995,HP:0006579,Prolonged neonatal jaundice
+C0155490,Middle Ear Cholesteatoma,middle ear cholesteatoma,0.002771080342561189,HP:0008609,Morphological abnormality of the middle ear
+C0036341,Schizophrenia,,0.0010054243043752054,HP:0100753,Schizophrenia
+C0375290,"Cerebral artery occlusion, unspecified without mention of cerebral infarction","cerebral artery occlusion,  ",0.0018186500928749783,HP:0009145,Abnormality of cerebral artery
+C0010200,Coughing,,0.015786219943652077,HP:0012735,Cough
+C0011334,Dental caries,,0.04109755731469624,HP:0000670,Carious teeth
+C0159006,Perinatal intestinal perforation,perinatal intestinal perforation,0.0019204135037833834,,
+C0021051,Immunologic Deficiency Syndromes,,0.005724873461957352,HP:0002721,Immunodeficiency
+C0155879,Extrinsic asthma with status asthmaticus,extrinsic asthma ,0.004065525483646055,HP:0002099,Asthma
+C0155878,Extrinsic asthma without mention of status asthmaticus,extrinsic asthma ,0.0314140813643484,HP:0002099,Asthma
+C0155012,Generalized visual field contraction or constriction,generalized visual field contraction or constriction,0.0014563376383419692,HP:0001133,Constriction of peripheral visual field
+C0221352,Syndactyly of fingers,,0.0033728159507511526,HP:0006101,Finger syndactyly
+C0155877,Allergic asthma,allergic asthma,0.0011323032950328346,HP:0002099,Asthma
+C0154565,Non-organic sleep disorder,non-organic sleep disorder,0.0010169590349433707,HP:0000708,Behavioral abnormality
+C0160823,"Insect bite, nonvenomous of face, neck, and scalp except eye, without mention of infection","insect bite, nonvenomous of face, neck, and scalp except eye, ",0.0018860741265221911,,
+C0001363,Acute vascular insufficiency of intestine (disorder),acute vascular insufficiency of intestine (disorder),0.002784702287011937,,
+C0001361,Acute tonsillitis,acute tonsillitis,0.0012294978107197944,HP:0012649,Increased inflammatory response
+C0001365,Acute ill-defined cerebrovascular disease,acute ill-defined cerebrovascular disease,0.0026545473771962674,,
+C0156287,Prolapsed urethral mucosa,prolapsed urethral mucosa,0.0013843689767077745,,
+C0156284,Postoperative urethral stricture,postoperative urethral stricture,0.0013411204675925978,HP:0012227,Urethral stricture
+C1719369,"Unspecified cause of encephalitis, myelitis, and encephalomyelitis"," cause of encephalitis, myelitis, and encephalomyelitis",0.0033662960599469944,HP:0012486,Myelitis
+C0019209,Hepatomegaly,,0.0017073819350525554,HP:0002240,Hepatomegaly
+C0236773,Depressed bipolar I disorder,depressed bipolar disorder,0.0014183389220118704,HP:0007302,Bipolar affective disorder
+C0156111,"Bilateral inguinal hernia, without mention of obstruction or gangrene","bilateral inguinal hernia, ",0.020650924250951684,HP:0000023,Inguinal hernia
+C0156110,"Inguinal hernia, without mention of obstruction or gangrene, unilateral or unspecified, recurrent","inguinal hernia, ",0.0024418903003604994,HP:0000023,Inguinal hernia
+C0024110,Lung Abscess,lung abscess,0.002061793011082441,HP:0002088,Abnormality of the lung
+C0155708,Other specified conduction disorders, specified conduction disorders,0.003951516093525437,HP:0030177,Abnormality of peripheral nervous system electrophysiology
+C0152430,Congenital coxa valga,congenital coxa valga,0.0011067523293758184,HP:0002673,Coxa valga
+C0265122,Disorder of pericardium,disorder of pericardium,0.002203740690967075,HP:0011628,Congenital defect of the pericardium
+C0156737,"Unspecified renal disease in pregnancy, without mention of hypertension, delivered, with mention of postpartum complication"," renal disease in pregnancy, ",0.0012005204728987133,HP:0012622,Chronic kidney disease
+C0021879,"Intracranial injury of other and unspecified nature without mention of open intracranial wound, unspecified state of consciousness",intracranial injury of  and  nature ,0.001700564850054415,HP:0012638,Abnormality of nervous system physiology
+C0021878,Intracranial injury of other and unspecified nature without mention of open intracranial wound,intracranial injury of  and  nature ,0.0013103544740455948,HP:0012638,Abnormality of nervous system physiology
+C0004402,autosomal deletion syndrome,autosomal deletion syndrome,0.005891767481114722,,
+C0266573,Congenital ptosis,,0.006943812119384627,HP:0007970,Congenital ptosis
+C0478080,Other congenital malformations of musculoskeletal system, congenital malformations of musculoskeletal system,0.003317633089595992,,
+C0019069,Hemophilia A,hemophilia a,0.005695770176777264,HP:0001871,Abnormality of blood and blood-forming tissues
+C0157736,Other specified diseases of sebaceous glands, specified diseases of sebaceous glands,0.0013446432074053721,,
+C0019061,Hemolytic-Uremic Syndrome,,0.001435424840465194,HP:0005575,Hemolytic-uremic syndrome
+C0014544,Epilepsy,epilepsy,0.0014031428056434751,HP:0001250,Seizures
+C0043168,Whooping cough due to unspecified organism,whooping cough due to  organism,0.001430510867413425,,
+C0018798,Congenital Heart Defects,,0.01616858982796277,HP:0001627,Abnormal heart morphology
+C0018799,Heart Diseases,heart diseases,0.004866688342727563,,
+C0158515,Acquired deformity of pelvis,acquired deformity of pelvis,0.0010379077469184902,HP:0002644,Abnormality of pelvic girdle bone morphology
+C1510471,Vitamin Deficiency,vitamin deficiency,0.0015642127103964358,HP:0004905,Vitamin A deficiency
+C0348494,Other hyperlipidemia, hyperlipidemia,0.004235423404008863,HP:0003077,Hyperlipidemia
+C0178879,Urinary tract obstruction,urinary tract obstruction,0.0027004190558596024,,
+C1135254,Fussy infant (baby),fussy infant (baby),0.004758645848124073,HP:0011458,Abdominal symptom
+C1561805,fetal or newborn aspiration,fetal or newborn aspiration,0.0028487984364179513,HP:0001197,Abnormality of prenatal development or birth
+C1135250,Other respiratory problems after birth, respiratory problems after birth,0.0018409738508653514,HP:0002093,Respiratory insufficiency
+C1135251,Septicemia [sepsis] of newborn,septicemia [sepsis] of newborn,0.001244740804971042,HP:0002719,Recurrent infections
+C0154007,Benign neoplasm of testis,benign neoplasm of testis,0.0034162543873439933,HP:0010788,Testicular neoplasm
+C0520679,"Sleep Apnea, Obstructive",,0.014349574322888687,HP:0002870,Obstructive sleep apnea
+C0013473,Eating Disorders,eating disorders,0.0041347471223678,HP:0100738,Abnormal eating behavior
+C0153706,Lymphosarcoma of intra-abdominal lymph nodes,lymphosarcoma of intra-abdominal lymph nodes,0.002368619144375336,HP:0002732,Lymph node hypoplasia
+C0153708,Lymphosarcoma of lymph nodes of inguinal region and lower limb,lymphosarcoma of lymph nodes of inguinal region and lower limb,0.0011996801181731363,HP:0100763,Abnormality of the lymphatic system
+C0700292,Hypoxemia,,0.002489387447041424,HP:0012418,Hypoxemia
+C0033845,Pseudotumor Cerebri,pseudotumor cerebri,0.01079781416272548,,
+C0040034,Thrombocytopenia,,0.0027305472893966684,HP:0001873,Thrombocytopenia
+C0489982,Other disorders of calcium metabolism, disorders of calcium metabolism,0.0017775824025293102,,
+C0489981,Other staphylococcal septicemia, staphylococcal septicemia,0.0010046341486032015,,
+C0160393,"Injury to liver without mention of open wound into cavity, hematoma and contusion",injury to liver ,0.0013239109132506615,HP:0001392,Abnormality of the liver
+C0032460,Polycystic Ovary Syndrome,,0.0069819489003933284,HP:0000147,Polycystic ovaries
+C0700501,Congenital nystagmus,,0.00288999116098221,HP:0006934,Congenital nystagmus
+C0035440,Acute rheumatic heart disease,acute rheumatic heart disease,0.0015605782812026531,HP:0011025,Abnormality of cardiovascular system physiology
+C2931161,Immunoglobulin a deficiency 1,immunoglobulin a deficiency 1,0.004011846730806154,,
+C0018939,Hematological Disease,hematological disease,0.014065079513650046,HP:0001871,Abnormality of blood and blood-forming tissues
+C1290810,Viral hepatitis A without hepatic coma,viral hepatitis a ,0.002488694248487042,HP:0006562,Viral hepatitis
+C0729250,"Respiratory complications, NEC in ICD9CM_2014","respiratory complications,",0.006584155245694716,HP:0002093,Respiratory insufficiency
+C0392550,"Hemiplegia, Infantile","hemiplegia, ",0.004101667508336209,HP:0002301,Hemiplegia
+C0490022,Peripheral stem cells replaced by transplant,peripheral stem cells replaced by transplant,0.001132167664462007,HP:0011893,Abnormal leukocyte count
+C0158775,Congenital anomaly of spine,,0.0012246501370306556,HP:0003468,Abnormality of the vertebrae
+C0009702,Unilateral congenital dislocation of hip,unilateral congenital dislocation of hip,0.00787152709595652,HP:0008780,Congenital bilateral hip dislocation
+C0013274,Patent ductus arteriosus,,0.058631224626868754,HP:0001643,Patent ductus arteriosus
+C0345380,Congenital anomaly of sternocleidomastoid muscle,congenital anomaly of sternocleidomastoid muscle,0.02364951299905895,HP:0003011,Abnormality of the musculature
+C0034888,Rectal Prolapse,,0.0034734365238909587,HP:0002035,Rectal prolapse
+C0151632,ESR raised,,0.0012880533683222552,HP:0003565,Elevated erythrocyte sedimentation rate
+C0270191,Perinatal intraventricular hemorrhage,perinatal intraventricular hemorrhage,0.0016469520041944297,HP:0007023,Antenatal intracerebral hemorrhage
+C0375204,Reflex sympathetic dystrophy of other specified site,reflex sympathetic dystrophy of  specified site,0.0012098687194617539,,
+C0401143,Allergic gastroenteritis and colitis,allergic gastroenteritis and colitis,0.00973681339528727,HP:0012649,Increased inflammatory response
+C0029587,Other eating disorders, eating disorders,0.012193514735270026,HP:0100738,Abnormal eating behavior
+C0023510,Leukocyte Disorders,leukocyte disorders,0.001033704541504103,HP:0001881,Abnormality of leukocytes
+C2349669,Necrotizing enterocolitis of newborn,necrotizing enterocolitis of newborn,0.0049286193722864295,HP:0004387,Enterocolitis
+C0154305,Other diseases of spleen, diseases of spleen,0.002061793011082441,HP:0001743,Abnormality of the spleen
+C0026509,Closed Monteggia's fracture,closed monteggia's fracture,0.0021664989839501564,,
+C0154049,Hemangioma of skin and subcutaneous tissue,hemangioma of skin and subcutaneous tissue,0.008913022695896852,HP:0007596,Painful subcutaneous lipomas
+C0478056,Other obstructive defects of renal pelvis and ureter, obstructive defects of renal pelvis and ureter,0.025391790950686544,HP:0000069,Abnormality of the ureter
+C0006131,Branchioma,,0.006206780383082814,HP:0009796,Branchial cyst
+C0029794,Other specified erythematous conditions, specified erythematous conditions,0.002190837303477716,HP:0200034,Papule
+C0795699,"Other diseases of pharynx, NEC in ICD9CM"," diseases of pharynx,",0.004668759708452044,HP:0000600,Abnormality of the pharynx
+C0029790,Other specified disorders of teeth and supporting structures, specified disorders of teeth and supporting structures,0.0027389490789174005,,
+C0029791,Other specified disorders resulting from impaired renal function, specified disorders resulting from impaired renal function,0.0012862976341140467,,
+C0034087,Pulmonary valve disorder,pulmonary valve disorder,0.003505832937649473,HP:0001641,Abnormality of the pulmonary valve
+C0034084,Pulmonary Subvalvular Stenosis,pulmonary subvalvular stenosis,0.007079814126268426,HP:0001642,Pulmonic stenosis
+C0155242,Stenosis and insufficiency of lacrimal passages,stenosis and insufficiency of lacrimal passages,0.0010404934878200593,,
+C0375189,"Undersocialized conduct disorder, aggressive type, unspecified","undersocialized oppositional defiant disorder, aggressive type, ",0.0042560153610375325,,
+C0348815,Cystic fibrosis with pulmonary manifestations,cystic fibrosis ,0.0057187633393808186,,
+C0158361,"Other disorders of muscle, ligament, and fascia"," disorders of muscle, ligament, and fascia",0.016223703282302614,,
+C0085602,Polydipsia,,0.0010354018454405262,HP:0001959,Polydipsia
+C0155248,Acquired stenosis of nasolacrimal duct,acquired stenosis of nasolacrimal duct,0.00479747870058841,HP:0007678,Lacrimal duct stenosis
+C0392702,Abnormal involuntary movement,abnormal involuntary movement,0.014488363835187501,HP:0004305,Involuntary movements
+C0375116,"Diabetes mellitus without mention of complication, type I [juvenile type], uncontrolled",diabetes mellitus ,0.009374310273334775,HP:0000819,Diabetes mellitus
+C0375117,"Diabetes with ketoacidosis, type II or unspecified type, not stated as uncontrolled",diabetes ,0.002637502206290852,HP:0000819,Diabetes mellitus
+C0375114,"Diabetes mellitus without mention of complication, type I [juvenile type], not stated as uncontrolled",diabetes mellitus ,0.02775427707038526,HP:0000819,Diabetes mellitus
+C0375115,"Diabetes mellitus without mention of complication, type II or unspecified type, uncontrolled",diabetes mellitus ,0.001725754001949229,HP:0000819,Diabetes mellitus
+C0375113,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",diabetes mellitus ,0.003997893273075305,HP:0000819,Diabetes mellitus
+C0007194,Hypertrophic Cardiomyopathy,,0.0033989538772753237,HP:0001639,Hypertrophic cardiomyopathy
+C0375118,"Diabetes with ketoacidosis, type I [juvenile type], not stated as uncontrolled",diabetes ,0.0013236758043467533,HP:0000819,Diabetes mellitus
+C0497552,Congenital neurologic anomalies,,0.005330563770006645,HP:0000707,Abnormality of the nervous system
+C0149654,Conduct Disorder,oppositional defiant disorder,0.04354909353501029,HP:0010865,Oppositional defiant disorder
+C0271355,Abducens Nerve Diseases,,0.001535539589076617,HP:0006897,Cranial nerve VI palsy
+C0154860,Hereditary retinal dystrophy,hereditary retinal dystrophy,0.006513414694199322,HP:0000556,Retinal dystrophy
+C0406089,Cellulitis and abscess of foot excluding toe,cellulitis and abscess of foot excluding toe,0.003929943511861238,HP:0010771,Pilonidal abscess
+C0154865,Dystrophies primarily involving the retinal pigment epithelium,dystrophies primarily involving the retinal pigment epithelium,0.0012971524223540972,HP:0000479,Abnormality of the retina
+C0154864,Other dystrophies primarily involving the sensory retina, dystrophies primarily involving the sensory retina,0.00626790269452497,,
+C0027831,Neurofibromatosis 1,neurofibromatosis 1,0.01249197424815051,,
+C0023800,Lipoma of other specified sites,lipoma of  specified sites,0.0013345054095114375,HP:0001031,Subcutaneous lipoma
+C0016205,"Flatulence, eructation, and gas pain","flatulence, eructation, and gas pain",0.006674679298668324,HP:0011458,Abdominal symptom
+C1691215,Penile hypospadias,,0.03758640091266004,HP:0003244,Penile hypospadias
+C0549147,"Cardiac complications, NEC in ICD9CM_2014","cardiac complications,",0.006707650307177832,HP:0001635,Congestive heart failure
+C0155397,Other chronic infective otitis externa, chronic infective otitis externa,0.001872865434561675,HP:0000389,Chronic otitis media
+C0020598,Hypocalcemia,,0.0014056609650928544,HP:0002901,Hypocalcemia
+C0029867,Other urethritis, urethritis,0.0022654565101998814,HP:0000031,Epididymitis
+C0341863,Polymenorrhagia,polymenorrhagia,0.0034281155552092373,HP:0000132,Menorrhagia
+C0158946,Other congenital infections specific to the perinatal period, congenital infections specific to the perinatal period,0.002879074946181521,HP:0002719,Recurrent infections
+C0158942,Other newborn respiratory problems, newborn respiratory problems,0.0063007646057668025,HP:0002643,Neonatal respiratory distress
+C0158945,Congenital cytomegalovirus infection,congenital cytomegalovirus infection,0.0011460715065861379,HP:0002719,Recurrent infections
+C0004096,Asthma,,0.0056674205316434864,HP:0002099,Asthma
+C0158940,Transitory tachypnea of newborn,transitory tachypnea of newborn,0.003282650991166944,HP:0002789,Tachypnea
+C0149507,Orbital Cellulitis,orbital cellulitis,0.00178605901913534,,
+C0159013,Other disturbances of temperature regulation of newborn, disturbances of temperature regulation of newborn,0.0013895137410330845,HP:0004370,Abnormality of temperature regulation
+C0159012,Other hypothermia of newborn, hypmia of newborn,0.001646834663094304,,
+C0159015,Congenital hydrocele,congenital hydrocele,0.008506349925031435,HP:0000034,Hydrocele testis
+C1261276,Congenital unilateral subluxation of hip,congenital unilateral subluxation of hip,0.006209549869347486,,
+C0041952,Ureterolithiasis,ureterolithiasis,0.002758665820716611,HP:0000787,Nephrolithiasis
+C0155804,Acute maxillary sinusitis,acute maxillary sinusitis,0.004419667505954387,HP:0430028,Hyperplasia of the maxilla
+C0010692,Cystitis,,0.002439494195784511,HP:0100577,Urinary bladder inflammation
+C0155802,Compression of vein,compression of vein,0.0011528635402959428,HP:0001626,Abnormality of the cardiovascular system
+C0155803,Other specified disorders of circulatory system, specified disorders of circulatory system,0.005012824747691844,,
+C0038363,Aphthous Stomatitis,aphthous stomatitis,0.0024559002815806408,HP:0011107,Recurrent aphthous stomatitis
+C0877308,Neonatal tachycardia,neonatal tachycardia,0.0010155037299069353,HP:0001649,Tachycardia
+C0153957,benign neoplasm of heart,benign neoplasm of heart,0.001343235182639578,HP:0100544,Neoplasm of the heart
+C0019275,Hernia of unspecified site without mention of obstruction or gangrene,hernia of  site ,0.0014667879202434682,HP:0100790,Hernia
+C0042374,Male genital organ vascular diseases,male genital organ vascular diseases,0.0015734674798348499,HP:0000078,Abnormality of the genital system
+C0152424,Common ventricle,,0.0052988571999431815,HP:0001750,Single ventricle
+C0152423,Congenital small ears,,0.0013146613290653526,HP:0008551,Microtia
+C0395861,Acute suppurative otitis media without spontaneous rupture of ear drum,acute suppurative otitis media ,0.02136658902336125,HP:0000403,Recurrent otitis media
+C0395862,Acute suppurative otitis media with spontaneous rupture of ear drum,acute suppurative otitis media ,0.003425616800008941,HP:0000403,Recurrent otitis media
+C0008373,Cholesteatoma,,0.0018007969610300675,HP:0009797,Cholesteatoma
+C0159838,"Fracture of lower end of femur, unspecified part, closed","fracture of lower end of femur,  part, closed",0.0025641371893884205,HP:0002823,Abnormality of the femur
+C0008370,Cholestasis,,0.0020152948502036127,HP:0001396,Cholestasis
+C0008374,Cholesteatoma of middle ear / mastoid,cholesteatoma of middle ear / mastoid,0.0014427432816537797,HP:0009797,Cholesteatoma
+C0478095,Other specified congenital malformations,phenotypic abnormality,0.030734670698548162,HP:0000118,Phenotypic abnormality
+C0157729,Other abnormal granulation tissue, abnormal granulation tissue,0.0016039607581411254,HP:0003549,Abnormality of connective tissue
+C0348719,Other dental caries, dental caries,0.0092145469796312,HP:0000670,Carious teeth
+C0038218,Status Asthmaticus,,0.01922027815325212,HP:0012653,Status Asthmaticus
+C0018784,Sensorineural Hearing Loss (disorder),,0.0364032658757003,HP:0000407,Sensorineural hearing impairment
+C0478071,"Other congenital malformations of lower limb(s), including pelvic girdle"," congenital malformations of lower limb(s), including pelvic girdle",0.016345622056162138,HP:0002644,Abnormality of pelvic girdle bone morphology
+C0478070,"Other congenital malformations of upper limb(s), including shoulder girdle"," congenital malformations of upper limb(s), including shoulder girdle",0.0044298132021280655,HP:0001435,Abnormality of the shoulder girdle musculature
+C0158560,Other specified congenital anomalies of iris and ciliary body, specified congenital anomalies of iris and ciliary body,0.0011700986105804888,,
+C0026691,Mucocutaneous Lymph Node Syndrome,mucocutaneous lymph node syndrome,0.004021045881049361,HP:0002716,Lymphadenopathy
+C0014848,Esophageal Achalasia,,0.003486535594181651,HP:0002571,Achalasia
+C0014591,Epistaxis,,0.010052108773561974,HP:0000421,Epistaxis
+C0155141,Acute conjunctivitis,acute conjunctivitis,0.0022018976311776782,HP:0000509,Conjunctivitis
+C0013481,Ebstein Anomaly,,0.0011558304583319733,HP:0010316,Ebstein's anomaly of the tricuspid valve
+C1561815,"Hypersomnia with sleep apnea, unspecified",hypersomnia ,0.004927353639641529,HP:0100786,Hypersomnia
+C1561817,"Disruption of 24 hour sleep wake cycle, unspecified","disruption of 24 hour sleep wake cycle, ",0.0029501430733039195,HP:0006979,Sleep-wake cycle disturbance
+C0348626,Other specified cardiac arrhythmias, specified cardiac arrhythmias,0.012866537908879615,HP:0011675,Arrhythmia
+C0156251,Acute pyelonephritis without lesion of renal medullary necrosis,acute pyelonephritis ,0.0035379077664982623,HP:0012787,Recurrent pyelonephritis
+C0042798,Low Vision,low vision,0.0038014120148647254,HP:0000505,Visual impairment
+C0014116,Endocardial Cushion Defects,endocardial cushion defects,0.006488010185633265,HP:0006695,Atrioventricular canal defect
+C0028077,Night Blindness,,0.001702700869044498,HP:0000662,Nyctalopia
+C0024904,Mastoiditis,,0.001126166426698575,HP:0000265,Mastoiditis
+C1561641,"Chronic kidney disease, stage 4 (severe)","chronic kidney disease, stage 4 (severe)",0.001755889307873478,,
+C2349275,"Acute myeloid leukemia, without mention of having achieved remission","acute myeloid leukemia, ",0.003427637122832429,HP:0004808,Acute myeloid leukemia
+C1955741,Glucocorticoid deficiency,glucocorticoid deficiency,0.002987488558594359,HP:0000818,Abnormality of the endocrine system
+C0003862,Arthralgia,,0.003135493809088107,HP:0002829,Arthralgia
+C0344553,Specified optic disc anomalies,specified optic disc anomalies,0.004465250521894886,HP:0012795,Abnormality of the optic disc
+C0270549,Generalized Anxiety Disorder,generalized anxiety disorder,0.018150044197320296,HP:0100851,Abnormal emotion/affect behavior
+C0042974,von Willebrand Disease,von willebrand disease,0.0023961599566621364,,
+C0035439,Rheumatic Heart Disease,rheumatic heart disease,0.001866804234241723,,
+C0730032,Pleural empyema with no fistula,pleural empyema ,0.0011471936399920044,HP:0011919,Pleural empyema
+C0375378,"Vesicoureteral reflux with reflux nephropathy, bilateral",vesicoureteral reflux ,0.004464391333246209,HP:0000076,Vesicoureteral reflux
+C0149881,Epididymo-orchitis,epididymo-orchitis,0.002511056423950019,HP:0000031,Epididymitis
+C0149882,Acute esophagitis,acute esophagitis,0.002137693513748061,HP:0100633,Esophagitis
+C0018926,Hematemesis,,0.0012985474497498976,HP:0002248,Hematemesis
+C0158707,Other specified anomalies of bladder and urethra, specified anomalies of bladder and urethra,0.0010755127290545442,HP:0000795,Abnormality of the urethra
+C0695238,Other tracheostomy complication, tracheostomy complication,0.0011908400770771622,HP:0002087,Abnormality of the upper respiratory tract
+C0695239,gastrostomy infection,gastrostomy infection,0.0013053442813356659,,
+C0490039,"Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group D [Enterococcus]","streptococcus infection in conditions classified elsewhere and of  site, streptococcus, group d [enterococcus]",0.0010117721944751256,,
+C0375575,Abnormal arterial blood gas,abnormal arterial blood gas,0.0017898400713152452,,
+C0375576,Abnormal coagulation profile,abnormal coagulation profile,0.0012733479312995383,HP:0001928,Abnormality of coagulation
+C0013261,Duane Retraction Syndrome,,0.005722084494929702,HP:0009921,Duane anomaly
+C0011640,Dermatophytosis of scalp or beard,dermatophytosis of scalp or beard,0.004439797756766125,HP:0010541,Cutis gyrata of scalp
+C0009918,Contracture of joint,contracture of joint,0.005726333510671667,HP:0001371,Flexion contracture
+C0003081,Anisometropia,,0.008161568566145087,HP:0012803,Anisometropia
+C0375218,"Hemiplegia, unspecified affecting unspecified side","hemiplegia,  affecting  side",0.018435490399163746,HP:0012638,Abnormality of nervous system physiology
+C0009592,Compression of brain,compression of brain,0.005921775438023818,HP:0012443,Abnormality of brain morphology
+C0009595,Obsessive-Compulsive Personality,obsessive-compulsive personality,0.0014056689975838635,HP:0008770,Obsessive-compulsive trait
+C0029788,Other specified disorders of skin, specified disorders of skin,0.0026366160823967063,,
+C0029785,Other specified disorders of penis, specified disorders of penis,0.0018030241726704709,HP:0000032,Abnormality of male external genitalia
+C0029784,Other specified disorders of nervous system, specified disorders of nervous system,0.0016469556666512365,HP:0000707,Abnormality of the nervous system
+C0029782,Other specified disorders of male genital organs, specified disorders of male genital organs,0.0013441010713169388,HP:0000078,Abnormality of the genital system
+C0029781,Other specified disorders of kidney and ureter, specified disorders of kidney and ureter,0.004400430557887096,,
+C1112781,Posterior subcapsular polar non-senile cataract,posterior subcapsular polar non-senile cataract,0.0011485057052118654,,
+C0085615,Right bundle branch block,,0.002731854189958324,HP:0011712,Right bundle branch block
+C1704321,"Nephrotic Syndrome, Minimal Change","nephrotic syndrome, minimal change",0.0011879065805832237,HP:0000100,Nephrotic syndrome
+C0039104,Synovitis and tenosynovitis,synovitis and tenosynovitis,0.001303886743465652,HP:0001367,Abnormal joint morphology
+C0374984,Group B Streptococcus infection in conditions classified elsewhere and of unspecified site,group b streptococcus infection in conditions classified elsewhere and of  site,0.00257156334239298,HP:0004431,Complement deficiency
+C0374988,Other Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus infection in conditions classified elsewhere and of  site,0.002051686697777858,HP:0002719,Recurrent infections
+C0154671,Degenerative brain disorder,,0.002318622173834441,HP:0007313,Cerebral degeneration
+C0030569,Secondary Parkinson Disease,secondary parkinson disease,0.0011479932416225472,HP:0001300,Parkinsonism
+C0266611,Accessory auricle of ear,,0.001641275584951889,HP:0100687,Polyotia
+C0547030,Visual disturbance,visual disturbance,0.0010300695417130165,,
+C0006742,Gallbladder calculus without mention of cholecystitis and no obstruction,gallbladder calculus ,0.0026034231883966153,,
+C0375546,undiagnosed heart murmur,undiagnosed heart murmur,0.03252011910128388,HP:0030148,Heart murmur
+C0546812,Other disorders of urethra and urinary tract, disorders of urethra and urinary tract,0.001529977069033711,HP:0010936,Abnormality of the lower urinary tract
+C0431741,Malformation of urachus,malformation of urachus,0.001081375689192315,HP:0010479,Patent urachus
+C0010598,Cyclothymic Disorder,cyclothymic disorder,0.002967474462204638,HP:0000708,Behavioral abnormality
+C0037763,Spasm,spasm,0.00814793231792156,,
+C0032650,Popliteal Cyst,popliteal cyst,0.0011447374950902002,HP:0100763,Abnormality of the lymphatic system
+C0037769,West Syndrome,west syndrome,0.0010373116802569198,HP:0011097,Epileptic spasms
+C0221757,alpha 1-Antitrypsin Deficiency,alpha 1-antitrypsin deficiency,0.002135492463382913,,
+C0085292,Stiff-Person Syndrome,stiff-person syndrome,0.0012752443582027416,,
+C0024221,Lymphangioma,,0.0023469948310048923,HP:0100764,Lymphangioma
+C0029124,Optic Atrophy,,0.004496921246935186,HP:0000648,Optic atrophy
+C0154701,Diplegia of upper limbs,diplegia of upper limbs,0.0015037562543856419,HP:0200049,Upper limb hypertonia
+C0155383,Other irregularities of eye movements, irregularities of eye movements,0.0028300219172421623,HP:0012547,Abnormal involuntary eye movements
+C0155382,Smooth pursuit movement deficiency,smooth pursuit movement deficiency,0.002380289892893374,,
+C0154707,"Generalized nonconvulsive epilepsy, without mention of intractable epilepsy","generalized nonconvulsive epilepsy, ",0.008515028781997351,HP:0002197,Generalized seizures
+C0154709,"Generalized convulsive epilepsy, without mention of intractable epilepsy","generalized convulsive epilepsy, ",0.04818051476263196,HP:0002197,Generalized seizures
+C0154251,Lipid Metabolism Disorders,lipid metabolism disorders,0.002290259706837621,HP:0003119,Abnormality of lipid metabolism
+C0158950,Other infections specific to the perinatal period, infections specific to the perinatal period,0.007756122170455414,HP:0002719,Recurrent infections
+C0751057,"Seizure, Febrile, Complex",,0.002270911070245422,HP:0011172,Complex febrile seizures
+C0339670,Disorder of refraction AND/OR accommodation,disorder of refraction and/or accommodation,0.0012899008904803365,HP:0011003,Severe Myopia
+C0149512,Acute sinusitis,,0.004438423992013317,HP:0000255,Acute sinusitis
+C0149517,Chronic tonsillitis,chronic tonsillitis,0.006598598043363267,HP:0012649,Increased inflammatory response
+C0149516,Chronic sinusitis,,0.004723285566406717,HP:0011109,Chronic sinusitis
+C0149514,Acute bronchitis,,0.003005871520089421,HP:0012388,Acute bronchitis
+C0159027,Other specified conditions originating in the perinatal period, specified conditions originating in the perinatal period,0.0021641333646714284,HP:0001197,Abnormality of prenatal development or birth
+C0159020,Convulsions in the newborn,convulsions in the newborn,0.009694994438756583,HP:0001250,Seizures
+C0020676,Hypothyroidism,,0.010643024834786907,HP:0000821,Hypothyroidism
+C0021099,Impetigo,impetigo,0.004787181926569151,HP:0100847,Palmoplantar pustulosis
+C0152096,Complete trisomy 18 syndrome,complete trisomy 18 syndrome,0.0019755835704679267,,
+C0021092,Impacted cerumen,,0.01379979698109644,HP:0030788,Impacted cerumen
+C0400806,"Gastric ulcer, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction","gastric ulcer,  as acute or chronic, ",0.0013238254751031884,,
+C0026265,Diseases of mitral valve,diseases of mitral valve,0.004262986112523988,HP:0001633,Abnormality of the mitral valve
+C0152093,Hypermobility syndrome,hypermobility syndrome,0.003222827852676957,HP:0001382,Joint hypermobility
+C0152091,Osteochondropathy,osteochondropathy,0.005896800749647147,HP:0001367,Abnormal joint morphology
+C0311394,Difficulty walking,,0.011846867306021802,HP:0002355,Difficulty walking
+C0038355,Stomach Diverticulum,,0.004676887822911812,HP:0100808,Gastric diverticulum
+C0267383,Regional ileocolitis,regional ileocolitis,0.0059895548535941435,HP:0100280,Crohn's disease
+C1720771,Testicular Hydrocele,,0.008088438179532226,HP:0100673,Vaginal hydrocele
+C0340419,Other primary cardiomyopathies, primary cardiomyopathies,0.010726653853462095,HP:0001627,Abnormal heart morphology
+C0152419,Interrupted aortic arch,,0.0025948022356938796,HP:0011611,Interrupted aortic arch
+C0153944,Benign neoplasm of small intestine,benign neoplasm of small intestine,0.001038459898293631,HP:0100833,Neoplasm of the small intestine
+C0236756,"Manic disorder, single episode","mania, ",0.0011490800905851225,HP:0100754,Mania
+C0152413,Pneumonia due to respiratory syncytial virus,pneumonia due to respiratory syncytial virus,0.0010326977768192157,,
+C0750903,"Amblyopia, Suppression","amblyopia, suppression",0.013885872185224113,HP:0000646,Amblyopia
+C0152416,Congenital web of larynx,congenital web of larynx,0.001006557143178496,HP:0005950,Laryngeal web
+C0152417,Congenital stenosis of aortic valve,congenital stenosis of aortic valve,0.005829794167215021,,
+C0152415,Ankyloglossia,,0.003057010602962485,HP:0010296,Ankyloglossia
+C0021414,Influenza with respiratory manifestation other than pneumonia,influenza ,0.002139216228548651,,
+C0259797,Dog Bite,dog bite,0.002263374555916445,,
+C0154747,Mononeuritis of lower limb,mononeuritis of lower limb,0.0022690999645763755,HP:0009830,Peripheral neuropathy
+C0001122,Acidosis,,0.0050007231388669695,HP:0001941,Acidosis
+C1719410,Epilepsy and recurrent seizures,epilepsy and recurrent seizures,0.005467133520361362,,
+C0019081,Hemorrhage of rectum and anus,hemorrhage of rectum and anus,0.0037022486710318594,HP:0002242,Abnormality of the intestine
+C0019087,Hemorrhagic Disorders,hemorrhagic disorders,0.001712896520383263,HP:0001928,Abnormality of coagulation
+C0157719,Dermatitis due to other specified substances taken internally,dermatitis due to  specified substances taken internally,0.006911579089587516,,
+C0043144,Wheezing,,0.010946943580846089,HP:0030828,Wheezing
+C0178298,Skin and subcutaneous tissue disorders,skin and subcutaneous tissue disorders,0.0021886346385996606,HP:0011354,Generalized abnormality of skin
+C0156401,Pain and other symptoms associated with female genital organs,pain and  symptoms associated ,0.0023697326348100602,HP:0012531,Pain
+C0375580,Other and unspecified nonspecific immunological findings, and  nonspecific immunological findings,0.006309033756556174,,
+C0158577,Specified congenital anomalies of lacrimal passages,specified congenital anomalies of lacrimal passages,0.001727758409887468,,
+C0158575,Other specified congenital anomalies of eyelid, specified congenital anomalies of eyelid,0.0018371805646965687,HP:0000492,Abnormality of the eyelid
+C0158571,Other congenital anomalies of posterior segment, congenital anomalies of posterior segment,0.001473390221971205,HP:0004329,Abnormality of the posterior segment of the globe
+C0014852,Esophageal Diseases,esophageal diseases,0.002571635894219769,,
+C1510455,Acrocephalosyndactylia,acrocephalosyndactylia,0.005510835003082135,,
+C0014858,Esophageal motility disorders,esophageal motility disorders,0.0012672225972996931,,
+C0003492,Aortic coarctation,,0.02521372786866742,HP:0001680,Coarctation of aorta
+C0342712,Disorder of branched-chain amino acid metabolism,disorder of branched-chain amino acid metabolism,0.002597880514982302,HP:0010892,Abnormality of branched chain family amino acid metabolism
+C0410385,"Acute osteomyelitis, other specified sites","acute osteomyelitis,  specified sites",0.001000082959605041,,
+C1561868,Central sleep apnea in conditions classified elsewhere,central sleep apnea in conditions classified elsewhere,0.0011234928063222334,HP:0010536,Central sleep apnea
+C1719528,Other stomatitis and mucositis (ulcerative), stomatitis and mucositis (ulcerative),0.003910461550268508,HP:0011107,Recurrent aphthous stomatitis
+C1561861,Organic sleep apnea,organic sleep apnea,0.0011978600725350713,HP:0010535,Sleep apnea
+C0005937,Bone Cysts,,0.0040659431131065725,HP:0012062,Bone cyst
+C0156245,Unilateral small kidney,unilateral small kidney,0.001096056031023311,HP:0000105,Enlarged kidneys
+C0018681,Headache,,0.027834992143150477,HP:0002315,Headache
+C0013456,Earache,,0.0022485933274846,HP:0030766,Ear pain
+C0003477,Separation Anxiety Disorder,separation anxiety disorder,0.0013282090007026913,HP:0100851,Abnormal emotion/affect behavior
+C2349266,"Acute lymphoid leukemia, without mention of having achieved remission","acute lymphoid leukemia, ",0.008020666352335329,HP:0006721,Acute lymphoblastic leukemia
+C1955750,Speech and language developmental delay due to hearing loss,speech and language developmental delay due to hearing loss,0.002260139539390063,HP:0000365,Hearing impairment
+C0522274,Humoral immune defect,humoral immune defect,0.00459302602284996,HP:0002843,Abnormality of T cells
+C1719633,Other neonatal endocrine and metabolic disturbances, neonatal endocrine and metabolic disturbances,0.0013360228114359376,HP:0000818,Abnormality of the endocrine system
+C0003873,Rheumatoid Arthritis,,0.00572583896670834,HP:0001370,Rheumatoid arthritis
+C0701163,Adrenogenital disorder,adrenogenital disorder,0.0050054471696233446,HP:0012243,Abnormal genital system morphology
+C0002871,Anemia,,0.011172381372192966,HP:0001903,Anemia
+C0701168,"Tricuspid valve disorder, non-rheumatic","tricuspid valve disorder, non-rheumatic",0.007748807590090088,HP:0001627,Abnormal heart morphology
+C0345010,Atresia and stenosis of aorta,atresia and stenosis of aorta,0.004957282673785989,HP:0010883,Aortic valve atresia
+C0029421,Osteochondritis Dissecans,,0.0036013185364290033,HP:0010886,Osteochondritis Dissecans
+C0018918,"Hemangioma, other sites","hemangioma,  sites",0.001266371213179642,,
+C0018916,Hemangioma,,0.009016298120388577,HP:0001028,Hemangioma
+C0375364,Other colostomy and enterostomy complication, colostomy and enterostomy complication,0.0011043104737909653,HP:0002242,Abnormality of the intestine
+C0375360,Universal ulcerative (chronic) colitis,universal ulcerative (chronic) colitis,0.003363055334456725,,
+C0158715,"Congenital subluxation of hip, bilateral","congenital subluxation of hip, bilateral",0.006717499495606837,HP:0008780,Congenital bilateral hip dislocation
+C0158713,Bilateral congenital dislocation of hip,,0.006681586114502519,HP:0008780,Congenital bilateral hip dislocation
+C0158712,Congenital musculoskeletal deformities of spine,congenital musculoskeletal deformities of spine,0.011522083940330162,HP:0000925,Abnormality of the vertebral column
+C0264133,Acquired flat foot,acquired flat foot,0.01140190518105466,HP:0001763,Pes planus
+C0009763,Conjunctivitis,,0.007698581419113406,HP:0000509,Conjunctivitis
+C0011636,Dermatophytosis,dermatophytosis,0.002625729368242448,,
+C0011633,Dermatomyositis,dermatomyositis,0.003217924409203112,HP:0002960,Autoimmunity
+C0006118,Brain Neoplasms,,0.009662268659974113,HP:0030692,Brain neoplasm
+C0497406,Overweight,overweight,0.0049330011821362915,HP:0004323,Abnormality of body weight
+C0271202,"Hemianopsia, Homonymous",,0.00409638532601653,HP:0030516,Homonymous hemianopia
+C0026850,Muscular Dystrophy,,0.016946505549097473,HP:0003560,Muscular dystrophy
+C0595983,Deficiency of saccadic eye movements,deficiency of saccadic eye movements,0.003184570199837412,,
+C0344616,Congenitally corrected transposition of the great arteries,,0.005782040805345714,HP:0011540,Congenitally corrected transposition of the great arteries
+C0678189,"Hyperlipidemia, group A","hyperlipidemia, group a",0.006874261532646395,HP:0003077,Hyperlipidemia
+C0869419,"Obstructive anomalies of heart, not elsewhere classified","obstructive anomalies of heart, not elsewhere classified",0.004942827715309545,HP:0001627,Abnormal heart morphology
+C0376356,Premenstrual Tension,premenstrual tension,0.0023826974025321383,HP:0000858,Menstrual irregularities
+C2921027,adult onset fluency disorder,stuttering,0.01618051609035045,,
+C0029759,"Other specified anomalies of muscle, tendon, fascia, and connective tissue"," specified anomalies of muscle, tendon, fascia, and connective tissue",0.001372565279691846,HP:0001771,Achilles tendon contracture
+C0040558,Toxoplasmosis,toxoplasmosis,0.0022636084161539722,HP:0010978,Abnormality of immune system physiology
+C0029753,Other specified cerebral degenerations in childhood, specified cerebral degenerations in ,0.02048085631764601,HP:0007313,Cerebral degeneration
+C0374995,"Other specified bacterial infections in conditions classified elsewhere and of unspecified site, other anaerobes"," specified bacterial infections in conditions classified elsewhere and of  site,  anaerobes",0.0021885349986902358,,
+C0374996,"Other specified bacterial infections in conditions classified elsewhere and of unspecified site, other gram-negative organisms"," specified bacterial infections in conditions classified elsewhere and of  site,  gram-negative organisms",0.001707625619650031,HP:0005420,Recurrent gram-negative bacterial infections
+C0374991,"Staphylococcus infection in conditions classified elsewhere and of unspecified site, other staphylococcus","staphylococcus infection in conditions classified elsewhere and of  site,  staphylococcus",0.0013401998706951937,HP:0002719,Recurrent infections
+C0374990,Methicillin susceptible Staphylococcus aureus in conditions classified elsewhere and of unspecified site,methicillin susceptible staphylococcus aureus in conditions classified elsewhere and of  site,0.0020643182526295855,,
+C0025958,Microcephaly,microcephaly,0.013608465246045656,HP:0000252,Microcephaly
+C0154668,Other cerebral degeneration, cerebral degeneration,0.0023117115744427145,HP:0007313,Cerebral degeneration
+C0154667,Unspecified cerebral degeneration in childhood, cerebral degeneration in ,0.005026787535504538,HP:0007313,Cerebral degeneration
+C0271375,Fourth cranial nerve paresis,,0.002816081610092267,HP:0007011,Fourth cranial nerve palsy
+C0265554,Ectrodactyly,,0.0010745130474648663,HP:0100257,Ectrodactyly
+C0260707,Other cardiorespiratory problems, cardiorespiratory problems,0.0011976289382531044,HP:0011804,Abnormality of muscle physiology
+C0265553,Polysyndactyly,polysyndactyly,0.0011433633043443534,,
+C0175999,Post-inflammatory pulmonary fibrosis,post-inflammatory pulmonary fibrosis,0.001035445199591434,HP:0002099,Asthma
+C1096624,Periumbilical pain,periumbilical pain,0.0020251628774752093,,
+C0154808,Retinal detachment with retinal defect,retinal detachment ,0.0023145260809471725,HP:0000541,Retinal detachment
+C0332815,Nonvenomous insect bite,nonvenomous insect bite,0.002544568971141671,,
+C0375006,Chronic viral hepatitis B without mention of hepatic coma without mention of hepatitis delta,chronic viral hepatitis b ,0.0010358821363285844,HP:0006562,Viral hepatitis
+C0154713,"Partial epilepsy, with impairment of consciousness, with intractable epilepsy"," epilepsy, ",0.01597726849964179,HP:0001250,Seizures
+C0154712,"Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures, with intractable epilepsy", (focal) () epilepsy and epileptic syndromes ,0.0038218601261473264,,
+C0154710,"Generalized convulsive epilepsy, with intractable epilepsy","generalized convulsive epilepsy, ",0.01452595882021078,HP:0002197,Generalized seizures
+C0040485,Torticollis,,0.012300754812545884,HP:0000473,Torticollis
+C0154716,"Infantile spasms, with intractable epilepsy"," spasms, ",0.004933398562239395,HP:0004305,Involuntary movements
+C0154247,Other disturbances of straight-chain amino-acid metabolism, disturbances of straight-chain amino-acid metabolism,0.008740755992070227,,
+C0154714,"Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures, without mention of intractable epilepsy", (focal) () epilepsy and epileptic syndromes ,0.013855804787809737,,
+C0154719,"Other forms of epilepsy and recurrent seizures, without mention of intractable epilepsy"," forms of epilepsy and recurrent seizures, ",0.00764947532617369,HP:0002197,Generalized seizures
+C0007570,Celiac Disease,,0.005663158740791864,HP:0012538,Gluten intolerance
+C0158925,Other cranial and peripheral nerve injuries due to birth trauma, cranial and peripheral nerve injuries due to birth trauma,0.0015561958171177383,HP:0000759,Abnormal peripheral nervous system morphology
+C0014065,Congenital cerebral hernia,,0.00447848508681904,HP:0002084,Encephalocele
+C2362836,"Other forms of migraine, without mention of intractable migraine without mention of status migrainosus"," forms of migraine, ",0.001747126137081216,HP:0002076,Migraine
+C0424605,Developmental delay (disorder),developmental delay (disorder),0.048443644254772364,HP:0001263,Global developmental delay
+C0159039,Spontaneous bruising,spontaneous bruising,0.0012999255082845748,HP:0000978,Bruising susceptibility
+C0030252,Palpitations,,0.00378791173828233,HP:0001962,Palpitations
+C0149526,Allergic urticaria,allergic urticaria,0.003091313646814272,HP:0001025,Urticaria
+C0149523,Acute cystitis,acute cystitis,0.0026565166901262507,HP:0012786,Recurrent cystitis
+C0159036,Other symptoms involving nervous and musculoskeletal systems, symptoms involving nervous and musculoskeletal systems,0.009047279192364725,HP:0000708,Behavioral abnormality
+C0011168,Deglutition Disorders,,0.02720537355491307,HP:0002015,Dysphagia
+C0041970,Urethral fistula,,0.004102722697402284,HP:0010480,Urethral fistula
+C0549423,Obstructive Hydrocephalus,,0.029261924031531064,HP:0010953,Noncommunicating hydrocephalus
+C0340629,Aortic aneurysm without mention of rupture NOS,aortic aneurysm ,0.005841908061465133,HP:0004942,Aortic aneurysm
+C0041974,Urethral Stricture,,0.002327988717103879,HP:0012227,Urethral stricture
+C0041207,"Truncus Arteriosus, Persistent","truncus arteriosus, persistent",0.0021719872122303125,HP:0001660,Truncus arteriosus
+C0155823,Other polyp of sinus, polyp of sinus,0.0015606793260218629,HP:0011793,Neoplasm by anatomical site
+C0155537,Impaired auditory discrimination,impaired auditory discrimination,0.013056598438683323,HP:0000364,Hearing abnormality
+C0155829,Enlargement of tonsil or adenoid,enlargement of tonsil or adenoid,0.03718087397321915,HP:3000033,Abnormality of nasopharyngeal adenoids
+C0546826,Dermatophytosis of the body,dermatophytosis of the body,0.002405178616790946,,
+C0001339,Acute pancreatitis,,0.003371760163350102,HP:0001735,Acute pancreatitis
+C0016167,Anal Fissure,,0.0011996801181731363,HP:0012390,Anal fissure
+C0157917,Pauciarticular juvenile rheumatoid arthritis,pauciarticular juvenile rheumatoid arthritis,0.0039640085798063615,HP:0005681,Juvenile rheumatoid arthritis
+C1719405,Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, (focal) () epilepsy and epileptic syndromes ,0.0018882284368611259,,
+C0004691,Balanoposthitis,balanoposthitis,0.0031192551410849025,HP:0030683,Vaginitis
+C0348737,Other ulcerative colitis, ulcerative colitis,0.0012015999525332923,HP:0100279,Ulcerative colitis
+C0157701,Cellulitis and abscess of buttock,cellulitis and abscess of buttock,0.0014286564431887792,HP:0010771,Pilonidal abscess
+C0157702,"Cellulitis and abscess of leg, except foot","cellulitis and abscess of leg, except foot",0.007464623452226819,HP:0002719,Recurrent infections
+C0005586,Bipolar Disorder,,0.014548299026174463,HP:0007302,Bipolar affective disorder
+C0272126,Evans syndrome,evans syndrome,0.0024867479588114223,,
+C0836917,Subdural and cerebral hemorrhage due to birth trauma,subdural and cerebral hemorrhage due to birth trauma,0.002317881284333575,HP:0012443,Abnormality of brain morphology
+C0156092,Acute appendicitis with generalized peritonitis,acute appendicitis ,0.0021082241894161895,,
+C0156093,Acute appendicitis with peritoneal abscess (disorder),acute appendicitis ,0.0025823557078136013,,
+C0156094,Acute appendicitis without mention of peritonitis,acute appendicitis ,0.0018926610843244885,,
+C0153114,Unspecified viral infection in conditions classified elsewhere and of unspecified site, viral infection in conditions classified elsewhere and of  site,0.031462647399857394,HP:0002719,Recurrent infections
+C0158545,Microphthalmos associated with other anomalies of eye AND/OR adnexa,microphthalmos associated ,0.001998877180504437,HP:0000568,Microphthalmia
+C0478058,Other specified congenital malformations of kidney,phenotypic abnormality of kidney,0.0069056008161804,HP:0000077,Abnormality of the kidney
+C0014866,Esophageal Stenosis,,0.0010269858340973543,HP:0002043,Esophageal stricture
+C0375777,Infection with microorganisms resistant to penicillins,infection ,0.0024031124433710285,HP:0002719,Recurrent infections
+C0021933,Intussusception,,0.0011834710091699206,HP:0002576,Intussusception
+C0014868,Esophagitis,,0.024305206336491702,HP:0100633,Esophagitis
+C0014869,Peptic Esophagitis,peptic esophagitis,0.0025789766229896995,HP:0100633,Esophagitis
+C1561874,"Circadian rhythm sleep disorder, irregular sleep wake type","circadian rhythm sleep disorder, irregular sleep wake type",0.0012005385842324004,,
+C0156274,Other functional disorder of bladder, functional disorder of bladder,0.0012005204728987133,HP:0000009,Functional abnormality of the bladder
+C0033677,Protein-Energy Malnutrition,protein-energy malnutrition,0.004612723364510222,HP:0001939,Abnormality of metabolism/homeostasis
+C0156273,Bladder Diverticulum,,0.0012489006274856262,HP:0000015,Bladder diverticulum
+C0375489,Other dyschromia, dyschromia,0.004220056151285228,HP:0011121,Abnormality of skin morphology
+C0375487,"Contact dermatitis and other eczema, unspecified cause","contact dermatitis and  eczema,  cause",0.009635571457560579,HP:0001047,Atopic dermatitis
+C0017168,Gastroesophageal reflux disease,,0.08997830015585606,HP:0002020,Gastroesophageal reflux
+C0033816,Pseudomonas infection in conditions classified elsewhere and of unspecified site,pseudomonas infection in conditions classified elsewhere and of  site,0.001539243191786037,,
+C0158497,Adolescent postural kyphosis,adolescent postural kyphosis,0.0014193408087042644,,
+C0158490,Acquired equinus deformity of foot,acquired equinus deformity of foot,0.001449449415234679,HP:0001762,Talipes equinovarus
+C0158493,Acquired cavovarus deformity of foot,acquired cavovarus deformity of foot,0.0029659805754883024,,
+C0027498,Nausea and vomiting,,0.008713003764622883,HP:0002017,Nausea and vomiting
+C0013069,Double Outlet Right Ventricle,,0.007407983836792292,HP:0001719,Double outlet right ventricle
+C0022650,Kidney Calculi,kidney calculi,0.006440685630170637,HP:0000787,Nephrolithiasis
+C0155336,Esotropia with accommodative compensation,esotropia ,0.009049910342193362,HP:0000565,Esotropia
+C0029434,Osteogenesis Imperfecta,osteogenesis imperfecta,0.011701718973906481,HP:0000924,Abnormality of the skeletal system
+C0432068,"Congenital musculoskeletal deformities of skull, face, and jaw",abnormality of the head,0.03854959318434246,HP:0000234,Abnormality of the head
+C0338893,"Major depressive affective disorder, recurrent episode, in partial or unspecified remission","major depressive affective disorder, re, ",0.0013414752369848976,HP:0000716,Depression
+C0158728,Other congenital valgus deformities of feet, congenital valgus deformities of feet,0.00136290127841705,,
+C0158729,Other congenital deformities of feet, congenital deformities of feet,0.002211171075140661,HP:0001760,Abnormality of the foot
+C0158720,Congenital bowing of tibia and/or fibula,congenital bowing of tibia and/or fibula,0.0014992573986210066,,
+C0158725,Other congenital varus deformities of feet, congenital varus deformities of feet,0.0024920526145272917,,
+C0521648,Neonatal respiratory failure,neonatal respiratory failure,0.0021021084221648787,HP:0002093,Respiratory insufficiency
+C0375554,Other urinary incontinence, urinary incontinence,0.0025707102498597366,HP:0000020,Urinary incontinence
+C0375555,"Abdominal pain, other specified site","abdominal pain,  specified site",0.001924414793028567,HP:0002027,Abdominal pain
+C0375552,Post void dribbling,post void dribbling,0.001006272024750523,,
+C0476232,Jaundice (not of newborn),jaundice (not of newborn),0.0019119100589256252,HP:0006579,Prolonged neonatal jaundice
+C0949135,Other constipation, constipation,0.0053970581310045,HP:0002019,Constipation
+C1384666,hearing impairment,,0.06486888375979884,HP:0000365,Hearing impairment
+C0011991,Diarrhea,,0.013283752696426523,HP:0002014,Diarrhea
+C0260398,Need for desensitization to allergens,need for desensitization to allergens,0.0010943981453817237,HP:0100326,Immunologic hypersensitivity
+C0085584,Encephalopathies,,0.02265790321508242,HP:0001298,Encephalopathy
+C0085580,Essential Hypertension,essential hypertension,0.013764690243169526,HP:0000822,Hypertension
+C0260395,Unspecified combined vaccine, combined vaccine,0.0027736031551948547,HP:0005368,Abnormality of humoral immunity
+C0026848,Myopathy,,0.0025051782944351835,HP:0003198,Myopathy
+C2745960,Neonatal obstruction of nasolacrimal duct,neonatal obstruction of nasolacrimal duct,0.002548029985697915,HP:0000579,Nasolacrimal duct obstruction
+C0868777,Persistent disorder of initiating or maintaining sleep,persistent disorder of initiating or maintaining sleep,0.004493508536310113,HP:0002360,Sleep disturbance
+C0085639,Falls,,0.005972813337360782,HP:0002527,Falls
+C0869423,"Mineral deficiency, NEC in ICD9CM_2014","mineral deficiency,",0.0011840014701781337,,
+C0009806,Constipation,,0.11511830845128532,HP:0002019,Constipation
+C0029748,"Other specified bacterial infections in conditions classified elsewhere and of unspecified site, other specified bacteria"," specified bacterial infections in conditions classified elsewhere and of  site,  specified bacteria",0.0010523385220960843,,
+C0011757,Developmental Coordination Disorder,motor delay,0.07037919826342935,HP:0001270,Motor delay
+C0038436,Post-Traumatic Stress Disorder,post-traumatic stress disorder,0.01157396287578427,,
+C0029741,Other specified disorders of muscle, specified disorders of muscle,0.0021592810008803326,HP:0003011,Abnormality of the musculature
+C0158155,Effusion of lower leg joint,effusion of lower leg joint,0.0021463128077526226,HP:0100491,Abnormality of lower limb joint
+C0375162,"Schizo-affective type schizophrenia, unspecified state"," schizophrenia,  state",0.006898529987963731,,
+C0029745,Other specified aplastic anemias, specified aplastic anemias,0.0025066488729231368,HP:0012130,Abnormality of cells of the erythroid lineage
+C0158156,Joint effusion of ankle AND/OR foot,joint effusion of ankle and/or foot,0.0010066134812660125,,
+C0040761,Transposition of Great Vessels,transposition of great vessels,0.005620925806949908,HP:0001669,Transposition of the great arteries
+C0020474,"Hyperlipidemia, Familial Combined",,0.0012728587057262459,HP:0008158,Hyperapobetalipoproteinemia
+C0154125,Neoplasm of uncertain behavior of soft tissues,neoplasm of uncertain behavior of soft tissues,0.0011714224666353934,HP:0011793,Neoplasm by anatomical site
+C0878706,"Lack of normal physiological development, unspecified","lack of normal physiological development, ",0.06671857121670839,HP:0001263,Global developmental delay
+C0878708,Other abnormality of red blood cells, abnormality of red blood cells,0.0012375758466606419,HP:0001877,Abnormality of erythrocytes
+C0003132,Anoxic Encephalopathy,anoxic encephalopathy,0.0036261991208485413,HP:0012638,Abnormality of nervous system physiology
+C0023654,Lichenification and lichen simplex chronicus,lichenification and lichen simplex chronicus,0.001736070173758563,,
+C0149846,Achilles bursitis,achilles bursitis,0.002443435847112926,,
+C0677061,Pain in thoracic spine,pain in thoracic spine,0.0012860484452424676,HP:0100749,Chest pain
+C0024207,"Lymphadenitis, unspecified, except mesenteric","lymphadenitis, , except mesenteric",0.0013919904683681013,,
+C0221002,"Hyperparathyroidism, Primary",,0.0011743284184127201,HP:0008200,Primary hyperparathyroidism
+C0012711,Disorders of bilirubin excretion,disorders of bilirubin excretion,0.001198572653374041,HP:0001939,Abnormality of metabolism/homeostasis
+C0154724,Cerebral cyst,cerebral cyst,0.006190333570876679,HP:0010576,Intracranial cystic lesion
+C0154722,"Epilepsy, unspecified, with intractable epilepsy","epilepsy, , ",0.012813406586243109,HP:0001250,Seizures
+C0154720,"Other forms of epilepsy and recurrent seizures, with intractable epilepsy"," forms of epilepsy and recurrent seizures, ",0.005241184668559727,HP:0002197,Generalized seizures
+C0154721,"Epilepsy, unspecified, without mention of intractable epilepsy","epilepsy, , ",0.07703626160290003,HP:0001250,Seizures
+C0270148,Perinatal cyanotic attacks,perinatal cyanotic attacks,0.0017673471582134517,,
+C0004063,Assault,assault,0.0013099484623196002,,
+C0158936,Interstitial emphysema and related conditions,interstitial emphysema and related conditions,0.0013124536236653538,,
+C0158935,Congenital pneumonia,congenital pneumonia,0.0010813767475858374,,
+C0158931,"Severe birth asphyxia, APGAR 0-3","severe birth asphyxia, apgar 0-3",0.0023916154416152337,,
+C0149530,Congenital heart block,congenital heart block,0.005168239064758016,HP:0001627,Abnormal heart morphology
+C0265618,Reduction deformity of lower limb,reduction deformity of lower limb,0.0037480789419888348,HP:0002814,Abnormality of the lower limb
+C0004998,Benign neoplasm of skin,benign neoplasm of skin,0.001982920158047274,HP:0008069,Neoplasm of the skin
+C0159045,"Swelling, mass, or lump in head and neck","swelling, mass, or lump in head and neck",0.0032781237370165615,,
+C0159047,Symbolic dysfunction,impaired social interactions,0.5042121991641739,HP:0000735,Impaired social interactions
+C0004991,Benign neoplasm of colon,benign neoplasm of colon,0.0011235821827355855,HP:0100273,Neoplasm of the colon
+C0159043,"Other symptoms concerning nutrition, metabolism, and development"," symptoms concerning nutrition, metabolism, and development",0.0031290120884200977,HP:0000708,Behavioral abnormality
+C0431320,Thoracic spina bifida with hydrocephalus,thoracic spina bifida ,0.003291012070402619,,
+C0011175,Dehydration,,0.0083381847852161,HP:0001944,Dehydration
+C0040588,Tracheoesophageal Fistula,,0.0014631574786788748,HP:0002575,Tracheoesophageal fistula
+C0155834,Other chronic diseases of tonsils and adenoids, chronic diseases of tonsils and adenoids,0.0032179128760494004,HP:3000033,Abnormality of nasopharyngeal adenoids
+C0020302,Hydrophthalmos,,0.0024525366410281368,HP:0001087,Congenital glaucoma
+C0155527,"Other disorders of ear, other"," disorders of ear, ",0.0018641473471451887,HP:0000598,Abnormality of the ear
+C0008698,Chronic maxillary sinusitis,chronic maxillary sinusitis,0.007507790842498773,HP:0430028,Hyperplasia of the maxilla
+C0153960,Benign neoplasm of bones of skull and face,benign neoplasm of bones of skull and face,0.0013485155302590634,,
+C0010623,Cyst and pseudocyst of pancreas,cyst and pseudocyst of pancreas,0.0037928912419765027,,
+C0153967,Benign neoplasm of short bones of lower limb,benign neoplasm of short bones of lower limb,0.0010062711525129259,HP:0011793,Neoplasm by anatomical site
+C0153966,Benign neoplasm of long bones of lower limb,benign neoplasm of long bones of lower limb,0.0023528188125436903,HP:0011793,Neoplasm by anatomical site
+C0152166,Pancreatic steatorrhea,pancreatic steatorrhea,0.003801456416643764,,
+C0152165,Persistent vomiting,persistent vomiting,0.00628728483172629,,
+C0549567,Pigmentation Disorders,pigmentation disorders,0.003564887663286526,HP:0001000,Abnormality of skin pigmentation
+C0152169,Renal Colic,renal colic,0.0014503866754497926,,
+C0152189,Stimulus deprivation amblyopia,stimulus deprivation amblyopia,0.005698826442548974,,
+C0553977,Acute and subacute bacterial endocarditis,acute and subacute bacterial endocarditis,0.0010854294372878452,HP:0006689,Bacterial endocarditis
+C0152183,Explosive personality disorder,explosive personality disorder,0.0011612600539602882,HP:0012075,Personality disorder
+C0152187,Amblyopia ex anopsia,amblyopia ex anopsia,0.0012005204728987133,,
+C0752295,Confusional Arousals,confusional arousals,0.0010002254793393052,,
+C0238551,Left lower quadrant pain,left lower quadrant pain,0.0021384838416802555,,
+C0022823,Acquired postural kyphosis,acquired postural kyphosis,0.012859767966723239,HP:0002808,Kyphosis
+C0022820,Kyphoscoliosis and scoliosis,kyphoscoliosis and scoliosis,0.0018155525105646613,HP:0002650,Scoliosis
+C0272153,Neonatal polycythemia,neonatal polycythemia,0.0010974734987187608,,
+C0024796,Marfan Syndrome,marfan syndrome,0.002798661914771831,,
+C0156081,"Unspecified gastritis and gastroduodenitis, without mention of hemorrhage"," gastritis and gastroduodenitis, ",0.002540075341546915,HP:0005263,Gastritis
+C0156083,"Duodenitis, without mention of haemorrhage","duodenitis, ",0.0021203618794396065,HP:0100633,Esophagitis
+C0920296,Developmental reading disorder,developmental reading disorder,0.012638361056917112,,
+C2315800,Oral phase dysphagia,oral phase dysphagia,0.0025310933434944563,,
+C0008031,Chest Pain,,0.01162094296797514,HP:0100749,Chest pain
+C0014877,Esotropia,,0.024880337232987368,HP:0000565,Esotropia
+C0549397,Deviated nasal septum,,0.0016653981134019558,HP:0004411,Deviated nasal septum
+C1561849,Insomnia due to medical condition classified elsewhere,insomnia due to medical condition classified elsewhere,0.001577958537669893,,
+C0343642,"Viral warts, unspecified","viral warts, ",0.004690296918459198,HP:0200043,Verrucae
+C0728950,Vomiting alone,vomiting alone,0.024278681574992512,HP:0002013,Vomiting
+C0152212,Intermittent alternating esotropia,intermittent alternating esotropia,0.006326977295622042,HP:0001137,Alternating esotropia
+C1456201,Anomalies of tooth position of fully erupted teeth,anomalies of tooth position of fully erupted teeth,0.003398906949095074,,
+C0152216,Esophoria,esophoria,0.0017142283911823098,,
+C0152217,Exophoria,exophoria,0.0025313743917237054,,
+C0042870,Vitamin D Deficiency,,0.003434897435566588,HP:0100512,Vitamin D deficiency
+C0015409,"Eye Injuries, Penetrating","eye injuries, penetrating",0.001010849534126253,,
+C0002418,Amblyopia,,0.00271694274451448,HP:0000646,Amblyopia
+C0158485,Acquired genu varum,acquired genu varum,0.0013441614394376549,HP:0002970,Genu varum
+C0158484,Acquired genu valgum,acquired genu valgum,0.0014533497162786712,HP:0002857,Genu valgum
+C1955733,"Peripheral T cell lymphoma, lymph nodes of inguinal region and lower limb","peripheral t cell lymphoma, lymph nodes of inguinal region and lower limb",0.0011996801181731363,,
+C0158480,Acquired coxa valga,acquired coxa valga,0.0025311137146779815,HP:0002673,Coxa valga
+C0701146,"Specified congenital anomalies of anterior chamber, chamber angle, and related structures","specified congenital anomalies of anterior chamber, chamber angle, and related structures",0.001028227682354658,,
+C0158489,Acquired clubfoot,acquired clubfoot,0.013162015169254412,HP:0001762,Talipes equinovarus
+C0158488,Other acquired deformities of ankle and foot, acquired deformities of ankle and foot,0.004220817231827056,,
+C0013720,Ehlers-Danlos Syndrome,ehlers-danlos syndrome,0.005136292645205753,,
+C0410740,Acquired deformity of finger,,0.0013138107503961275,HP:0004097,Deviation of finger
+C0012236,DiGeorge Syndrome,digeorge syndrome,0.004173518885914347,HP:0040064,Abnormality of limbs
+C1282912,"Juvenile osteochondrosis of lower extremity, excluding foot","juvenile osteochondrosis of lower extremity, excluding foot",0.002325153765445247,,
+C1306246,"Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, without mention of intractable epilepsy", (focal) () epilepsy and epileptic syndromes ,0.04191133334209131,,
+C1961111,Tremor NEC in ICD9CM_2014,tremor,0.0015747737681352865,HP:0001337,Tremor
+C0338886,"Major depressive affective disorder, single episode, in partial or unspecified remission","major depressive affective disorder, , ",0.011237448834375573,HP:0000716,Depression
+C0153633,Malignant neoplasm of brain,malignant neoplasm of brain,0.004444790904805233,HP:0030692,Brain neoplasm
+C0034931,Reflex Sympathetic Dystrophy,reflex sympathetic dystrophy,0.002137693513748061,HP:0011804,Abnormality of muscle physiology
+C0153635,malignant neoplasm of frontal lobe,malignant neoplasm of frontal lobe,0.001013304877459026,HP:0010797,Hemangioblastoma
+C0153634,Malignant neoplasm of cerebrum (excluding lobes and ventricles),malignant neoplasm of cerebrum (excluding lobes and ventricles),0.004391315672308302,,
+C0271411,Referred otalgia,referred otalgia,0.004096623425026851,HP:0002315,Headache
+C0153638,Malignant neoplasm of occipital lobe,malignant neoplasm of occipital lobe,0.002048217072557427,,
+C0158736,Syndactyly of fingers with fusion of bones,,0.0011240519797278347,HP:0010492,Osseous finger syndactyly
+C0158730,Other specified nonteratogenic anomalies, specified nonteratogenic anomalies,0.002057165924368011,,
+C0158733,Hand polydactyly,,0.005416256012802223,HP:0001161,Hand polydactyly
+C0265973,Vascular hamartoma of skin,vascular hamartoma of skin,0.008266265995798444,,
+C2349442,"Variants of migraine, not elsewhere classified, without mention of intractable migraine without mention of status migrainosus","variants of migraine, not elsewhere classified, ",0.0015637800212211766,,
+C0375549,Other specified retention of urine, specified retention of urine,0.001237153930415843,,
+C0264156,Acquired unequal leg length,acquired unequal leg length,0.01188884483548364,,
+C0264150,Acquired deformity of ankle AND/OR foot,acquired deformity of ankle and/or foot,0.0013327441208949168,,
+C0342115,Non-toxic uninodular goiter,non-toxic uninodular goiter,0.0019031371585764626,,
+C0035086,Renal Osteodystrophy,renal osteodystrophy,0.002706431709064123,HP:0011277,Abnormality of the urinary system physiology
+C0018800,Cardiomegaly,,0.011289927879382154,HP:0001640,Cardiomegaly
+C0018801,Heart failure,heart failure,0.002625247484770799,HP:0001635,Congestive heart failure
+C0018802,Congestive heart failure,,0.031217916756232904,HP:0001635,Congestive heart failure
+C0029591,Other disorders of lipoid metabolism, disorders of lipoid metabolism,0.002720246543318496,,
+C0029594,Other disorders of plasma protein metabolism, disorders of plasma protein metabolism,0.0014388398094727292,HP:0001939,Abnormality of metabolism/homeostasis
+C0158020,Unspecified polyarthropathy or polyarthritis involving hand, polyarthropathy or polyarthritis involving hand,0.001993182503874334,HP:0001854,Gout (feet)
+C0260654,Mental and behavioral problems with learning in ICD9CM,mental and behavioral problems ,0.001149384894333333,HP:0000708,Behavioral abnormality
+C0260655,Mental and behavioral problems with communication [including speech],mental and behavioral problems ,0.0011443773893466736,HP:0000708,Behavioral abnormality
+C0476465,Other unknown and unspecified cause of morbidity and mortality, unknown and  cause of ity and mortality,0.007611619087980789,HP:0002719,Recurrent infections
+C1961841,MYELOPATHY NEC in ICD9CM,myelopathy,0.0010159689935283012,HP:0002196,Myelopathy
+C0235299,Right upper quadrant pain,right upper quadrant pain,0.001609529706234534,HP:0012531,Pain
+C0302467,Congenital anomaly of aorta,congenital anomaly of aorta,0.002569191321720531,HP:0030680,Abnormality of cardiovascular system morphology
+C0431510,"Other anomalies of larynx, trachea, and bronchus"," anomalies of larynx, trachea, and bronchus",0.01556755743812135,HP:0002778,Abnormality of the trachea
+C0375153,Other specified hypoglycemia, specified hypoglycemia,0.001197715646319083,HP:0001943,Hypoglycemia
+C0034372,Quadriplegia,,0.005930443932845524,HP:0002445,Tetraplegia
+C0268641,Amino acid transport disorder,amino acid transport disorder,0.001125935818359932,,
+C0020461,Hyperkalemia,,0.0032288395130696127,HP:0002153,Hyperkalemia
+C0029774,Other specified disorders of amino-acid metabolism, specified disorders of amino-acid metabolism,0.002287616120245485,HP:0004360,Abnormality of acid-base homeostasis
+C0029771,Other specified diseases of pancreas, specified diseases of pancreas,0.0017608013154771314,HP:0001732,Abnormality of the pancreas
+C0878773,Overactive Bladder,overactive bladder,0.003177753858454856,HP:0000020,Urinary incontinence
+C0003123,Anorexia,,0.004472580618106022,HP:0002039,Anorexia
+C0154138,Toxic diffuse goiter without mention of thyrotoxic crisis or storm,toxic diffuse goiter ,0.006678174234215658,HP:0011784,Thyrotoxicosis with diffuse goiter
+C0003125,Anorexia Nervosa,anorexia nervosa,0.007503106147552257,HP:0002039,Anorexia
+C0868890,Electrolyte and fluid disorders NEC in ICD9CM_2014,electrolyte and fluid disorders,0.002294696721483486,HP:0003111,Abnormality of ion homeostasis
+C0868892,"Depressive disorder, NEC in ICD9CM_2014","depressive disorder,",0.035164625104111884,HP:0000716,Depression
+C0265027,Non-neoplastic nevus of skin,non-neoplastic nevus of skin,0.0012261312345301656,,
+C0156404,Irregular periods,,0.006443736397803005,HP:0000858,Menstrual irregularities
+C0007959,Charcot-Marie-Tooth Disease,charcot-marie-tooth disease,0.002521895208293835,HP:0000759,Abnormal peripheral nervous system morphology
+C0375026,Viral and chlamydial infection in conditions classified elsewhere and of unspecified site,viral and chlamydial infection in conditions classified elsewhere and of  site,0.013150163467036846,,
+C1260417,Ulcer of esophagus without bleeding,ulcer of esophagus ,0.002137693513748061,HP:0100580,Barrett esophagus
+C0837691,"Polyarticular juvenile rheumatoid arthritis, chronic or unspecified","polyarticular juvenile rheumatoid arthritis, chronic or ",0.008624304773943514,HP:0005681,Juvenile rheumatoid arthritis
+C0006625,Cachexia,,0.0011442828537400508,HP:0004326,Cachexia
+C0027947,Neutropenia,neutropenia,0.01398479058305645,HP:0001875,Neutropenia
+C0154733,Multiple cranial nerve palsy,multiple cranial nerve palsy,0.00229915031337298,HP:0006824,Cranial nerve paralysis
+C0154227,"malnutrition; degree, moderate","malnutrition; degree, moderate",0.0031564450495975443,,
+C1260414,Other iatrogenic hypotension, iatrogenic hypotension,0.002228508664280723,HP:0002615,Hypotension
+C0869432,"Other joint derangement, NEC, involving ankle and foot in MTHICD9_2014"," joint derangement, nec, involving ankle and foot in mthicd9_2014",0.0012144833959119863,HP:0100492,Joint contractures involving the joints of the feet
+C0431681,Renal pelvis and ureter obstructive defects,renal pelvis and ureter obstructive defects,0.004489217969805082,HP:0000069,Abnormality of the ureter
+C0154228,"malnutrition; degree, mild","malnutrition; degree, mild",0.004856825744836989,,
+C0452153,"Mixed conductive and sensorineural hearing loss, bilateral","mixed conductive and sensorineural hearing loss, bilateral",0.0010698709357776807,HP:0008513,Bilateral conductive hearing impairment
+C0159057,Other symptoms involving respiratory system and chest, symptoms involving respiratory system and chest,0.004435678874276033,,
+C0159055,"Swelling, mass, or lump in chest","swelling, mass, or lump in chest",0.0019766251583363897,HP:0001547,Abnormality of the rib cage
+C0162164,Congenital stenosis of pulmonary valve,congenital stenosis of pulmonary valve,0.01356637722131856,HP:0001642,Pulmonic stenosis
+C0348343,"Malignant neoplasm of bronchus or lung, unspecified","malignant neoplasm of bronchus or lung, ",0.001309800487501992,HP:0100551,Neoplasm of the trachea
+C0020645,Hyposmolality and/or hyponatremia,hyposmolality and/or hyponatremia,0.0029493692725013044,HP:0010929,Abnormality of cation homeostasis
+C0154828,Traction detachment of retina,traction detachment of retina,0.001192880476420626,HP:0000541,Retinal detachment
+C0020649,Hypotension,,0.002154624060365792,HP:0002615,Hypotension
+C0158839,Fetus or neonate affected by breech delivery and extraction,fetus or neonate affected by breech delivery and extraction,0.007377475421166039,HP:0001787,Abnormal delivery
+C0001311,Acute bronchiolitis,acute bronchiolitis,0.014139567010705179,HP:0002088,Abnormality of the lung
+C0337228,Fall from bed,fall from bed,0.0019718547355036748,,
+C0024523,Malabsorption Syndrome,malabsorption syndrome,0.003756175945807408,,
+C0024528,Malaise and fatigue,malaise and fatigue,0.0012149271209802328,,
+C0036440,Idiopathic scoliosis and kyphoscoliosis, scoliosis and kyphoscoliosis,0.09447974043608776,HP:0002650,Scoliosis
+C0162296,Polyarthralgia,polyarthralgia,0.003708095812664931,HP:0002829,Arthralgia
+C0008684,Chronic gingivitis,chronic gingivitis,0.0012375821658065494,HP:0000230,Gingivitis
+C0008681,Chronic ethmoidal sinusitis,chronic ethmoidal sinusitis,0.005480322216059592,HP:0000245,Abnormality of the paranasal sinuses
+C0152171,Idiopathic pulmonary hypertension, pulmonary hypertension,0.025371445419504795,HP:0002092,Pulmonary hypertension
+C0039437,Teething syndrome,teething syndrome,0.0012075815710797634,HP:0000271,Abnormality of the face
+C0700345,"Candidiasis, Vulvovaginal","candidiasis, vulvovaginal",0.0012004428638810241,HP:0012204,Recurrent vulvovaginal candidiasis
+C0010380,Croup,abnormality of the vocal cords,0.03285900034476137,HP:0008777,Abnormality of the vocal cords
+C0008512,Chorioretinal scar,,0.0028220987338823554,HP:0007777,Chorioretinal scar
+C0158909,"Other preterm infants, 1,250-1,499 grams"," preterm infants, 1,250-1,499 grams",0.0015143521531144968,,
+C0000737,Abdominal Pain,,0.02531339390606608,HP:0002027,Abdominal pain
+C0155175,Abscess of eyelid,abscess of eyelid,0.001983773126368282,,
+C0014394,Enuresis,,0.0072707800144138825,HP:0000805,Enuresis
+C0014390,Entropion,,0.0010484971823567658,HP:0000621,Entropion
+C0152193,Regular astigmatism,regular astigmatism,0.002315333813062697,HP:0000483,Astigmatism
+C0152190,Refractive amblyopia,refractive amblyopia,0.015936005550947447,HP:0000540,Hypermetropia
+C0154429,"Bipolar affective disorder, depressed, in full remission","bipolar affective disorder, in full remission",0.0044903670034504095,HP:0007302,Bipolar affective disorder
+C0348759,Other specified diseases of biliary tract, specified diseases of biliary tract,0.0033447355792711095,HP:0001080,Biliary tract abnormality
+C0424000,Feeling suicidal (finding),feeling suicidal (finding),0.0015280799202227083,HP:0100851,Abnormal emotion/affect behavior
+C0037889,Hereditary spherocytosis,hereditary spherocytosis,0.0026844546948897783,,
+C0010038,Corneal Opacity,,0.002157727532319316,HP:0007957,Corneal opacity
+C0021355,Infective otitis externa,infective otitis externa,0.008960730964422499,HP:0000388,Otitis media
+C0156072,"Atrophic gastritis, without mention of haemorrhage","atrophic gastritis, ",0.0023792211533643906,,
+C0004239,Atrial Flutter,,0.0013507359343665811,HP:0004749,Atrial flutter
+C0156079,"Other specified gastritis, without mention of hemorrhage"," specified gastritis, ",0.001171431017464506,HP:0005263,Gastritis
+C0838224,Pain in joint involving forearm,pain in joint involving forearm,0.0013792496526620717,HP:0009810,Abnormality of upper limb joint
+C1456305,"Bipolar I disorder, most recent episode (or current) depressed","bipolar disorder,  depressed",0.001681236382282827,HP:0007302,Bipolar affective disorder
+C1456306,"Bipolar I disorder, most recent episode (or current) mixed","bipolar disorder,  mixed",0.0013111674909578109,HP:0007302,Bipolar affective disorder
+C1456307,"Bipolar I disorder, most recent episode (or current) unspecified","bipolar disorder,  ",0.010099367897957444,HP:0007302,Bipolar affective disorder
+C1456302,Unspecified transient mental disorder in conditions classified elsewhere, transient mental disorder in conditions classified elsewhere,0.011733117986839842,,
+C1456308,Other bipolar disorder, bipolar disorder,0.0012366808656498049,HP:0007302,Bipolar affective disorder
+C1955636,Other specified viral and chlamydial infections in conditions classified elsewhere and of unspecified site, specified viral and chlamydial infections in conditions classified elsewhere and of  site,0.0011880956503883694,,
+C0026010,Microphthalmos,,0.002257866704048057,HP:0000568,Microphthalmia
+C0495447,Other transitory neonatal electrolyte disturbance, transitory neonatal electrolyte disturbance,0.0018587731592008558,HP:0001939,Abnormality of metabolism/homeostasis
+C0036262,Scabies <infestation>,scabies <infestation>,0.0011249268692599386,HP:0200039,Pustule
+C0013604,Edema,,0.003389837370592164,HP:0000969,Edema
+C0478100,Other deletions from the autosomes, deletions from the autosomes,0.003806787426131695,,
+C0152206,Monocular Exotropia,monocular exotropia,0.001374776721177023,HP:0000577,Exotropia
+C0152204,Monocular Esotropia,monocular esotropia,0.0013740832250238835,HP:0000565,Esotropia
+C0159724,Open Monteggia's fracture,open monteggia's fracture,0.0010883510910702882,,
+C0013423,Dystonia Musculorum Deformans,,0.003267956977740577,HP:0001304,Torsion dystonia
+C0022073,Iridocyclitis,,0.00196636962044701,HP:0001094,Iridocyclitis
+C0013428,Dysuria,,0.004033524409732876,HP:0100518,Dysuria
+C0375627,"Closed dislocation of elbow, unspecified site","closed dislocation of elbow,  site",0.0026719318969706963,HP:0003042,Elbow dislocation
+C0009354,Closed Colles' fracture,closed colles' fracture,0.003423597828353065,,
+C0342580,Hyperosmolality and or hypernatremia,hyperosmolality and or hypernatremia,0.0010794452195605707,HP:0003228,Hypernatremia
+C0701157,Primary thrombocytopenia,primary thrombocytopenia,0.0016507327887628606,HP:0001873,Thrombocytopenia
+C0868752,"Muscular wasting and disuse atrophy, not elsewhere classified in ICD9CM","muscular cachexia and disuse atrophy, not elsewhere classified in icd9cm",0.004689160237841573,,
+C2910371,Other microdeletions, microdeletions,0.001721881472445093,HP:0000078,Abnormality of the genital system
+C0746674,Generalized muscle weakness,,0.0539787911628192,HP:0003324,Generalized muscle weakness
+C0268701,"Disorder of kidney and ureter, unspecified","disorder of kidney and ureter, ",0.004352610681736492,,
+C0022104,Irritable Bowel Syndrome,irritable bowel syndrome,0.002951967850013697,HP:0002242,Abnormality of the intestine
+C0153644,"Cranial Nerve Neoplasms, Malignant","cranial nerve neoplasms, malignant",0.005492238633735452,HP:0002377,Paraganglioma-related cranial nerve palsy
+C0018965,Hematuria,,0.0032885377248309316,HP:0000790,Hematuria
+C0153640,Malignant neoplasm of cerebellum,malignant neoplasm of cerebellum,0.002395183047005798,HP:0030692,Brain neoplasm
+C0153641,Malignant neoplasm of brain stem,malignant neoplasm of brain stem,0.003277668085978951,HP:0030692,Brain neoplasm
+C0153642,Malignant neoplasm of other parts of brain,malignant neoplasm of  parts of brain,0.0014734874269652356,HP:0030692,Brain neoplasm
+C1719455,Asymmetrical sensorineural hearing loss,asymmetrical sensorineural hearing loss,0.00101679600553822,HP:0000407,Sensorineural hearing impairment
+C2349306,"Chronic leukemia of unspecified cell type, without mention of having achieved remission","chronic leukemia of  cell type, ",0.0017103537480989478,HP:0004812,Pre-B-cell acute lymphoblastic leukemia
+C0375530,congenital obstruction of ureteropelvic junction,congenital obstruction of ureteropelvic junction,0.012667702883662268,HP:0000074,Ureteropelvic junction obstruction
+C0521620,Dilatation of ureter,,0.0012378507961835546,HP:0000072,Hydroureter
+C0027765,nervous system disorder,nervous system disorder,0.007679103937683597,HP:0000707,Abnormality of the nervous system
+C0151517,Complete atrioventricular block,,0.0018028418417488415,HP:0001709,Third degree atrioventricular block
+C1962929,SLEEP DISTURBANCES NEC in ICD9CM,sleep disturbances,0.0026047048299443674,HP:0002360,Sleep disturbance
+C0086543,Cataract,,0.0036334716251535176,HP:0000518,Cataract
+C0011604,Dermatitis due to drug AND/OR medicine taken internally,dermatitis due to drug and/or medicine taken internally,0.001469379909236794,,
+C0006091,Brachial plexus lesion,brachial plexus lesion,0.0033278580594414404,,
+C0011974,Diaper Rash,diaper rash,0.003925271441909988,HP:0000988,Skin rash
+C0018818,Ventricular Septal Defects,,0.05853788086271941,HP:0001629,Ventricular septal defect
+C0029588,Other disorders of impulse control, disorders of impulse control,0.0069201658521583906,HP:0012638,Abnormality of nervous system physiology
+C0270307,Overanxious disorder of childhood,anxiety of ,0.0021083822354679514,HP:0000739,Anxiety
+C0023075,Laryngostenosis,,0.003981340691237249,HP:0001602,Laryngeal stenosis
+C0029586,Other disorders of bone and cartilage, disorders of bone and cartilage,0.0019398123374653085,HP:0003330,Abnormal bone structure
+C0029581,Other disease of nasal cavity and sinuses, disease of nasal cavity and sinuses,0.008090822453972702,HP:0000366,Abnormality of the nose
+C0272422,Injury of face and neck,injury of face and neck,0.0013406662971095912,HP:0000464,Abnormality of the neck
+C0392477,Congenital flat foot,congenital flat foot,0.003934599918236811,HP:0001838,Rocker bottom foot
+C0392470,Anomalous atrioventricular excitation,anomalous atrioventricular excitation,0.004244365299242037,,
+C0401080,Bilateral inguinal hernia with obstruction but no gangrene,bilateral inguinal hernia ,0.0014823601133851464,HP:0000023,Inguinal hernia
+C0029506,"Knee, leg, ankle, and foot injury","knee, leg, ankle, and foot injury",0.0017387388272663959,HP:0002814,Abnormality of the lower limb
+C0345205,"Atresia and stenosis of large intestine, rectum and anal canal (disorder)","atresia and stenosis of large intestine, rectum and anal canal (disorder)",0.013403976207212582,,
+C0029764,Other specified diphtheria, specified diphtheria,0.0020620944834691423,,
+C0029769,Other specified diseases of hair and hair follicles, specified diseases of hair and hair follicles,0.002313347835664542,,
+C0410502,Juvenile osteochondritis of the hip and pelvis,juvenile osteochondritis of the hip and pelvis,0.004090179864238341,,
+C0520578,Retractile testis,,0.0019711217366379387,HP:0012646,Retractile testis
+C1112693,"Generalized non-convulsive epilepsy, with intractable epilepsy","generalized non-convulsive epilepsy, ",0.004537809587614652,HP:0002197,Generalized seizures
+C0261600,Fall on steps,fall on steps,0.003436997410438843,,
+C0149825,Hypertrophy of adenoids,abnormal size nasopharyngeal adenoids,0.01953143583991699,HP:3000033,Abnormality of nasopharyngeal adenoids
+C0396023,Chronic adenoiditis,chronic adenoiditis,0.001933559237511367,HP:0011109,Chronic sinusitis
+C0154698,Monoplegic Infantile Cerebral Palsy,monoplegic  cerebral palsy,0.0010349275109503883,HP:0100021,Cerebral palsy
+C0154697,"Cerebral Palsy, Quadriplegic, Infantile","cerebral palsy, quadriplegic, ",0.0656045694794559,HP:0100021,Cerebral palsy
+C0154694,"Hemiplegia, Spastic",,0.004116701191565802,HP:0011099,Spastic hemiparesis
+C0154695,Diplegic Infantile Cerebral Palsy,diplegic  cerebral palsy,0.027172770112390682,HP:0100021,Cerebral palsy
+C0154691,Peripheral autonomic neuropathy in disorders classified elsewhere,peripheral autonomic neuropathy in disorders classified elsewhere,0.0014193077504726878,,
+C0034103,Pulpitis,pulpitis,0.002703674623419099,HP:0000163,Abnormality of the oral cavity
+C0155342,strabismus in other neuromuscular disorders,strabismus in  neuromuscular disorders,0.001037328590759302,HP:0000597,Ophthalmoparesis
+C0020256,Congenital Hydrocephalus,congenital hydrocephalus,0.020925613587298216,HP:0000238,Hydrocephalus
+C0155345,Convergence insufficiency or palsy,convergence insufficiency or palsy,0.0032117738450607764,,
+C0154212,Other ovarian dysfunction, ovarian dysfunction,0.0015642127103964358,HP:0000137,Abnormality of the ovary
+C0154211,Postablative ovarian failure,postablative ovarian failure,0.0032179815033793785,HP:0001587,Primary ovarian failure
+C0392682,Elevated blood-pressure reading without diagnosis of hypertension,elevated blood-pressure reading ,0.0013528997972723149,HP:0000822,Hypertension
+C0154588,Adjustment disorder with mixed anxiety and depressed mood,adjustment disorder ,0.05271391530622752,HP:0000708,Behavioral abnormality
+C0037928,Spinal Cord Diseases,,0.0018837239530709426,HP:0002196,Myelopathy
+C0023212,Left-Sided Heart Failure,,0.0031234722505897954,HP:0005162,Left ventricular failure
+C0271432,Acute transudative otitis media,acute transudative otitis media,0.00262832806093604,HP:0000371,Acute otitis media
+C0154587,Adjustment disorder with anxious mood,adjustment disorder ,0.01268724561733726,HP:0000708,Behavioral abnormality
+C0037856,Spermatic Cord Torsion,,0.002695168866687948,HP:0100813,Testicular torsion
+C0154961,Glaucoma associated with ocular disorder,glaucoma associated ,0.003744210700944544,HP:0000501,Glaucoma
+C0036529,"Myocardial Diseases, Secondary","myocardial diseases, secondary",0.0051966330992445214,,
+C0159063,Other abnormality of urination, abnormality of urination,0.0016164021631422827,HP:0000119,Abnormality of the genitourinary system
+C0159061,Other symptoms involving digestive system, symptoms involving digestive system,0.005120395034563239,HP:0011024,Abnormality of the gastrointestinal tract
+C0266587,Congenital anomaly of orbit,congenital anomaly of orbit,0.001047931075022563,HP:0000315,Abnormality of the orbital region
+C0221468,Vitamin D-dependent rickets,vitamin d-dependent rickets,0.002975500256208991,HP:0001939,Abnormality of metabolism/homeostasis
+C0477914,Other apnea of newborn, apnea of newborn,0.0010886504084957596,HP:0002104,Apnea
+C0030446,Paralytic Ileus,,0.002153655223993176,HP:0002590,Paralytic ileus
+C1261281,Disorder of transplanted kidney,disorder of transplanted kidney,0.0053829698773454745,HP:0012210,Abnormal renal morphology
+C1261282,Complication of transplanted liver,complication of transplanted liver,0.0016010909532795502,HP:0001392,Abnormality of the liver
+C0001309,Acute atopic conjunctivitis,acute atopic conjunctivitis,0.001266978981254383,HP:0012649,Increased inflammatory response
+C2363246,Other specified congenital malformations of skin,phenotypic abnormality of skin,0.002044015297661792,,
+C0036454,Scotoma,,0.007313320435837941,HP:0000575,Scotoma
+C0349588,Short stature,,0.02053417353899216,HP:0004322,Short stature
+C0021122,"Disruptive, Impulse Control, and Conduct Disorders","disruptive, impulse control, and oppositional defiant disorders",0.004709176229368794,,
+C0152101,Hypoplastic Left Heart Syndrome,,0.015547841881216952,HP:0004383,Hypoplastic left heart
+C0158911,"Other preterm infants, 1,750-1,999 grams"," preterm infants, 1,750-1,999 grams",0.0015796117827401686,,
+C0158910,"Other preterm infants, 1,500-1,749 grams"," preterm infants, 1,500-1,749 grams",0.0011004890820015475,,
+C0158913,"Other preterm infants, 2,500 grams and over"," preterm infants, 2,500 grams and over",0.004108287373424474,,
+C0158912,"Other preterm infants, 2,000-2,499 grams"," preterm infants, 2,000-2,499 grams",0.002054477925790321,,
+C0520966,Abnormal coordination,,0.06719029137398826,HP:0002311,Incoordination
+C0024622,Malignant neoplasm of retina,malignant neoplasm of retina,0.0020807483370706785,HP:0012777,Retinal neoplasm
+C0267071,Oropharyngeal Dysphagia,,0.01064979414800019,HP:0200136,Oral-pharyngeal dysphagia
+C0435844,Closed supracondylar fracture of femur,closed supracondylar fracture of femur,0.0015739958272439059,,
+C1719452,sensory hearing loss of both ears,sensory hearing loss of both ears,0.01502829007080593,HP:0000365,Hearing impairment
+C0346906,Malignant neoplasm of cerebral ventricles,malignant neoplasm of cerebral ventricles,0.0025730907692020767,HP:0030692,Brain neoplasm
+C0348743,Other specified diseases of intestine, specified diseases of intestine,0.0013136369294451413,HP:0002242,Abnormality of the intestine
+C0348742,Other specified diseases of anus and rectum, specified diseases of anus and rectum,0.0021199503361989283,,
+C1704330,Dental Diseases,dental diseases,0.0010881137450993957,HP:0000164,Abnormality of the teeth
+C0018777,Conductive hearing loss,,0.007784590334872327,HP:0000405,Conductive hearing impairment
+C0242855,Congenital atresia of pulmonary valve,,0.0053343259174885365,HP:0010882,Pulmonary valve atresia
+C0348188,Varicella without complication,varicella ,0.0015191442074927721,HP:0010978,Abnormality of immune system physiology
+C0010043,Corneal Ulcer,,0.0012515016193210278,HP:0012804,Corneal ulceration
+C0152522,Diarrhea of presumed infectious origin,diarrhea of presumed infectious origin,0.001294965999062921,HP:0002719,Recurrent infections
+C0021345,Infectious Mononucleosis,infectious mononucleosis,0.001596200282750438,HP:0012649,Increased inflammatory response
+C0015674,Chronic Fatigue Syndrome,chronic fatigue syndrome,0.002244371721134063,,
+C1456313,Other specified pervasive developmental disorders, specified pervasive developmental disorders,0.04117014626464193,HP:0000729,Autistic behavior
+C1456310,Other specified episodic mood disorder, specified  depression,0.001859657043192301,HP:0000716,Depression
+C0375703,Anaphylactic shock due to unspecified food,anaphylactic shock due to  food,0.015565748693959052,,
+C0813173,Acute schizophrenic episode,acute schizophrenic episode,0.003266584399387483,,
+C0036278,Scar conditions and fibrosis of skin,scar conditions and fibrosis of skin,0.003647184206972395,HP:0001075,Atrophic scars
+C0376175,Bell Palsy,,0.0022792787590399407,HP:0010628,Facial palsy
+C0006849,Oral candidiasis,oral candidiasis,0.009113489283026341,HP:0009098,Chronic oral candidiasis
+C0311334,Generalized convulsive epilepsy,generalized convulsive epilepsy,0.0021580084036533116,HP:0002197,Generalized seizures
+C0152236,Talipes valgus,,0.015480623560880471,HP:0004684,Talipes valgus
+C0042075,Urologic Diseases,urologic diseases,0.0027880154561173123,HP:0000119,Abnormality of the genitourinary system
+C0311338,Fundus Albipunctatus,,0.0030950146752598434,HP:0030642,Fundus albipunctatus
+C1561882,Organic parasomnia,organic parasomnia,0.004676884562843706,HP:0000708,Behavioral abnormality
+C0006842,Candidiasis of skin and nails,candidiasis of skin and nails,0.00401428574432179,HP:0002728,Chronic mucocutaneous candidiasis
+C0375639,"Injury to liver without mention of open wound into cavity laceration, unspecified",injury to liver ,0.0013239109132506615,HP:0001392,Abnormality of the liver
+C0015923,Fetal Alcohol Syndrome,fetal alcohol syndrome,0.0027792407189575776,HP:0001197,Abnormality of prenatal development or birth
+C0022661,"Kidney Failure, Chronic","kidney failure, chronic",0.006871600319087601,HP:0003774,Stage 5 chronic kidney disease
+C0022660,"Kidney Failure, Acute","kidney failure, acute",0.001098736497930647,HP:0001919,Acute kidney injury
+C0478000,Other congenital malformations of aorta, congenital malformations of aorta,0.002811234236589932,HP:0030680,Abnormality of cardiovascular system morphology
+C0311245,Congenital cystic kidney disease,congenital cystic kidney disease,0.003035203570696314,HP:0000107,Renal cyst
+C0685925,Articular disc disorder of temporomandibular joint,articular disc disorder of temporomandibular joint,0.001015977936586867,HP:0010754,Abnormality of the temporomandibular joint
+C0155552,"Hearing Loss, Mixed Conductive-Sensorineural",,0.009959873346623469,HP:0000410,Mixed hearing impairment
+C0017601,Glaucoma,,0.006729514977441135,HP:0000501,Glaucoma
+C0028756,"Obesity, Morbid","obesity, ",0.02384549134976045,HP:0001513,Obesity
+C0028754,Obesity,,0.027067942969333313,HP:0001513,Obesity
+C2349312,"Unspecified leukemia, without mention of having achieved remission"," leukemia, ",0.0017302081281353825,HP:0001909,Leukemia
+C0375526,Hypospadias and epispadias and other penile anomalies,hypospadias and epispadias and  penile anomalies,0.0028235088052822087,,
+C0375525,Undescended and retractile testicle,undescended and retractile testicle,0.005350601760523913,HP:0012646,Retractile testis
+C0375521,Anomalies of other specified sites of peripheral vascular system,anomalies of  specified sites of peripheral vascular system,0.0017641092594401302,HP:0001626,Abnormality of the cardiovascular system
+C0375520,Lower limb vessel congenital anomaly,lower limb vessel congenital anomaly,0.009784424197087652,HP:0002597,Abnormality of the vasculature
+C0375528,Other penile anomalies, penile anomalies,0.008279390017188621,HP:0012243,Abnormal genital system morphology
+C2712619,Acute venous embolism and thrombosis of deep vessels of proximal lower extremity,acute venous embolism and thrombosis of deep vessels of proximal lower extremity,0.0013934812946818835,HP:0011004,Abnormality of the systemic arterial tree
+C0013415,Dysthymic Disorder,dysthymic disorder,0.009745438696187558,HP:0000716,Depression
+C0157697,Cellulitis and abscess of neck,cellulitis and abscess of neck,0.004102930043997251,HP:0002722,Recurrent abscess formation
+C0029802,Other specified forms of glaucoma, specified forms of glaucoma,0.002137693513748061,HP:0000501,Glaucoma
+C0029806,Other specified infantile cerebral palsy, specified  cerebral palsy,0.015140165009898714,HP:0100021,Cerebral palsy
+C0029809,Other specified intestinal malabsorption, specified intestinal malabsorption,0.002420141496580983,HP:0002024,Malabsorption
+C0029570,Other deficiencies of circulating enzymes, deficiencies of circulating enzymes,0.0017553798227549025,,
+C0154022,"Benign neoplasm of eyeball, except conjunctiva, cornea, retina, and choroid","benign neoplasm of eyeball, except conjunctiva, cornea, retina, and choroid",0.0013435228430093407,HP:0030510,Combined hamartoma of the retinal pigment epithelium and retina
+C0029579,OTHER LUNG DISEASE NEC in ICD9CM, lung disease,0.00982431343627654,HP:0002088,Abnormality of the lung
+C0154028,Benign neoplasm of choroid,benign neoplasm of choroid,0.001381204555596166,HP:0011792,Neoplasm by histology
+C0026760,Multiple Epiphyseal Dysplasia,,0.002785603727954641,HP:0002654,Multiple epiphyseal dysplasia
+C0476405,Lung function testing abnormal,lung function testing abnormal,0.0029509812079362044,HP:0002088,Abnormality of the lung
+C0034919,Redundant prepuce and phimosis,abnormality of the preputium,0.03166591338343411,HP:0100587,Abnormality of the preputium
+C0260675,Heart valve replaced by other means,heart valve replaced by  means,0.010356151650027868,HP:0001654,Abnormality of the heart valves
+C0034915,Redness or discharge of eye,redness or discharge of eye,0.0014046024614088643,,
+C0494432,Mixed disturbance of conduct and emotions,mixed disturbance of conduct and emotions,0.0014183389220118704,,
+C0917801,Sleeplessness,,0.0017997486880320112,HP:0100785,Insomnia
+C0035204,Respiration Disorders,respiration disorders,0.0028262216169170403,HP:0002793,Abnormal pattern of respiration
+C0154119,Neoplasm of uncertain behavior of brain and spinal cord,neoplasm of uncertain behavior of brain and spinal cord,0.0011714696412529317,,
+C0029712,Other premature beats, premature beats,0.0012539772787899858,HP:0001649,Tachycardia
+C0029713,Other preterm infants, preterm infants,0.023717389247392275,,
+C0878752,Abnormal loss of weight and underweight,abnormal loss of weight and underweight,0.002000053405884787,HP:0004323,Abnormality of body weight
+C0878753,Unspecified lack of expected normal physiological development in childhood, lack of expected normal physiological development in ,0.07656409955971787,HP:0001263,Global developmental delay
+C0878750,"Fall from other slipping, tripping, or stumbling","fall from  slipping, tripping, or stumbling",0.0039080037932955934,HP:0012638,Abnormality of nervous system physiology
+C0878757,"Perpetrator of child and adult abuse, by father, stepfather, or boyfriend","perpetrator of child and  abuse, by father, stepfather, or boyfriend",0.003730990764666656,HP:0001197,Abnormality of prenatal development or birth
+C0270206,fetus or newborn; jaundice,fetus or newborn; jaundice,0.003806890396652643,,
+C0029485,Other acne, acne,0.010999464422315081,HP:0001061,Acne
+C0029486,Other acquired deformity of other parts of limb, acquired deformity of  parts of limb,0.004275583733157368,HP:0002814,Abnormality of the lower limb
+C0029481,Other abnormal blood chemistry, abnormal blood chemistry,0.0012959324556067397,HP:0001939,Abnormality of metabolism/homeostasis
+C0261615,"Fall on same level from slipping, tripping, or stumbling","fall on same level from slipping, tripping, or stumbling",0.0011433715553078713,HP:0012638,Abnormality of nervous system physiology
+C1561710,"Body Mass Index less than 19, adult","body mass index less than 19, ",0.0011449404149854567,,
+C0158767,Congenital deformity of knee joint,congenital deformity of knee joint,0.002055728387441918,HP:0005191,Congenital knee dislocation
+C0031873,Pica Disease,,0.002558424050614741,HP:0011856,Pica
+C0007933,Meibomian Cyst,,0.0017707182102291372,HP:0010605,Chalazion
+C0029620,Other forms of nystagmus, forms of nystagmus,0.001998877180504437,,
+C0012767,Tooth eruption disorder,tooth eruption disorder,0.011712975820557124,HP:0006292,Abnormality of dental eruption
+C0012766,Skin sensation disturbance,skin sensation disturbance,0.004352873613676476,,
+C0012765,Disturbance of salivary secretion,disturbance of salivary secretion,0.0032055051756790624,,
+C0158210,"Other symptoms referable to joint, pelvic region and thigh"," symptoms referable to joint, pelvic region and thigh",0.0047941128464201324,,
+C0158211,"Other symptoms referable to joint, lower leg"," symptoms referable to joint, lower leg",0.0012444918268086343,HP:0002814,Abnormality of the lower limb
+C0154205,Other adrenal hypofunction, adrenal hypofunction,0.0010373909251883238,,
+C0154598,Other specified nonpsychotic mental disorders following organic brain damage, specified nonpsychotic mental disorders following organic brain damage,0.004100389462401479,,
+C0869452,"Other diseases of respiratory system, NEC in ICD9CM"," diseases of respiratory system,",0.002720005074012642,,
+C0036400,Scimitar Syndrome,,0.006962903020717651,HP:0005160,Total anomalous pulmonary venous return
+C0265647,Congenital metatarsus varus,congenital metatarsus varus,0.001216559715398735,HP:0001840,Metatarsus adductus
+C0159071,Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH],nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [ldh],0.0017804339383857416,,
+C1145628,Autonomic nervous system disorders,autonomic nervous system disorders,0.004586918870720013,HP:0002270,Abnormality of the autonomic nervous system
+C0011127,Pressure Ulcer,,0.0048960108879993105,HP:0012399,Pressure ulcer
+C0020623,Hypolipoproteinemias,,0.004464605520519226,HP:0010981,Hypolipoproteinemia
+C0020621,Hypokalemia,,0.002316434739210047,HP:0002900,Hypokalemia
+C1112488,Neonatal bradycardia,neonatal bradycardia,0.0014916847194301518,HP:0011675,Arrhythmia
+C0154378,"Schizo-affective type schizophrenia, chronic state with acute exacerbation"," schizophrenia, chronic state ",0.0010062725432810331,,
+C0375192,"Conduct disorder, adolescent-onset type","oppositional defiant disorder, adolescent-onset type",0.003096217046629767,,
+C0375193,Other conduct disorders, oppositional defiant disorders,0.0039266569366942,HP:0010865,Oppositional defiant disorder
+C0004144,Atelectasis,,0.006344002692107286,HP:0100750,Atelectasis
+C0155886,"Asthma, unspecified type, without mention of status asthmaticus","asthma,  type, ",0.06540195469801093,HP:0002099,Asthma
+C0155881,Intrinsic asthma without mention of status asthmaticus,intrinsic asthma ,0.0016258944908546515,HP:0002099,Asthma
+C0008827,Cirrhosis of liver without mention of alcohol,cirrhosis of liver ,0.002135492463382913,HP:0001394,Cirrhosis
+C0008533,Hemophilia B,hemophilia b,0.006696323814796014,,
+C0041889,Unspecified symptom associated with female genital organs, symptom associated ,0.0032315651139657032,,
+C0155405,Acquired stenosis of external ear canal,acquired stenosis of external ear canal,0.001477305006980086,,
+C0004030,Aspergillosis,aspergillosis,0.0031965855751124924,HP:0012649,Increased inflammatory response
+C0004031,"Aspergillosis, Allergic Bronchopulmonary","aspergillosis, allergic bronchopulmonary",0.004670570912624837,HP:0002099,Asthma
+C0595979,"Colitis, enteritis and gastroenteritis presumed infectious","colitis, enteritis and gastroenteritis presumed infectious",0.0023080857627766453,,
+C0152210,Intermittent tropia,intermittent tropia,0.00146408509483625,,
+C0038273,Stereotypic Movement Disorder,,0.02012259396333889,HP:0000733,Stereotypic behavior
+C0157833,"Arthropathy associated with other infectious and parasitic diseases, site unspecified",arthropathy associated ,0.0010183307469568581,HP:0003040,Arthropathy
+C0751774,Nocturnal Myoclonus Syndrome,nocturnal myoclonus syndrome,0.001076179510878422,HP:0004305,Involuntary movements
+C0033036,Atrial Premature Complexes,,0.0013630332410756246,HP:0006699,Premature atrial contractions
+C1456147,"Excessive attrition, unspecified","excessive attrition, ",0.0015021414222681144,,
+C0152214,Intermittent alternating exotropia,intermittent alternating exotropia,0.021186443434831573,HP:0000577,Exotropia
+C0159099,Nonspecific abnormal electroencephalogram (EEG),nonspecific abnormal electroencephalogram (eeg),0.004149218562933251,HP:0002353,EEG abnormality
+C1281729,Current tear of medial cartilage AND/OR meniscus of knee,current tear of medial cartilage and/or meniscus of knee,0.0010377283894939845,,
+C0270458,Severe major depression with psychotic features,severe major depression ,0.0011444175623091621,HP:0000716,Depression
+C0022581,Acquired keratoderma,acquired keratoderma,0.0025827438731569246,HP:0000982,Palmoplantar keratoderma
+C0019385,Herpetic meningoencephalitis,herpetic meningoencephalitis,0.0012488154093644275,HP:0012649,Increased inflammatory response
+C1263846,Attention deficit hyperactivity disorder,,0.31712652997357627,HP:0007018,Attention deficit hyperactivity disorder
+C0477458,Other specified hearing loss, specified hearing loss,0.022375177899627667,HP:0000365,Hearing impairment
+C0154298,Acute posthaemorrhagic anaemia,acute posthaemorrhagic anaemia,0.00133596733422897,HP:0001871,Abnormality of blood and blood-forming tissues
+C2349433,"Migraine with aura, with intractable migraine, so stated, without mention of status migrainosus",migraine ,0.0010161136834475105,HP:0002076,Migraine
+C0153062,Viral exanthem,viral exanthem,0.0020925382608747776,HP:0000988,Skin rash
+C1456434,Episodic mood disorder, depression,0.046261688510671195,HP:0000716,Depression
+C0013396,Dyspepsia and other specified disorders of function of stomach,dyspepsia and  specified disorders of function of stomach,0.003008655638688097,HP:0002577,Abnormality of the stomach
+C0013390,Dysmenorrhea,,0.012728961647159573,HP:0100607,Dysmenorrhea
+C0158451,Aseptic necrosis of talus,aseptic necrosis of talus,0.001500636326949213,,
+C0158454,Malunited Fracture,malunited fracture,0.001538463884356562,HP:0009810,Abnormality of upper limb joint
+C0158456,Arrest of bone development AND/OR growth,arrest of bone development and/or growth,0.0026282404011443625,,
+C0158458,Acquired hallux valgus,acquired hallux valgus,0.0018267013485704516,HP:0001822,Hallux valgus
+C0348799,Acute bronchiolitis due to respiratory syncytial virus,acute bronchiolitis due to respiratory syncytial virus,0.006005719827366782,HP:0002088,Abnormality of the lung
+C0032617,Polyuria,,0.0029677860733516056,HP:0000103,Polyuria
+C0478014,Other congenital malformations of nose, congenital malformations of nose,0.0035922789198009728,HP:0000271,Abnormality of the face
+C0431479,Other specified anomalies of ear, specified anomalies of ear,0.002154398941582065,HP:0000356,Abnormality of the outer ear
+C1456326,Selective mutism specific to childhood and adolescence,selective mutism ,0.00864995522282935,HP:0002300,Mutism
+C0035344,Retinopathy of Prematurity,retinopathy of prematurity,0.019427626178357825,HP:0000479,Abnormality of the retina
+C0159679,"Fracture of unspecified part of upper end of humerus, closed","fracture of  part of upper end of humerus, closed",0.0017902798697524442,HP:0003862,Absent humerus
+C0018946,"Hematoma, Subdural",,0.001189638678181858,HP:0100309,Subdural hemorrhage
+C0002514,"Amino Acid Metabolism, Inborn Errors","amino acid metabolism, inborn errors",0.0021341581457186573,HP:0004337,Abnormality of amino acid metabolism
+C0238074,Chronic pulmonary heart disease,chronic pulmonary heart disease,0.0028737731368387387,HP:0001641,Abnormality of the pulmonary valve
+C0028768,Obsessive-Compulsive Disorder,obsessive-compulsive disorder,0.032734645312003034,HP:0000722,Obsessive-compulsive behavior
+C0338982,Other specific developmental learning difficulties, specific developmental learning difficulties,0.01844187603748456,HP:0001263,Global developmental delay
+C0868739,"Disorders of impulse control, NEC in ICD9CM_2014","disorders of impulse control,",0.0013353549188682662,HP:0012638,Abnormality of nervous system physiology
+C0338984,Residual infantile autism,residual  autism,0.07747985324740594,HP:0000729,Autistic behavior
+C1719717,chronic plaque-induced gingivitis,chronic plaque-induced gingivitis,0.0025886008861535953,HP:0000166,Severe periodontitis
+C1719714,"Stomatitis and mucositis, unspecified","stomatitis and mucositis, ",0.0011987893928224742,HP:0011107,Recurrent aphthous stomatitis
+C0004269,Child attention deficit disorder,child attention deficit disorder,0.0035228443087854102,HP:0007018,Attention deficit hyperactivity disorder
+C2712605,Infection by Klebsiella pneumoniae in conditions classified elsewhere and of unspecified site,infection by klebsiella pneumoniae in conditions classified elsewhere and of  site,0.0013811235230747293,,
+C0160410,"Injury to spleen without mention of open wound into cavity, laceration extending into parenchyma",injury to spleen ,0.0017053068676318541,HP:0012223,Splenic rupture
+C0013404,Dyspnea,,0.0022678956299560524,HP:0002880,Respiratory difficulties
+C0438699,"Congenital agenesis, hypoplasia, and dysplasia of lung","congenital agenesis, hypoplasia, and dysplasia of lung",0.009149015556955808,HP:0012252,Abnormal respiratory system morphology
+C0546839,Other myopathies, myopathies,0.002150570430583557,HP:0003202,Skeletal muscle atrophy
+C0375810,Other psychological trauma, psychological trauma,0.0021505233124493777,,
+C0029816,Other specified myoneural disorders, specified myoneural disorders,0.0022641615331770626,,
+C0029819,Other specified noninflammatory disorders of vagina, specified noninflammatory disorders of vagina,0.0028704019150046656,,
+C0016658,Fracture,fracture,0.0015176293023277023,HP:0002757,Recurrent fractures
+C0001344,Acute pharyngitis,acute pharyngitis,0.012528769089369124,HP:0012649,Increased inflammatory response
+C0270327,Bedwetting,,0.021192606309609605,HP:0010677,Enuresis nocturna
+C0432138,Other anomalies of spine, anomalies of spine,0.0032987387835286654,HP:0000925,Abnormality of the vertebral column
+C0158679,Congenital anomaly of fixation of intestine,congenital anomaly of fixation of intestine,0.004273481007042859,HP:0002242,Abnormality of the intestine
+C0476414,Thyroid function tests abnormal,thyroid function tests abnormal,0.0018413022552443172,HP:0002926,Abnormality of thyroid physiology
+C0158673,Other specified anomalies of pharynx, specified anomalies of pharynx,0.0032013041388143336,HP:0000600,Abnormality of the pharynx
+C0158674,Congenital hiatus hernia,congenital hiatus hernia,0.001571221202275083,HP:0002036,Hiatus hernia
+C2349815,Overexertion and strenuous and repetitive movements or loads,overexertion and strenuous and repetitive movements or loads,0.0014569281353058862,,
+C0032763,Postgastrectomy Syndromes,postgastrectomy syndromes,0.0014078870578327826,HP:0012718,Morphological abnormality of the gastrointestinal tract
+C0009681,Anomalous pulmonary artery,,0.017028015169974053,HP:0004414,Abnormality of the pulmonary artery
+C0206504,Tympanic Membrane Perforation,tympanic membrane perforation,0.015810548443820027,HP:0040090,Abnormality of the tympanic membrane
+C0158115,Contracture of lower leg joint,contracture of lower leg joint,0.007680305192671722,HP:0005750,Contractures of the joints of the lower limbs
+C0158111,Contracture of upper arm joint,contracture of upper arm joint,0.0016059813893754252,HP:0100360,Contractures of the joints of the upper limbs
+C0020437,Hypercalcemia,,0.002670459283399383,HP:0003072,Hypercalcemia
+C0158113,Contracture of joint of hand,,0.0025605965995026867,HP:0009473,Joint contracture of the hand
+C0158112,Contracture of forearm joint,contracture of forearm joint,0.0040401596649038436,HP:0001371,Flexion contracture
+C0154160,Other iatrogenic hypothyroidism, iatrogenic hypothyroidism,0.0015053424823729658,HP:0002926,Abnormality of thyroid physiology
+C0158118,Contracture of multiple joints,,0.004731684560903344,HP:0002828,Multiple joint contractures
+C0029496,"Coagulation defects, other and unspecified","coagulation defects,  and ",0.00123222433867339,HP:0001928,Abnormality of coagulation
+C0520556,Pilonidal cyst without abscess,pilonidal cyst ,0.0018594348832398396,HP:0010769,Pilonidal sinus
+C0041667,Underweight,underweight,0.010089954192804087,HP:0004323,Abnormality of body weight
+C0029498,Other and unspecified diseases of the oral soft tissues, and  diseases of the oral soft tissues,0.0012361960286531944,,
+C0085160,Hidradenitis,hidradenitis,0.0040976743178603205,HP:0000951,Abnormality of the skin
+C0702197,"Benign neoplasm of vertebral column, excluding sacrum and coccyx","benign neoplasm of vertebral column, excluding sacrum and coccyx",0.0011069749485328546,HP:0009793,Presacral teratoma
+C0040433,Tooth Crowding,,0.0077941464604813215,HP:0000678,Dental crowding
+C0476241,Delayed developmental milestones,delayed developmental milestones,0.0528871706679087,HP:0001263,Global developmental delay
+C0270105,Injury to brachial plexus as birth trauma,injury to brachial plexus as birth trauma,0.003192159718841011,,
+C0235880,Mononeuritis,mononeuritis,0.003859686231809543,HP:0009830,Peripheral neuropathy
+C0030590,Paroxysmal supraventricular tachycardia,,0.0022681198336096924,HP:0004763,Paroxysmal supraventricular tachycardia
+C1455977,aftercare following organ transplant,aftercare following organ transplant,0.00525737200542375,,
+C0271454,Chronic purulent otitis media,chronic purulent otitis media,0.0011449863948829327,HP:0000389,Chronic otitis media
+C2004477,Disorders of optic chiasm associated with other neoplasms,disorders of optic chiasm associated ,0.0010210158406739386,HP:0004329,Abnormality of the posterior segment of the globe
+C0260334,Pneumonitis due to inhalation of food or vomitus,pneumonitis due to inhalation of food or vomitus,0.0076123478027174335,,
+C0154788,Blind hypotensive eye,blind hypotensive eye,0.0015760705502661301,,
+C0020295,Hydronephrosis,,0.012407989133177243,HP:0000126,Hydronephrosis
+C0036508,Seborrheic dermatitis,,0.0025633445749305966,HP:0001051,Seborrheic dermatitis
+C0007859,Neck Pain,,0.002441566502114387,HP:0030833,Neck pain
+C0020615,Hypoglycemia,,0.004831975108268294,HP:0001943,Hypoglycemia
+C0023520,Leukodystrophy,,0.002630295568343975,HP:0002415,Leukodystrophy
+C0007459,Cauda equina syndrome with neurogenic bladder,cauda equina syndrome ,0.0021056143089433705,HP:0009830,Peripheral neuropathy
+C0023529,"Leukomalacia, Periventricular",,0.0029914183593041416,HP:0006970,Periventricular leukomalacia
+C0270078,Extreme immaturity,extreme immaturity,0.005085049958799655,,
+C1176342,"Asthma, unspecified type, with (acute) exacerbation","asthma,  type, ",0.007966548022988537,HP:0002099,Asthma
+C1321898,Blood in stool,blood in stool,0.012039259692331336,HP:0012701,Bowel urgency
+C0024198,Lyme Disease,lyme disease,0.007012434423846023,HP:0012649,Increased inflammatory response
+C0375120,"Diabetes with ketoacidosis, type I [juvenile type], uncontrolled",diabetes ,0.0013628935069022869,HP:0000819,Diabetes mellitus
+C0019572,Hirsutism,,0.002220550248573245,HP:0001007,Hirsutism
+C0019570,Hirschsprung's disease and other congenital functional disorders of colon,hirschsprung's disease and  congenital functional disorders of colon,0.005045962675930184,HP:0002242,Abnormality of the intestine
+C0155371,Aphakia and other disorders of lens,aphakia and  disorders of lens,0.003124506435131716,HP:0000517,Abnormality of the lens
+C0154418,"Bipolar I disorder, most recent episode (or current) manic, moderate","bipolar disorder,  moderate",0.0036957515383996037,HP:0007302,Bipolar affective disorder
+C1261176,Small intestine atresia and stenosis,small intestine atresia and stenosis,0.0027129245513542017,HP:0012848,Small intestinal stenosis
+C0155415,Acute serous otitis media,acute serous otitis media,0.0067985217562771165,HP:0000371,Acute otitis media
+C0154410,Mild recurrent major depression,mild recurrent major depression,0.001098062502033486,,
+C0154411,Moderate recurrent major depression,moderate recurrent major depression,0.0036930460846627986,,
+C0154412,Severe recurrent major depression without psychotic features,severe recurrent major depression ,0.0014467188256250432,,
+C0015230,Exanthema,,0.006261753770879965,HP:0000988,Skin rash
+C0158734,Polydactyly of toes,,0.0013206159426367063,HP:0001829,Foot polydactyly
+C0162316,Iron deficiency anemia,,0.00697993787069477,HP:0001891,Iron deficiency anemia
+C0221539,Transient alteration of awareness,transient alteration of awareness,0.006336839348111734,,
+C0024517,Single major depressive episode,single major depressive episode,0.0031719410854075926,HP:0000708,Behavioral abnormality
+C0021567,"Insect bite, nonvenomous, of other, multiple, and unspecified sites, without mention of infection","insect bite, nonvenomous, of , multiple, and  sites, ",0.002666672402829609,HP:0003781,Excessive salivation
+C0014835,Escherichia coli (E. coli) infection in conditions classified elsewhere and of unspecified site,escherichia coli (e. coli) infection in conditions classified elsewhere and of  site,0.003230185134712925,HP:0002740,Recurrent E. coli infections
+C0375729,Other postoperative infection, postoperative infection,0.0015056725728472605,HP:0002719,Recurrent infections
+C0013143,Drowning and non-fatal immersion,drowning and non-fatal immersion,0.0010785122128699441,,
+C0005689,Bladder Exstrophy,,0.0017231862373921739,HP:0002836,Bladder exstrophy
+C0018621,Hay fever,,0.019392020371301163,HP:0012395,Seasonal allergy
+C1719381,Other acquired torsion dystonia, acquired torsion dystonia,0.002137693513748061,HP:0001304,Torsion dystonia
+C1719382,Acquired torsion dystonia,acquired torsion dystonia,0.0037619297894372055,HP:0001304,Torsion dystonia
+C0156226,Acute glomerulonephritis with unspecified pathological lesion in kidney,acute glomerulonephritis ,0.001013309028808713,HP:0000099,Glomerulonephritis
+C0524620,Metabolic Syndrome X,metabolic syndrome x,0.003208879458724556,,
+C0375548,No vomiting,no vomiting,0.0021126140558972,HP:0002013,Vomiting
+C0008677,"Bronchitis, Chronic",,0.00118600348197699,HP:0004469,Chronic bronchitis
+C0554123,Unilateral inguinal hernia with obstruction but no gangrene,unilateral inguinal hernia ,0.0016244767647352757,HP:0000023,Inguinal hernia
+C0431943,"Lower Extremity Deformities, Congenital","lower extremity deformities, congenital",0.0012377788952960742,HP:0002814,Abnormality of the lower limb
+C0038824,Superficial injury of cornea,superficial injury of cornea,0.0027075343679261827,HP:0004328,Abnormality of the anterior segment of the globe
+C0158687,Congenital malformation of genital organs,congenital malformation of genital organs,0.002654508066014213,HP:0000078,Abnormality of the genital system
+C0014742,Erythema Multiforme,erythema multiforme,0.0011459749050948035,HP:0000951,Abnormality of the skin
+C1456428,Unspecified persistent mental disorders due to conditions classified elsewhere, persistent mental disorders due to conditions classified elsewhere,0.006145189282713103,,
+C0158441,Slipped upper femoral epiphysis,slipped upper femoral epiphysis,0.017445169267581447,HP:0006461,Proximal femoral epiphysiolysis
+C0033687,Proteinuria,,0.002119714548776625,HP:0000093,Proteinuria
+C0158444,"Juvenile osteochondrosis of foot, NOS","juvenile osteochondrosis of foot, nos",0.002927610107159731,HP:0005743,Avascular necrosis of the capital femoral epiphysis
+C1719651,Tumour marker abnormal,tumour marker abnormal,0.001348436706994952,HP:0002664,Neoplasm
+C0434685,Closed traumatic dislocation of patellofemoral joint,closed traumatic dislocation of patellofemoral joint,0.0020555341391385474,,
+C0728829,Congenital pes cavus,,0.001456213124738593,HP:0001761,Pes cavus
+C0477972,Other specified congenital malformations of brain,phenotypic abnormality of brain,0.010399219346747294,HP:0012443,Abnormality of brain morphology
+C1260443,Other abnormal glucose, abnormal glucose,0.001097919757979151,HP:0011014,Abnormal glucose homeostasis
+C0311262,Chronic mesenteric ischemia,chronic mesenteric ischemia,0.0011930509295388868,HP:0011004,Abnormality of the systemic arterial tree
+C0153676,Secondary malignant neoplasm of lung,secondary malignant neoplasm of lung,0.004147980337698249,HP:0100526,Neoplasm of the lung
+C0033975,Psychotic Disorders,,0.03446130316611174,HP:0000709,Psychosis
+C1135187,cystic fibrosis with gastrointestinal manifestation,cystic fibrosis ,0.001562530916649225,,
+C0027730,Nephrotic syndrome with unspecified pathological lesion in kidney,nephrotic syndrome ,0.0023080683932177174,HP:0000100,Nephrotic syndrome
+C0431319,Lumbar spina bifida with hydrocephalus,lumbar spina bifida ,0.012238962672937129,,
+C0022735,Klinefelter Syndrome,klinefelter syndrome,0.0012510083300273432,HP:0000078,Abnormality of the genital system
+C0016667,Fragile X Syndrome,fragile x syndrome,0.01355977362661749,,
+C0016665,"Fractures, Ununited","fractures, ununited",0.002085729197988105,HP:0002757,Recurrent fractures
+C0029821,Other specified periodontal diseases, specified periodontal diseases,0.0014991133040617166,,
+C0012569,Diplopia,,0.0013763704399342093,HP:0000651,Diplopia
+C0029557,Other congenital deformity of hip (joint), congenital deformity of hip (joint),0.015324915608317714,HP:0001384,Abnormality of the hip joint
+C0029550,Other conditions due to sex chromosome anomalies, conditions due to sex chromosome anomalies,0.0012668956286841185,HP:0011017,Abnormality of cell physiology
+C0029551,Other conditions of brain, conditions of brain,0.006914870479888222,HP:0012638,Abnormality of nervous system physiology
+C0029559,Other osteodystrophies, osteodystrophies,0.0030640150720428853,,
+C0034933,"Reflex, Abnormal","reflex, abnormal",0.00157067472706737,HP:0012638,Abnormality of nervous system physiology
+C0339002,"Attention-Deficit/Hyperactivity Disorder, Predominantly Inattentive Type","attention-deficit/hyperactivity disorder, predominantly inattentive type",0.054129761836642525,HP:0007018,Attention deficit hyperactivity disorder
+C1955518,Other dysphagia, dysphagia,0.0015713945722222952,HP:0002015,Dysphagia
+C0339005,"Conduct disorder, childhood-onset type","oppositional defiant disorder, -onset type",0.00138363775967969,HP:0010865,Oppositional defiant disorder
+C0016719,Friedreich Ataxia,friedreich ataxia,0.0036343595805684225,,
+C0035220,"Respiratory Distress Syndrome, Newborn","respiratory distress, newborn",0.004357083922597517,HP:0002643,Neonatal respiratory distress
+C0031212,Personality Disorders,,0.006683352608776828,HP:0012075,Personality disorder
+C0344304,Generalized abdominal pain,generalized abdominal pain,0.014550513536389462,,
+C0009691,Congenital cataract,,0.005140583061579277,HP:0000519,Congenital cataract
+C0027343,"Nails, Ingrown",,0.002800188325217521,HP:0012710,Ingrown nail
+C0158991,Transient Neonatal Thrombocytopenia,transient neonatal thrombocytopenia,0.002611154813721287,,
+C0015732,Fecal Incontinence,,0.07981241934176388,HP:0002607,Bowel incontinence
+C0838226,"Pain in a joint, pelvic region and thigh","pain in a joint, pelvic region and thigh",0.002688345869398415,,
+C0838227,Pain in joint involving lower leg,pain in joint involving lower leg,0.0050950762465997385,HP:0001376,Limitation of joint mobility
+C0405578,Gigantism and acromegaly,gigantism and acromegaly,0.002931307462243171,HP:0000845,Growth hormone excess
+C0490040,Chronic tonsillitis and adenoiditis,chronic tonsillitis and adenoiditis,0.0027047405259509848,HP:0012649,Increased inflammatory response
+C0490041,"Other and unspecified injury to head, face, and neck"," and  injury to head, face, and neck",0.0016273402349588405,,
+C0264222,Acute upper respiratory infection,acute respiratory tract infection,0.05150936159000422,HP:0011948,Acute respiratory tract infection
+C0490048,Vesicoureteral reflux unspecified or without reflux nephropathy,vesicoureteral reflux  or ,0.030920562506092927,HP:0000076,Vesicoureteral reflux
+C0260543,Health supervision of infant or child,health supervision of infant or child,0.0015991314840978698,HP:0002376,Developmental regression
+C0271847,Hyperparathyroidism due to renal insufficiency,hyperparathyroidism due to renal insufficiency,0.001044138487560907,HP:0000083,Renal insufficiency
+C0010520,Cyanosis,,0.0034078669402757057,HP:0000961,Cyanosis
+C0029592,Other disorders of menstruation and other abnormal bleeding from female genital tract, disorders of menstruation and  abnormal bleeding from female genital tract,0.004716091361634772,HP:0012243,Abnormal genital system morphology
+C0029608,Other endocardial cushion defects, endocardial cushion defects,0.028540233184025876,HP:0006695,Atrioventricular canal defect
+C0158277,"Other and unspecified disc disorder, thoracic region"," and  disc disorder, thoracic region",0.0015355506076760968,,
+C0041341,Tuberous Sclerosis,tuberous sclerosis,0.010036178218932249,,
+C0023066,Laryngismus,,0.0015095111538577953,HP:0006511,Laryngeal stridor
+C0029601,Other respiratory abnormalities, respiratory abnormalities,0.008417773073231532,HP:0002086,Abnormality of the respiratory system
+C1301937,Talipes,,0.00834185753331728,HP:0001883,Talipes
+C0154778,"Myopia, Degenerative","myopia, degenerative",0.0028239716907781627,,
+C0271446,Non-suppurative otitis media,non-suppurative otitis media,0.003235744074155076,HP:0000403,Recurrent otitis media
+C0154571,Other dysfunctions of sleep stages or arousal from sleep, dysfunctions of sleep stages or arousal from sleep,0.00180268526579486,HP:0002360,Sleep disturbance
+C0339951,"Pneumonia, organism unspecified","pneumonia, ",0.022796499047113603,HP:0002090,Pneumonia
+C0332544,Abnormal weight gain,abnormal weight gain,0.006187525557519962,HP:0004323,Abnormality of body weight
+C0155952,Retained dental root,retained dental root,0.0012728431520797527,,
+C0750887,Adrenal Cancer,adrenal cancer,0.0010718289172047325,HP:0006744,Adrenocortical carcinoma
+C0869499,"Delay in sexual development and puberty, NEC in ICD9CM_2014","delay in sexual development and puberty,",0.005316650905045777,HP:0008373,Puberty and gonadal disorders
+C0431668,Congenital buried penis,congenital buried penis,0.004249426120079898,HP:0000032,Abnormality of male external genitalia
+C0006840,Candidiasis,candidiasis,0.0022676716897739317,HP:0002841,Recurrent fungal infections
+C0021776,Intermittent Explosive Disorder,intermittent explosive disorder,0.010062546262403558,,
+C0155556,Acute rheumatic endocarditis,acute rheumatic endocarditis,0.0012542617925648289,,
+C0278061,Abnormal mental state,abnormal mental state,0.0023656583213307585,HP:0012638,Abnormality of nervous system physiology
+C0546884,Hypovolemia,,0.024363509753011228,HP:0011106,Hypovolemia
+C0242490,Enthesopathy,enthesopathy,0.003291919755618551,,
+C1176339,extrinsic asthma with acute exacerbation,extrinsic asthma ,0.0012330933140811756,HP:0002099,Asthma
+C0392440,Acquired acanthosis nigricans,acquired acanthosis nigricans,0.006672537906115811,HP:0000956,Acanthosis nigricans
+C1279224,"Infectious colitis, enteritis and gastroenteritis","infectious colitis, enteritis and gastroenteritis",0.008188339182697135,HP:0002583,Colitis
+C0158894,"Extreme immaturity, unspecified {weight}",premature birth,0.017108274076776498,HP:0001622,Premature birth
+C0158896,"Extreme immaturity, 500-749 grams","extreme immaturity, 500-749 grams",0.00247668875484393,,
+C0158897,"Extreme immaturity, 750-999 grams","extreme immaturity, 750-999 grams",0.003530869151864745,,
+C0010676,Cystic fibrosis without mention of meconium ileus,cystic fibrosis ,0.018419695292373403,,
+C0010674,Cystic Fibrosis,cystic fibrosis,0.002754174332239454,,
+C0575081,Gait abnormality,,0.032577535155783835,HP:0001288,Gait disturbance
+C0155427,Other and unspecified chronic nonsuppurative otitis media, and  chronic nonsuppurative otitis media,0.013509358021000496,HP:0000389,Chronic otitis media
+C0154409,Recurrent major depressive episodes,recurrent major depressive episodes,0.0031879049839497377,HP:0000708,Behavioral abnormality
+C0154408,"Single major depressive episode, in full remission","single major depressive episode, in full remission",0.0017978275384052781,,
+C0155422,"Chronic serous otitis media, simple or unspecified","chronic serous otitis media, simple or ",0.04593002232216988,,
+C0155421,Chronic serous otitis media,chronic serous otitis media,0.001680774926662859,HP:0000389,Chronic otitis media
+C0154406,"Severe major depression, single episode, with psychotic features","severe major depression, , ",0.002745177355112239,HP:0000716,Depression
+C0154405,"Severe major depression, single episode, without psychotic features","severe major depression, , ",0.0034779901490298044,HP:0000716,Depression
+C0154404,"Moderate major depression, single episode","moderate major depression, ",0.00301474491020601,HP:0000708,Behavioral abnormality
+C0411175,Fetal or neonatal effect of maternal medical problem,fetal or neonatal effect of maternal medical problem,0.0027985740798748666,HP:0001197,Abnormality of prenatal development or birth
+C0158975,Other neonatal jaundice due to delayed conjugation from other causes, neonatal jaundice due to delayed conjugation from  causes,0.0010475078128964013,,
+C0266313,Allanson Pantzar McLeod syndrome,,0.002636745884440733,HP:0008660,Renotubular dysgenesis
+C0236800,Panic disorder with agoraphobia,panic disorder ,0.001123883461966913,HP:0000708,Behavioral abnormality
+C0153863,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, lymph nodes of inguinal region and lower limb"," and  malignant neoplasms of lymphoid and histiocytic tissue, lymph nodes of inguinal region and lower limb",0.0011996801181731363,,
+C0162301,Calculus in urethra,calculus in urethra,0.0014503866754497926,HP:0000795,Abnormality of the urethra
+C0262030,Assault by other specified means,assault by  specified means,0.003730990764666656,,
+C0037268,Skin Abnormalities,,0.0017401564801554222,HP:0000951,Abnormality of the skin
+C0152020,Gastroparesis,,0.00971397417704774,HP:0002578,Gastroparesis
+C1305927,Other conditions due to chromosome anomalies, conditions due to chromosome anomalies,0.0027065878614563918,HP:0011017,Abnormality of cell physiology
+C0042268,Vaginitis and vulvovaginitis,vaginitis and vulvovaginitis,0.0038520667840165265,HP:0030683,Vaginitis
+C0155047,"Unqualified visual loss, both eyes","unqualified visual loss, both eyes",0.0019631676469907614,,
+C0008062,Child Sexual Abuse,child sexual abuse,0.0038281620793814883,,
+C0014511,Epithelial cyst,,0.0011454969763090015,HP:0200040,Epidermoid cyst
+C0005697,Neurogenic Urinary Bladder,,0.013334334477559915,HP:0000011,Neurogenic bladder
+C0848548,hypertensive nephropathy,hypertensive nephropathy,0.0010935569984843678,,
+C0001539,Adjustment disorder with depressed mood,adjustment disorder ,0.008004292380355466,HP:0000708,Behavioral abnormality
+C0260834,Radiotherapy follow-up,radiapy follow-up,0.0010673486666956083,,
+C0281856,Generalized aches and pains,generalized aches and pains,0.0024002781521067665,HP:0001939,Abnormality of metabolism/homeostasis
+C0478145,Other and unspecified symbolic dysfunctions, and  impaired social interactionss,0.5056752046561183,HP:0000735,Impaired social interactions
+C0478144,Other and unspecified speech disturbances, and  speech disturbances,0.0117576519108465,HP:0002167,Neurological speech impairment
+C0037317,Sleep disturbances,,0.0078722660336937,HP:0002360,Sleep disturbance
+C0037315,Sleep Apnea Syndromes,,0.018605135849819345,HP:0010535,Sleep apnea
+C0018524,Hallucinations,,0.001848821322361812,HP:0000738,Hallucinations
+C0156146,Crohn's disease of small intestine,crohn's disease of small intestine,0.0011458883800360552,HP:0002242,Abnormality of the intestine
+C0156147,Crohn's disease of large bowel,crohn's disease of large bowel,0.0017558583860334803,,
+C0435569,Closed supracondylar fracture of humerus,closed supracondylar fracture of humerus,0.005497117044527183,HP:0003063,Abnormality of the humerus
+C0158768,Macrodactylia of toes,macrodactylia of toes,0.0012528755741813133,HP:0100747,Macrodactyly of toe
+C0002753,Anal and rectal polyp (disorder),anal and rectal polyp (disorder),0.0015192142303320532,,
+C0027430,Nasal Polyps,,0.0016930841504281002,HP:0100582,Nasal polyposis
+C0162429,Malnutrition,,0.015564584236022309,HP:0004395,Malnutrition
+C1135332,Unspecified hypertensive heart disease without heart failure, hypertensive heart disease ,0.0013458089937812144,HP:0001635,Congestive heart failure
+C1719483,Other diseases of trachea and bronchus, diseases of trachea and bronchus,0.0012913493397267147,HP:0002778,Abnormality of the trachea
+C0086438,Hypogammaglobulinemia,hypogammaglobulinemia,0.03836015499012761,HP:0004313,Decreased antibody level in blood
+C0524528,Pervasive Development Disorder,pervasive development disorder,0.007172330252595282,HP:0000729,Autistic behavior
+C0029673,Other noninfectious disorders of lymphatic channels, noninfectious disorders of lymphatic channels,0.0011596681299418567,,

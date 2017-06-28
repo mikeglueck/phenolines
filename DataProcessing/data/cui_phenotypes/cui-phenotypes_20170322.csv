@@ -1,0 +1,195 @@
+cui,cui_name,curated_name,hpo,hpo_name
+C0153114,Unspecified viral infection in conditions classified elsewhere and of unspecified site, viral infection in conditions classified elsewhere and of  site,,
+C0036529,"Myocardial Diseases, Secondary","myocardial diseases, secondary",,
+C0478056,Other obstructive defects of renal pelvis and ureter, obstructive defects of renal pelvis and ureter,,
+C0699815,Feeding difficulties and mismanagement,feeding difficulties and mismanagement,,
+C0036440,Idiopathic scoliosis and kyphoscoliosis, scoliosis and kyphoscoliosis,,
+C0029557,Other congenital deformity of hip (joint), congenital deformity of hip (joint),,
+C0375378,"Vesicoureteral reflux with reflux nephropathy, bilateral",vesicoureteral reflux ,,
+C0021051,Immunologic Deficiency Syndromes,,HP:0002721,Immunodeficiency
+C0029551,Other conditions of brain, conditions of brain,,
+C0014868,Esophagitis,,HP:0100633,Esophagitis
+C0158350,Tendon contracture,contracture,,
+C1279224,"Infectious colitis, enteritis and gastroenteritis","infectious colitis, enteritis and gastroenteritis",,
+C0041667,Underweight,underweight,,
+C0010380,Croup,abnormality of the vocal cords,,
+C0149825,Hypertrophy of adenoids,abnormal size nasopharyngeal adenoids,,
+C0042023,Increased frequency of micturition,,HP:0100515,Pollakisuria
+C0154446,"Infantile autism, current or active state"," autism, ",,
+C0392702,Abnormal involuntary movement,abnormal involuntary movement,,
+C0155831,Hypertrophy of tonsils alone,hypertrophy of tonsils alone,,
+C0795699,"Other diseases of pharynx, NEC in ICD9CM"," diseases of pharynx,",,
+C0920296,Developmental reading disorder,developmental reading disorder,,
+C0478095,Other specified congenital malformations,phenotypic abnormality,,
+C0003811,Cardiac Arrhythmia,,HP:0011675,Arrhythmia
+C0344304,Generalized abdominal pain,generalized abdominal pain,,
+C0017168,Gastroesophageal reflux disease,,HP:0002020,Gastroesophageal reflux
+C0026758,"Multiple congenital anomalies, so described","multiple congenital anomalies, so described",,
+C0158361,"Other disorders of muscle, ligament, and fascia"," disorders of muscle, ligament, and fascia",,
+C2607914,Allergic rhinitis (disorder),,HP:0003193,Allergic rhinitis
+C0158897,"Extreme immaturity, 750-999 grams","extreme immaturity, 750-999 grams",,
+C0375218,"Hemiplegia, unspecified affecting unspecified side","hemiplegia,  affecting  side",,
+C0030196,Pain in limb,,HP:0009763,Limb pain
+C0159135,Other abnormal clinical findings, abnormal clinical findings,,
+C0009592,Compression of brain,compression of brain,,
+C1455742,Chronic mucoid otitis media,chronic mucoid otitis media,,
+C0158712,Congenital musculoskeletal deformities of spine,congenital musculoskeletal deformities of spine,,
+C0007194,Hypertrophic Cardiomyopathy,,HP:0001639,Hypertrophic cardiomyopathy
+C0027498,Nausea and vomiting,,HP:0002017,Nausea and vomiting
+C0153987,"Benign neoplasm of skin of trunk, excluding scrotum","benign neoplasm of skin of trunk, excluding scrotum",,
+C0497552,Congenital neurologic anomalies,,HP:0000707,Abnormality of the nervous system
+C0264222,Acute upper respiratory infection,acute respiratory tract infection,,
+C0348719,Other dental caries, dental caries,,
+C0728950,Vomiting alone,vomiting alone,,
+C0011757,Developmental Coordination Disorder,motor delay,,
+C0152212,Intermittent alternating esotropia,intermittent alternating esotropia,,
+C0264133,Acquired flat foot,acquired flat foot,,
+C0029781,Other specified disorders of kidney and ureter, specified disorders of kidney and ureter,,
+C0260334,Pneumonitis due to inhalation of food or vomitus,pneumonitis due to inhalation of food or vomitus,,
+C0520966,Abnormal coordination,,HP:0002311,Incoordination
+C0015544,Failure to Thrive,failure to thrive,,
+C0750903,"Amblyopia, Suppression","amblyopia, suppression",,
+C1456302,Unspecified transient mental disorder in conditions classified elsewhere, transient mental disorder in conditions classified elsewhere,,
+C0015310,Exotropia,,HP:0000577,Exotropia
+C0025517,Metabolic Diseases,metabolic diseases,,
+C0432068,"Congenital musculoskeletal deformities of skull, face, and jaw",abnormality of the head,,
+C0020295,Hydronephrosis,,HP:0000126,Hydronephrosis
+C0010520,Cyanosis,,HP:0000961,Cyanosis
+C0155886,"Asthma, unspecified type, without mention of status asthmaticus","asthma,  type, ",,
+C0029608,Other endocardial cushion defects, endocardial cushion defects,,
+C0010200,Coughing,,HP:0012735,Cough
+C1691215,Penile hypospadias,,HP:0003244,Penile hypospadias
+C0018777,Conductive hearing loss,,HP:0000405,Conductive hearing impairment
+C0156109,"Inguinal hernia, without mention of obstruction or gangrene, unilateral or unspecified (not specified as recurrent)","inguinal hernia, ",,
+C0008626,Congenital chromosomal disease,congenital chromosomal disease,,
+C0158489,Acquired clubfoot,acquired clubfoot,,
+C0695252,Other malaise and fatigue, malaise and fatigue,,
+C0478100,Other deletions from the autosomes, deletions from the autosomes,,
+C0949135,Other constipation, constipation,,
+C0029866,Other ureteric obstruction, ureteric obstruction,,
+C0041806,Unspecified disorder of immune mechanism, disorder of immune mechanism,,
+C0029837,Other specified types of hydrocele, specified types of hydrocele,,
+C1384666,hearing impairment,,HP:0000365,Hearing impairment
+C0040188,Tic disorder,tic disorder,,
+C1306246,"Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, without mention of intractable epilepsy", (focal) () epilepsy and epileptic syndromes ,,
+C0011991,Diarrhea,,HP:0002014,Diarrhea
+C0028738,Nystagmus,,HP:0000639,Nystagmus
+C0013274,Patent ductus arteriosus,,HP:0001643,Patent ductus arteriosus
+C0490048,Vesicoureteral reflux unspecified or without reflux nephropathy,vesicoureteral reflux  or ,,
+C0085584,Encephalopathies,,HP:0001298,Encephalopathy
+C0038273,Stereotypic Movement Disorder,,HP:0000733,Stereotypic behavior
+C0029753,Other specified cerebral degenerations in childhood, specified cerebral degenerations in ,,
+C0019570,Hirschsprung's disease and other congenital functional disorders of colon,hirschsprung's disease and  congenital functional disorders of colon,,
+C0159020,Convulsions in the newborn,convulsions in the newborn,,
+C0025958,Microcephaly,microcephaly,,
+C0375546,undiagnosed heart murmur,undiagnosed heart murmur,,
+C0546884,Hypovolemia,,HP:0011106,Hypovolemia
+C0020490,Hyperopia,,HP:0000540,Hypermetropia
+C0878706,"Lack of normal physiological development, unspecified","lack of normal physiological development, ",,
+C0375193,Other conduct disorders, oppositional defiant disorders,,
+C0008711,Chronic rhinitis,,HP:0002257,Chronic rhinitis
+C0868777,Persistent disorder of initiating or maintaining sleep,persistent disorder of initiating or maintaining sleep,,
+C0154707,"Generalized nonconvulsive epilepsy, without mention of intractable epilepsy","generalized nonconvulsive epilepsy, ",,
+C0154709,"Generalized convulsive epilepsy, without mention of intractable epilepsy","generalized convulsive epilepsy, ",,
+C0746674,Generalized muscle weakness,,HP:0003324,Generalized muscle weakness
+C0029512,Other and unspecified noninfectious gastroenteritis and colitis,gastrointestinal inflammation,,
+C0154246,"Urea Cycle Disorders, Inborn","urea cycle disorders, inborn",,
+C0009806,Constipation,,HP:0002019,Constipation
+C0003537,Aphasia,,HP:0002381,Aphasia
+C0158352,"Muscle, ligament and fascia disorders",muscle abnormality,,
+C1263846,Attention deficit hyperactivity disorder,,HP:0007018,Attention deficit hyperactivity disorder
+C0155336,Esotropia with accommodative compensation,esotropia ,,
+C0038436,Post-Traumatic Stress Disorder,post-traumatic stress disorder,,
+C0039685,Tetralogy of Fallot,,HP:0001636,Tetralogy of Fallot
+C0477458,Other specified hearing loss, specified hearing loss,,
+C0022661,"Kidney Failure, Chronic","kidney failure, chronic",,
+C0155546,Middle ear conductive hearing loss,middle ear conductive hearing loss,,
+C0375530,congenital obstruction of ureteropelvic junction,congenital obstruction of ureteropelvic junction,,
+C0158621,Congenital subaortic stenosis,congenital subaortic stenosis,,
+C0575081,Gait abnormality,,HP:0001288,Gait disturbance
+C0027765,nervous system disorder,nervous system disorder,,
+C0154713,"Partial epilepsy, with impairment of consciousness, with intractable epilepsy"," epilepsy, ",,
+C0155427,Other and unspecified chronic nonsuppurative otitis media, and  chronic nonsuppurative otitis media,,
+C0154710,"Generalized convulsive epilepsy, with intractable epilepsy","generalized convulsive epilepsy, ",,
+C0155422,"Chronic serous otitis media, simple or unspecified","chronic serous otitis media, simple or ",,
+C0154716,"Infantile spasms, with intractable epilepsy"," spasms, ",,
+C0154715,"Infantile spasms, without mention of intractable epilepsy"," spasms, ",,
+C0302371,"Other and unspecified special symptoms or syndromes, NEC in ICD9CM_2014"," and  special symptoms or syndromes,",,
+C0478000,Other congenital malformations of aorta, congenital malformations of aorta,,
+C0000737,Abdominal Pain,,HP:0002027,Abdominal pain
+C0007570,Celiac Disease,,HP:0012538,Gluten intolerance
+C1879328,Blindness both eyes NOS (disorder),blindness both eyes nos (disorder),,
+C0395861,Acute suppurative otitis media without spontaneous rupture of ear drum,acute suppurative otitis media ,,
+C0424605,Developmental delay (disorder),developmental delay (disorder),,
+C0411175,Fetal or neonatal effect of maternal medical problem,fetal or neonatal effect of maternal medical problem,,
+C0302467,Congenital anomaly of aorta,congenital anomaly of aorta,,
+C0026265,Diseases of mitral valve,diseases of mitral valve,,
+C1301937,Talipes,,HP:0001883,Talipes
+C0158618,Congenital stenosis of mitral valve,,HP:0011570,Congenital mitral stenosis
+C0158619,Congenital insufficiency of mitral valve,insufficiency of mitral valve,,
+C0311394,Difficulty walking,,HP:0002355,Difficulty walking
+C0029581,Other disease of nasal cavity and sinuses, disease of nasal cavity and sinuses,,
+C0158617,Congenital insufficiency of aortic valve,congenital insufficiency of aortic valve,,
+C0159036,Other symptoms involving nervous and musculoskeletal systems, symptoms involving nervous and musculoskeletal systems,,
+C0011168,Deglutition Disorders,,HP:0002015,Dysphagia
+C0037785,Specific developmental disorder,specific developmental disorder,,
+C0041970,Urethral fistula,,HP:0010480,Urethral fistula
+C0340629,Aortic aneurysm without mention of rupture NOS,aortic aneurysm ,,
+C1719382,Acquired torsion dystonia,acquired torsion dystonia,,
+C0154714,"Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures, without mention of intractable epilepsy", (focal) () epilepsy and epileptic syndromes ,,
+C0152417,Congenital stenosis of aortic valve,congenital stenosis of aortic valve,,
+C0154722,"Epilepsy, unspecified, with intractable epilepsy","epilepsy, , ",,
+C0271468,Eustachian tube disorder,eustachian tube disorder,,
+C0154721,"Epilepsy, unspecified, without mention of intractable epilepsy","epilepsy, , ",,
+C0270805,Hemiplegic cerebral palsy,hemiplegic cerebral palsy,,
+C0009081,Congenital clubfoot,,HP:0001762,Talipes equinovarus
+C1456326,Selective mutism specific to childhood and adolescence,selective mutism ,,
+C0013415,Dysthymic Disorder,dysthymic disorder,,
+C0029806,Other specified infantile cerebral palsy, specified  cerebral palsy,,
+C1456428,Unspecified persistent mental disorders due to conditions classified elsewhere, persistent mental disorders due to conditions classified elsewhere,,
+C0236826,Developmental expressive language disorder,expressive language delay,,
+C1455977,aftercare following organ transplant,aftercare following organ transplant,,
+C0392549,Infantile cerebral palsy, cerebral palsy,,
+C0029882,Otitis Media,,HP:0000388,Otitis media
+C0159047,Symbolic dysfunction,impaired social interactions,,
+C0375026,Viral and chlamydial infection in conditions classified elsewhere and of unspecified site,viral and chlamydial infection in conditions classified elsewhere and of  site,,
+C3161331,Unspecified intellectual disabilities, intellectual disabilities,,
+C0478145,Other and unspecified symbolic dysfunctions, and  impaired social interactionss,,
+C0478144,Other and unspecified speech disturbances, and  speech disturbances,,
+C0037317,Sleep disturbances,,HP:0002360,Sleep disturbance
+C0159099,Nonspecific abnormal electroencephalogram (EEG),nonspecific abnormal electroencephalogram (eeg),,
+C0490011,Other convulsions, convulsions,,
+C0079157,Reduction deformities of brain,reduction deformities of brain,,
+C0154632,Developmental speech or language disorder,delayed speech or language disorder,,
+C0154633,Other developmental speech or language disorder, delayed speech or language disorder,,
+C0154634,Mixed development disorder,neurodevelopmental delay,,
+C0154635,Other specified delays in development, specified delays in development,,
+C0021092,Impacted cerumen,,HP:0030788,Impacted cerumen
+C0042798,Low Vision,low vision,,
+C0014116,Endocardial Cushion Defects,endocardial cushion defects,,
+C1456434,Episodic mood disorder, depression,,
+C0154451,"Other specified pervasive developmental disorders, current or active state"," specified pervasive developmental disorders, ",,
+C0338982,Other specific developmental learning difficulties, specific developmental learning difficulties,,
+C0029652,Other kyphoscoliosis and scoliosis, kyphoscoliosis and scoliosis,,
+C0010417,Cryptorchidism,,HP:0000028,Cryptorchidism
+C0154697,"Cerebral Palsy, Quadriplegic, Infantile","cerebral palsy, quadriplegic, ",,
+C0154694,"Hemiplegia, Spastic",,HP:0011099,Spastic hemiparesis
+C0154695,Diplegic Infantile Cerebral Palsy,diplegic  cerebral palsy,,
+C0036689,Streptococcal sore throat,streptococcal sore throat,,
+C0018939,Hematological Disease,hematological disease,,
+C0878691,Dementia in conditions classified elsewhere without behavioral disturbance,dementia in conditions classified elsewhere ,,
+C0014877,Esotropia,,HP:0000565,Esotropia
+C0878753,Unspecified lack of expected normal physiological development in childhood, lack of expected normal physiological development in ,,
+C0024796,Marfan Syndrome,marfan syndrome,,
+C0011334,Dental caries,,HP:0000670,Carious teeth
+C0040517,Gilles de la Tourette syndrome,gilles de la tourette syndrome,,
+C0019693,HIV Infections,hiv infections,,
+C0840927,Neurologic neglect syndrome,abnormality of the nervous system,,
+C2349675,Fever and other physiologic disturbances of temperature regulation,fever and  physiologic disturbances of temperature regulation,,
+C0154623,Unspecified emotional disturbance of childhood or adolescence, emotional disturbance ,,
+C0018818,Ventricular Septal Defects,,HP:0001629,Ventricular septal defect
+C0221539,Transient alteration of awareness,transient alteration of awareness,,
+C0154453,"Unspecified childhood psychosis, current or active state"," psychosis, ",,
+C0004106,Astigmatism,,HP:0000483,Astigmatism
+C0700613,Anxiety state,anxiety,,
+C0004352,Autistic Disorder,,HP:0000717,Autism

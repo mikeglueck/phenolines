@@ -1,0 +1,247 @@
+cui,cui_name,class_type,hpo,hpo_name
+C0153114,Unspecified viral infection in conditions classified elsewhere and of unspecified site,Concept,,
+C0036529,"Myocardial Diseases, Secondary",Concept,,
+C0478056,Other obstructive defects of renal pelvis and ureter,Concept,,
+C0260683,Gastrostomy status,Concept,,
+C0260682,Tracheostomy status,Concept,,
+C0699815,Feeding difficulties and mismanagement,Concept,,
+C0036440,Idiopathic scoliosis and kyphoscoliosis,Concept,,
+C0029557,Other congenital deformity of hip (joint),Concept,,
+C0375378,"Vesicoureteral reflux with reflux nephropathy, bilateral",Concept,,
+C0021051,Immunologic Deficiency Syndromes,Concept,HP:0002721,Immunodeficiency
+C0375770,Need for prophylactic vaccination and inoculation against varicella,Concept,,
+C0029551,Other conditions of brain,Concept,,
+C0260545,examination; infant or child,Concept,,
+C0029625,Other general symptoms,Concept,,
+C0014868,Esophagitis,Concept,HP:0100633,Esophagitis
+C0158350,Tendon contracture,Concept,,
+C1279224,"Infectious colitis, enteritis and gastroenteritis",Concept,,
+C0041667,Underweight,Concept,,
+C0010380,Croup,Concept,,
+C0149825,Hypertrophy of adenoids,Concept,,
+C0042023,Increased frequency of micturition,Concept,HP:0100515,Pollakisuria
+C0154446,"Infantile autism, current or active state",Concept,,
+C0392702,Abnormal involuntary movement,Concept,,
+C0496621,Need for immunization against yellow fever,Concept,,
+C0155831,Hypertrophy of tonsils alone,Concept,,
+C0795699,"Other diseases of pharynx, NEC in ICD9CM",Concept,,
+C0920296,Developmental reading disorder,Concept,,
+C0478095,Other specified congenital malformations,Concept,,
+C0003811,Cardiac Arrhythmia,Concept,HP:0011675,Arrhythmia
+C0260840,Other follow-up examination,Concept,,
+C0344304,Generalized abdominal pain,Concept,,
+C0375765,"Other specified vaccinations against hemophilus influenza, type B [Hib]",Concept,,
+C0017168,Gastroesophageal reflux disease,Concept,HP:0002020,Gastroesophageal reflux
+C0375766,Other specified vaccinations against streptococcus pneumoniae [pneumococcus],Concept,,
+C0026758,"Multiple congenital anomalies, so described",Concept,,
+C0158361,"Other disorders of muscle, ligament, and fascia",Concept,,
+C2607914,Allergic rhinitis (disorder),Concept,HP:0003193,Allergic rhinitis
+C0158897,"Extreme immaturity, 750-999 grams",Concept,,
+C0375218,"Hemiplegia, unspecified affecting unspecified side",Concept,,
+C0030196,Pain in limb,Concept,HP:0009763,Limb pain
+C0159135,Other abnormal clinical findings,Concept,,
+C3161328,,,,
+C0009592,Compression of brain,Concept,,
+C1455742,Chronic mucoid otitis media,Concept,,
+C0158712,Congenital musculoskeletal deformities of spine,Concept,,
+C0007194,Hypertrophic Cardiomyopathy,Concept,HP:0001639,Hypertrophic cardiomyopathy
+C0027498,Nausea and vomiting,Concept,HP:0002017,Nausea and vomiting
+C0878732,Encounter for adequacy testing for peritoneal dialysis,Concept,,
+C0496634,Need for immunization against measles-mumps-rubella [MMR],Concept,,
+C0153987,"Benign neoplasm of skin of trunk, excluding scrotum",Concept,,
+C0497552,Congenital neurologic anomalies,Concept,HP:0000707,Abnormality of the nervous system
+C0264222,Acute upper respiratory infection,Concept,,
+C0348719,Other dental caries,Concept,,
+C0728950,Vomiting alone,Concept,,
+C0011757,Developmental Coordination Disorder,Concept,,
+C0152212,Intermittent alternating esotropia,Concept,,
+C0264133,Acquired flat foot,Concept,,
+C0029781,Other specified disorders of kidney and ureter,Concept,,
+C0260334,Pneumonitis due to inhalation of food or vomitus,Concept,,
+C0520966,Abnormal coordination,Concept,HP:0002311,Incoordination
+C0015544,Failure to Thrive,Concept,,
+C0750903,"Amblyopia, Suppression",Concept,,
+C1456302,Unspecified transient mental disorder in conditions classified elsewhere,Concept,,
+C0015310,Exotropia,Concept,HP:0000577,Exotropia
+C0025517,Metabolic Diseases,Concept,,
+C0432068,"Congenital musculoskeletal deformities of skull, face, and jaw",Concept,,
+C0020295,Hydronephrosis,Concept,HP:0000126,Hydronephrosis
+C0010520,Cyanosis,Concept,HP:0000961,Cyanosis
+C0155886,"Asthma, unspecified type, without mention of status asthmaticus",Concept,,
+C0029608,Other endocardial cushion defects,Concept,,
+C0010200,Coughing,Concept,HP:0012735,Cough
+C1691215,Penile hypospadias,Concept,HP:0003244,Penile hypospadias
+C0018777,Conductive hearing loss,Concept,HP:0000405,Conductive hearing impairment
+C1962940,Need for prophylactic vaccination and inoculation against poliomyelitis in ICD9CM,Concept,,
+C0156109,"Inguinal hernia, without mention of obstruction or gangrene, unilateral or unspecified (not specified as recurrent)",Concept,,
+C0260872,Encounter for observation for suspected cardiovascular disease,Concept,,
+C0008626,Congenital chromosomal disease,Concept,,
+C0158489,Acquired clubfoot,Concept,,
+C0260877,Laboratory examination,Concept,,
+C0695252,Other malaise and fatigue,Concept,,
+C0478100,Other deletions from the autosomes,Concept,,
+C0159107,Nonspecific abnormal auditory function studies,Concept,,
+C0949135,Other constipation,Concept,,
+C0029866,Other ureteric obstruction,Concept,,
+C0041806,Unspecified disorder of immune mechanism,Concept,,
+C0029837,Other specified types of hydrocele,Concept,,
+C1384666,hearing impairment,Concept,HP:0000365,Hearing impairment
+C0040188,Tic disorder,Concept,,
+C1306246,"Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, without mention of intractable epilepsy",Concept,,
+C0011991,Diarrhea,Concept,HP:0002014,Diarrhea
+C0028738,Nystagmus,Concept,HP:0000639,Nystagmus
+C0013274,Patent ductus arteriosus,Concept,HP:0001643,Patent ductus arteriosus
+C0490048,Vesicoureteral reflux unspecified or without reflux nephropathy,Concept,,
+C0085584,Encephalopathies,Concept,HP:0001298,Encephalopathy
+C0038273,Stereotypic Movement Disorder,Concept,HP:0000733,Stereotypic behavior
+C0260390,"Need for prophylactic vaccination and inoculation against diphtheria-tetanus-pertussis, combined [DTP] [DTaP]",Concept,,
+C0029753,Other specified cerebral degenerations in childhood,Concept,,
+C0260394,Need for prophylactic vaccination and inoculation against other combinations of diseases,Concept,,
+C0019570,Hirschsprung's disease and other congenital functional disorders of colon,Concept,,
+C0159020,Convulsions in the newborn,Concept,,
+C0025958,Microcephaly,Concept,,
+C0375546,undiagnosed heart murmur,Concept,,
+C0546884,Hypovolemia,Concept,HP:0011106,Hypovolemia
+C0020490,Hyperopia,Concept,HP:0000540,Hypermetropia
+C0260823,Encounter for dietary surveillance and counseling,Concept,,
+C0878706,"Lack of normal physiological development, unspecified",Concept,,
+C0375193,Other conduct disorders,Concept,,
+C0008711,Chronic rhinitis,Concept,HP:0002257,Chronic rhinitis
+C0311335,Grand Mal Status Epilepticus,Concept,,
+C0868777,Persistent disorder of initiating or maintaining sleep,Concept,,
+C0154707,"Generalized nonconvulsive epilepsy, without mention of intractable epilepsy",Concept,,
+C0154709,"Generalized convulsive epilepsy, without mention of intractable epilepsy",Concept,,
+C2939192,,,,
+C0746674,Generalized muscle weakness,Concept,HP:0003324,Generalized muscle weakness
+C0029512,Other and unspecified noninfectious gastroenteritis and colitis,Concept,,
+C0154246,"Urea Cycle Disorders, Inborn",Concept,,
+C0949168,Examination of participant in clinical trial,Concept,,
+C0481850,Observation for other specified suspected conditions,Concept,,
+C0009806,Constipation,Concept,HP:0002019,Constipation
+C0260761,Encounter for attention to gastrostomy,Concept,,
+C0003537,Aphasia,Concept,HP:0002381,Aphasia
+C0260760,Encounter for attention to tracheostomy,Concept,,
+C0375807,Personal history of other specified urinary system disorders,Concept,,
+C0158352,"Muscle, ligament and fascia disorders",Concept,,
+C1263846,Attention deficit hyperactivity disorder,Concept,HP:0007018,Attention deficit hyperactivity disorder
+C0155336,Esotropia with accommodative compensation,Concept,,
+C0038436,Post-Traumatic Stress Disorder,Concept,,
+C0039685,Tetralogy of Fallot,Concept,HP:0001636,Tetralogy of Fallot
+C0477458,Other specified hearing loss,Concept,,
+C0000908,Accident caused by caustic and corrosive substances,Concept,,
+C0022661,"Kidney Failure, Chronic",Concept,,
+C0155546,Middle ear conductive hearing loss,Concept,,
+C0375530,congenital obstruction of ureteropelvic junction,Concept,,
+C0375531,,,,
+C0158621,Congenital subaortic stenosis,Concept,,
+C0575081,Gait abnormality,Concept,HP:0001288,Gait disturbance
+C0677491,Encounter due to Kidney transplanted,Concept,,
+C0027765,nervous system disorder,Concept,,
+C0154713,"Partial epilepsy, with impairment of consciousness, with intractable epilepsy",Concept,,
+C0155427,Other and unspecified chronic nonsuppurative otitis media,Concept,,
+C0154710,"Generalized convulsive epilepsy, with intractable epilepsy",Concept,,
+C0155422,"Chronic serous otitis media, simple or unspecified",Concept,,
+C0154716,"Infantile spasms, with intractable epilepsy",Concept,,
+C0154715,"Infantile spasms, without mention of intractable epilepsy",Concept,,
+C0260363,Need for prophylactic vaccination and inoculation against typhoid-paratyphoid alone [TAB],Concept,,
+C0478550,Need for immunization against other single bacterial diseases,Concept,,
+C0302371,"Other and unspecified special symptoms or syndromes, NEC in ICD9CM_2014",Concept,,
+C0478000,Other congenital malformations of aorta,Concept,,
+C0000737,Abdominal Pain,Concept,HP:0002027,Abdominal pain
+C0007570,Celiac Disease,Concept,HP:0012538,Gluten intolerance
+C1879328,Blindness both eyes NOS (disorder),Concept,,
+C0395861,Acute suppurative otitis media without spontaneous rupture of ear drum,Concept,,
+C0015222,Encounter due to examination of ears and hearing,Concept,,
+C0424605,Developmental delay (disorder),Concept,,
+C0009951,,,,
+C0411175,Fetal or neonatal effect of maternal medical problem,Concept,,
+C0302467,Congenital anomaly of aorta,Concept,,
+C0026265,Diseases of mitral valve,Concept,,
+C2910943,Encounter for therapeutic drug level monitoring,Concept,,
+C1301937,Talipes,Concept,HP:0001883,Talipes
+C0158618,Congenital stenosis of mitral valve,Concept,HP:0011570,Congenital mitral stenosis
+C0158619,Congenital insufficiency of mitral valve,Concept,,
+C0311394,Difficulty walking,Concept,HP:0002355,Difficulty walking
+C0018812,Health status influenced by heart transplant,Concept,,
+C0029581,Other disease of nasal cavity and sinuses,Concept,,
+C0158617,Congenital insufficiency of aortic valve,Concept,,
+C0159036,Other symptoms involving nervous and musculoskeletal systems,Concept,,
+C0011168,Deglutition Disorders,Concept,HP:0002015,Dysphagia
+C0037785,Specific developmental disorder,Concept,,
+C0041970,Urethral fistula,Concept,HP:0010480,Urethral fistula
+C0340629,Aortic aneurysm without mention of rupture NOS,Concept,,
+C1719382,Acquired torsion dystonia,Concept,,
+C0375871,Long-term (current) use of other medications,Concept,,
+C0154714,"Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures, without mention of intractable epilepsy",Concept,,
+C0302412,"Mechanical complication due to other implant and internal device, not elsewhere classified",Concept,,
+C1971612,Encounter for occupational therapy in ICD9CM,Concept,,
+C0152417,Congenital stenosis of aortic valve,Concept,,
+C0154722,"Epilepsy, unspecified, with intractable epilepsy",Concept,,
+C0271468,Eustachian tube disorder,Concept,,
+C0154721,"Epilepsy, unspecified, without mention of intractable epilepsy",Concept,,
+C0270805,Hemiplegic cerebral palsy,Concept,,
+C0009081,Congenital clubfoot,Concept,HP:0001762,Talipes equinovarus
+C1456326,Selective mutism specific to childhood and adolescence,Concept,,
+C1456327,,,,
+C0013415,Dysthymic Disorder,Concept,,
+C0261579,"Surgical operation with implant of artificial internal device causing abnormal patient reaction, or later complication,without mention of misadventure at time of operation",Concept,,
+C0029806,Other specified infantile cerebral palsy,Concept,,
+C1456428,Unspecified persistent mental disorders due to conditions classified elsewhere,Concept,,
+C0236826,Developmental expressive language disorder,Concept,,
+C1455977,aftercare following organ transplant,Concept,,
+C0013080,Down Syndrome,Concept,,
+C0392549,Infantile cerebral palsy,Concept,,
+C0877845,"Screening for other and unspecified endocrine, nutritional, metabolic, and immunity disorders",Concept,,
+C0029882,Otitis Media,Concept,HP:0000388,Otitis media
+C0159047,Symbolic dysfunction,Concept,,
+C0375026,Viral and chlamydial infection in conditions classified elsewhere and of unspecified site,Concept,,
+C1135241,Weeks pregnant,Concept,,
+C3161331,Unspecified intellectual disabilities,Concept,,
+C0478145,Other and unspecified symbolic dysfunctions,Concept,,
+C0478144,Other and unspecified speech disturbances,Concept,,
+C0037317,Sleep disturbances,Concept,HP:0002360,Sleep disturbance
+C0159099,Nonspecific abnormal electroencephalogram (EEG),Concept,,
+C0490011,Other convulsions,Concept,,
+C0079157,Reduction deformities of brain,Concept,,
+C0154632,Developmental speech or language disorder,Concept,,
+C0154633,Other developmental speech or language disorder,Concept,,
+C0154634,Mixed development disorder,Concept,,
+C0154635,Other specified delays in development,Concept,,
+C0375895,Pre-operative respiratory examination,Concept,,
+C0021092,Impacted cerumen,Concept,HP:0030788,Impacted cerumen
+C0042798,Low Vision,Concept,,
+C0014116,Endocardial Cushion Defects,Concept,,
+C1456434,Episodic mood disorder,Concept,,
+C0154451,"Other specified pervasive developmental disorders, current or active state",Concept,,
+C0338982,Other specific developmental learning difficulties,Concept,,
+C0029652,Other kyphoscoliosis and scoliosis,Concept,,
+C0010417,Cryptorchidism,Concept,HP:0000028,Cryptorchidism
+C0154697,"Cerebral Palsy, Quadriplegic, Infantile",Concept,,
+C0154694,"Hemiplegia, Spastic",Concept,HP:0011099,Spastic hemiparesis
+C0154695,Diplegic Infantile Cerebral Palsy,Concept,,
+C0869240,Burn of unspecified degree of nose (septum),Concept,,
+C0036689,Streptococcal sore throat,Concept,,
+C0018939,Hematological Disease,Concept,,
+C0878691,Dementia in conditions classified elsewhere without behavioral disturbance,Concept,,
+C0014877,Esotropia,Concept,HP:0000565,Esotropia
+C0878753,Unspecified lack of expected normal physiological development in childhood,Concept,,
+C0024796,Marfan Syndrome,Concept,,
+C0011334,Dental caries,Concept,HP:0000670,Carious teeth
+C0159028,General symptom,Concept,,
+C0040517,Gilles de la Tourette syndrome,Concept,,
+C0019693,HIV Infections,Concept,,
+C0476555,Need for immunization against viral hepatitis,Concept,,
+C0029488,Other acute reactions to stress,Concept,,
+C0840927,Neurologic neglect syndrome,Concept,,
+C2349675,Fever and other physiologic disturbances of temperature regulation,Concept,,
+C0154623,Unspecified emotional disturbance of childhood or adolescence,Concept,,
+C0018818,Ventricular Septal Defects,Concept,HP:0001629,Ventricular septal defect
+C0348773,Encounter for other specified counseling,Concept,,
+C0221539,Transient alteration of awareness,Concept,,
+C0007235,Physical therapy NEC in ICD9CM_2014,Concept,,
+C0154453,"Unspecified childhood psychosis, current or active state",Concept,,
+C1260452,Need for prophylactic vaccination and inoculation against influenza,Concept,,
+C0004106,Astigmatism,Concept,HP:0000483,Astigmatism
+C1260454,Need for prophylactic vaccination and inoculation against other viral diseases,Concept,,
+C0700613,Anxiety state,Concept,,
+C0004352,Autistic Disorder,Concept,HP:0000717,Autism
